@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2025-11-18T20:27:17.238454+00:00",
+    "generated_at": "2025-11-18T21:52:37.971087+00:00",
     "data_source": "Yahoo Finance (yfinance)",
     "universe": "S&P 500",
     "total_stocks": 503,
@@ -23,3517 +23,3517 @@
     "statistics": "Summary statistics and trend analysis of the A/D line"
   },
   "statistics": {
-    "current_value": 13585.0,
-    "ma_20": 13860.35,
-    "ma_50": 13755.34,
-    "change_5_days": -524.0,
-    "change_20_days": -587.0,
-    "change_60_days": 88.0,
+    "current_value": 13565.0,
+    "ma_20": 13905.2,
+    "ma_50": 13798.38,
+    "change_5_days": -587.0,
+    "change_20_days": -662.0,
+    "change_60_days": 20.0,
     "trend": "Declining (bearish breadth)",
-    "min_value": -22.0,
-    "max_value": 14293.0,
+    "min_value": -21.0,
+    "max_value": 14352.0,
     "days_tracked": 500
   },
   "data": [
     {
       "date": "2023-11-21",
-      "advances": 235,
-      "declines": 257,
-      "net_advances": -22,
-      "ad_line": -22.0
+      "advances": 238,
+      "declines": 259,
+      "net_advances": -21,
+      "ad_line": -21.0
     },
     {
       "date": "2023-11-22",
-      "advances": 388,
-      "declines": 104,
-      "net_advances": 284,
-      "ad_line": 262.0
+      "advances": 392,
+      "declines": 106,
+      "net_advances": 286,
+      "ad_line": 265.0
     },
     {
       "date": "2023-11-24",
-      "advances": 377,
-      "declines": 114,
-      "net_advances": 263,
-      "ad_line": 525.0
+      "advances": 382,
+      "declines": 115,
+      "net_advances": 267,
+      "ad_line": 532.0
     },
     {
       "date": "2023-11-27",
-      "advances": 179,
-      "declines": 311,
+      "advances": 182,
+      "declines": 314,
       "net_advances": -132,
-      "ad_line": 393.0
+      "ad_line": 400.0
     },
     {
       "date": "2023-11-28",
-      "advances": 221,
-      "declines": 269,
-      "net_advances": -48,
-      "ad_line": 345.0
+      "advances": 222,
+      "declines": 274,
+      "net_advances": -52,
+      "ad_line": 348.0
     },
     {
       "date": "2023-11-29",
-      "advances": 279,
-      "declines": 211,
+      "advances": 282,
+      "declines": 214,
       "net_advances": 68,
-      "ad_line": 413.0
+      "ad_line": 416.0
     },
     {
       "date": "2023-11-30",
-      "advances": 392,
-      "declines": 96,
-      "net_advances": 296,
-      "ad_line": 709.0
+      "advances": 396,
+      "declines": 98,
+      "net_advances": 298,
+      "ad_line": 714.0
     },
     {
       "date": "2023-12-01",
-      "advances": 424,
+      "advances": 430,
       "declines": 68,
-      "net_advances": 356,
-      "ad_line": 1065.0
+      "net_advances": 362,
+      "ad_line": 1076.0
     },
     {
       "date": "2023-12-04",
-      "advances": 248,
-      "declines": 243,
+      "advances": 251,
+      "declines": 246,
       "net_advances": 5,
-      "ad_line": 1070.0
+      "ad_line": 1081.0
     },
     {
       "date": "2023-12-05",
       "advances": 95,
-      "declines": 395,
-      "net_advances": -300,
-      "ad_line": 770.0
+      "declines": 401,
+      "net_advances": -306,
+      "ad_line": 775.0
     },
     {
       "date": "2023-12-06",
-      "advances": 262,
-      "declines": 229,
-      "net_advances": 33,
-      "ad_line": 803.0
+      "advances": 266,
+      "declines": 231,
+      "net_advances": 35,
+      "ad_line": 810.0
     },
     {
       "date": "2023-12-07",
-      "advances": 320,
-      "declines": 169,
+      "advances": 323,
+      "declines": 172,
       "net_advances": 151,
-      "ad_line": 954.0
+      "ad_line": 961.0
     },
     {
       "date": "2023-12-08",
-      "advances": 303,
-      "declines": 186,
-      "net_advances": 117,
-      "ad_line": 1071.0
+      "advances": 305,
+      "declines": 190,
+      "net_advances": 115,
+      "ad_line": 1076.0
     },
     {
       "date": "2023-12-11",
-      "advances": 384,
-      "declines": 105,
-      "net_advances": 279,
-      "ad_line": 1350.0
+      "advances": 389,
+      "declines": 106,
+      "net_advances": 283,
+      "ad_line": 1359.0
     },
     {
       "date": "2023-12-12",
-      "advances": 305,
-      "declines": 186,
-      "net_advances": 119,
-      "ad_line": 1469.0
+      "advances": 307,
+      "declines": 190,
+      "net_advances": 117,
+      "ad_line": 1476.0
     },
     {
       "date": "2023-12-13",
-      "advances": 441,
+      "advances": 447,
       "declines": 52,
-      "net_advances": 389,
-      "ad_line": 1858.0
+      "net_advances": 395,
+      "ad_line": 1871.0
     },
     {
       "date": "2023-12-14",
-      "advances": 317,
-      "declines": 175,
-      "net_advances": 142,
-      "ad_line": 2000.0
+      "advances": 322,
+      "declines": 176,
+      "net_advances": 146,
+      "ad_line": 2017.0
     },
     {
       "date": "2023-12-15",
-      "advances": 130,
-      "declines": 361,
-      "net_advances": -231,
-      "ad_line": 1769.0
+      "advances": 131,
+      "declines": 366,
+      "net_advances": -235,
+      "ad_line": 1782.0
     },
     {
       "date": "2023-12-18",
-      "advances": 290,
-      "declines": 200,
-      "net_advances": 90,
-      "ad_line": 1859.0
+      "advances": 294,
+      "declines": 202,
+      "net_advances": 92,
+      "ad_line": 1874.0
     },
     {
       "date": "2023-12-19",
-      "advances": 387,
-      "declines": 103,
-      "net_advances": 284,
-      "ad_line": 2143.0
+      "advances": 392,
+      "declines": 104,
+      "net_advances": 288,
+      "ad_line": 2162.0
     },
     {
       "date": "2023-12-20",
       "advances": 20,
-      "declines": 473,
-      "net_advances": -453,
-      "ad_line": 1690.0
+      "declines": 479,
+      "net_advances": -459,
+      "ad_line": 1703.0
     },
     {
       "date": "2023-12-21",
-      "advances": 447,
-      "declines": 42,
-      "net_advances": 405,
-      "ad_line": 2095.0
+      "advances": 452,
+      "declines": 43,
+      "net_advances": 409,
+      "ad_line": 2112.0
     },
     {
       "date": "2023-12-22",
-      "advances": 359,
-      "declines": 127,
-      "net_advances": 232,
-      "ad_line": 2327.0
+      "advances": 364,
+      "declines": 128,
+      "net_advances": 236,
+      "ad_line": 2348.0
     },
     {
       "date": "2023-12-26",
-      "advances": 405,
-      "declines": 86,
-      "net_advances": 319,
-      "ad_line": 2646.0
+      "advances": 409,
+      "declines": 88,
+      "net_advances": 321,
+      "ad_line": 2669.0
     },
     {
       "date": "2023-12-27",
-      "advances": 300,
-      "declines": 190,
-      "net_advances": 110,
-      "ad_line": 2756.0
+      "advances": 304,
+      "declines": 192,
+      "net_advances": 112,
+      "ad_line": 2781.0
     },
     {
       "date": "2023-12-28",
-      "advances": 327,
-      "declines": 163,
-      "net_advances": 164,
-      "ad_line": 2920.0
+      "advances": 331,
+      "declines": 165,
+      "net_advances": 166,
+      "ad_line": 2947.0
     },
     {
       "date": "2023-12-29",
-      "advances": 146,
-      "declines": 340,
-      "net_advances": -194,
-      "ad_line": 2726.0
+      "advances": 147,
+      "declines": 345,
+      "net_advances": -198,
+      "ad_line": 2749.0
     },
     {
       "date": "2024-01-02",
-      "advances": 247,
-      "declines": 246,
-      "net_advances": 1,
-      "ad_line": 2727.0
+      "advances": 251,
+      "declines": 248,
+      "net_advances": 3,
+      "ad_line": 2752.0
     },
     {
       "date": "2024-01-03",
-      "advances": 105,
-      "declines": 386,
-      "net_advances": -281,
-      "ad_line": 2446.0
+      "advances": 107,
+      "declines": 390,
+      "net_advances": -283,
+      "ad_line": 2469.0
     },
     {
       "date": "2024-01-04",
-      "advances": 252,
-      "declines": 239,
-      "net_advances": 13,
-      "ad_line": 2459.0
+      "advances": 254,
+      "declines": 243,
+      "net_advances": 11,
+      "ad_line": 2480.0
     },
     {
       "date": "2024-01-05",
-      "advances": 272,
-      "declines": 217,
-      "net_advances": 55,
-      "ad_line": 2514.0
+      "advances": 276,
+      "declines": 219,
+      "net_advances": 57,
+      "ad_line": 2537.0
     },
     {
       "date": "2024-01-08",
-      "advances": 412,
-      "declines": 79,
-      "net_advances": 333,
-      "ad_line": 2847.0
+      "advances": 416,
+      "declines": 81,
+      "net_advances": 335,
+      "ad_line": 2872.0
     },
     {
       "date": "2024-01-09",
-      "advances": 150,
-      "declines": 341,
-      "net_advances": -191,
-      "ad_line": 2656.0
+      "advances": 152,
+      "declines": 345,
+      "net_advances": -193,
+      "ad_line": 2679.0
     },
     {
       "date": "2024-01-10",
-      "advances": 279,
-      "declines": 212,
-      "net_advances": 67,
-      "ad_line": 2723.0
+      "advances": 281,
+      "declines": 216,
+      "net_advances": 65,
+      "ad_line": 2744.0
     },
     {
       "date": "2024-01-11",
-      "advances": 218,
-      "declines": 271,
+      "advances": 221,
+      "declines": 274,
       "net_advances": -53,
-      "ad_line": 2670.0
+      "ad_line": 2691.0
     },
     {
       "date": "2024-01-12",
-      "advances": 265,
-      "declines": 225,
+      "advances": 268,
+      "declines": 228,
       "net_advances": 40,
-      "ad_line": 2710.0
+      "ad_line": 2731.0
     },
     {
       "date": "2024-01-16",
       "advances": 140,
-      "declines": 349,
-      "net_advances": -209,
-      "ad_line": 2501.0
+      "declines": 355,
+      "net_advances": -215,
+      "ad_line": 2516.0
     },
     {
       "date": "2024-01-17",
-      "advances": 107,
-      "declines": 384,
-      "net_advances": -277,
-      "ad_line": 2224.0
+      "advances": 109,
+      "declines": 388,
+      "net_advances": -279,
+      "ad_line": 2237.0
     },
     {
       "date": "2024-01-18",
-      "advances": 328,
-      "declines": 162,
-      "net_advances": 166,
-      "ad_line": 2390.0
+      "advances": 333,
+      "declines": 163,
+      "net_advances": 170,
+      "ad_line": 2407.0
     },
     {
       "date": "2024-01-19",
-      "advances": 368,
-      "declines": 124,
+      "advances": 371,
+      "declines": 127,
       "net_advances": 244,
-      "ad_line": 2634.0
+      "ad_line": 2651.0
     },
     {
       "date": "2024-01-22",
-      "advances": 351,
-      "declines": 139,
-      "net_advances": 212,
-      "ad_line": 2846.0
+      "advances": 355,
+      "declines": 141,
+      "net_advances": 214,
+      "ad_line": 2865.0
     },
     {
       "date": "2024-01-23",
-      "advances": 263,
-      "declines": 228,
+      "advances": 266,
+      "declines": 231,
       "net_advances": 35,
-      "ad_line": 2881.0
+      "ad_line": 2900.0
     },
     {
       "date": "2024-01-24",
-      "advances": 139,
-      "declines": 349,
+      "advances": 142,
+      "declines": 352,
       "net_advances": -210,
-      "ad_line": 2671.0
+      "ad_line": 2690.0
     },
     {
       "date": "2024-01-25",
-      "advances": 385,
-      "declines": 106,
-      "net_advances": 279,
-      "ad_line": 2950.0
+      "advances": 389,
+      "declines": 108,
+      "net_advances": 281,
+      "ad_line": 2971.0
     },
     {
       "date": "2024-01-26",
-      "advances": 267,
-      "declines": 225,
-      "net_advances": 42,
-      "ad_line": 2992.0
+      "advances": 272,
+      "declines": 226,
+      "net_advances": 46,
+      "ad_line": 3017.0
     },
     {
       "date": "2024-01-29",
-      "advances": 359,
+      "advances": 365,
       "declines": 132,
-      "net_advances": 227,
-      "ad_line": 3219.0
+      "net_advances": 233,
+      "ad_line": 3250.0
     },
     {
       "date": "2024-01-30",
-      "advances": 270,
-      "declines": 222,
+      "advances": 273,
+      "declines": 225,
       "net_advances": 48,
-      "ad_line": 3267.0
+      "ad_line": 3298.0
     },
     {
       "date": "2024-01-31",
-      "advances": 78,
-      "declines": 411,
-      "net_advances": -333,
-      "ad_line": 2934.0
+      "advances": 80,
+      "declines": 415,
+      "net_advances": -335,
+      "ad_line": 2963.0
     },
     {
       "date": "2024-02-01",
-      "advances": 395,
-      "declines": 96,
-      "net_advances": 299,
-      "ad_line": 3233.0
+      "advances": 399,
+      "declines": 98,
+      "net_advances": 301,
+      "ad_line": 3264.0
     },
     {
       "date": "2024-02-02",
-      "advances": 231,
-      "declines": 258,
-      "net_advances": -27,
-      "ad_line": 3206.0
+      "advances": 232,
+      "declines": 263,
+      "net_advances": -31,
+      "ad_line": 3233.0
     },
     {
       "date": "2024-02-05",
-      "advances": 87,
-      "declines": 405,
+      "advances": 90,
+      "declines": 408,
       "net_advances": -318,
-      "ad_line": 2888.0
+      "ad_line": 2915.0
     },
     {
       "date": "2024-02-06",
-      "advances": 341,
-      "declines": 146,
-      "net_advances": 195,
-      "ad_line": 3083.0
+      "advances": 345,
+      "declines": 148,
+      "net_advances": 197,
+      "ad_line": 3112.0
     },
     {
       "date": "2024-02-07",
-      "advances": 316,
-      "declines": 173,
-      "net_advances": 143,
-      "ad_line": 3226.0
+      "advances": 321,
+      "declines": 174,
+      "net_advances": 147,
+      "ad_line": 3259.0
     },
     {
       "date": "2024-02-08",
-      "advances": 268,
-      "declines": 224,
-      "net_advances": 44,
-      "ad_line": 3270.0
+      "advances": 273,
+      "declines": 225,
+      "net_advances": 48,
+      "ad_line": 3307.0
     },
     {
       "date": "2024-02-09",
-      "advances": 309,
-      "declines": 182,
+      "advances": 312,
+      "declines": 185,
       "net_advances": 127,
-      "ad_line": 3397.0
+      "ad_line": 3434.0
     },
     {
       "date": "2024-02-12",
-      "advances": 318,
-      "declines": 172,
+      "advances": 321,
+      "declines": 175,
       "net_advances": 146,
-      "ad_line": 3543.0
+      "ad_line": 3580.0
     },
     {
       "date": "2024-02-13",
       "advances": 58,
-      "declines": 434,
-      "net_advances": -376,
-      "ad_line": 3167.0
+      "declines": 440,
+      "net_advances": -382,
+      "ad_line": 3198.0
     },
     {
       "date": "2024-02-14",
-      "advances": 386,
-      "declines": 102,
-      "net_advances": 284,
-      "ad_line": 3451.0
+      "advances": 390,
+      "declines": 104,
+      "net_advances": 286,
+      "ad_line": 3484.0
     },
     {
       "date": "2024-02-15",
-      "advances": 405,
-      "declines": 85,
-      "net_advances": 320,
-      "ad_line": 3771.0
+      "advances": 409,
+      "declines": 87,
+      "net_advances": 322,
+      "ad_line": 3806.0
     },
     {
       "date": "2024-02-16",
       "advances": 173,
-      "declines": 316,
-      "net_advances": -143,
-      "ad_line": 3628.0
+      "declines": 321,
+      "net_advances": -148,
+      "ad_line": 3658.0
     },
     {
       "date": "2024-02-20",
-      "advances": 193,
-      "declines": 298,
-      "net_advances": -105,
-      "ad_line": 3523.0
+      "advances": 195,
+      "declines": 302,
+      "net_advances": -107,
+      "ad_line": 3551.0
     },
     {
       "date": "2024-02-21",
-      "advances": 317,
-      "declines": 174,
+      "advances": 320,
+      "declines": 177,
       "net_advances": 143,
-      "ad_line": 3666.0
+      "ad_line": 3694.0
     },
     {
       "date": "2024-02-22",
-      "advances": 371,
-      "declines": 121,
-      "net_advances": 250,
-      "ad_line": 3916.0
+      "advances": 375,
+      "declines": 123,
+      "net_advances": 252,
+      "ad_line": 3946.0
     },
     {
       "date": "2024-02-23",
-      "advances": 331,
-      "declines": 157,
+      "advances": 334,
+      "declines": 160,
       "net_advances": 174,
-      "ad_line": 4090.0
+      "ad_line": 4120.0
     },
     {
       "date": "2024-02-26",
-      "advances": 163,
-      "declines": 326,
-      "net_advances": -163,
-      "ad_line": 3927.0
+      "advances": 165,
+      "declines": 330,
+      "net_advances": -165,
+      "ad_line": 3955.0
     },
     {
       "date": "2024-02-27",
-      "advances": 308,
-      "declines": 183,
-      "net_advances": 125,
-      "ad_line": 4052.0
+      "advances": 311,
+      "declines": 185,
+      "net_advances": 126,
+      "ad_line": 4081.0
     },
     {
       "date": "2024-02-28",
-      "advances": 254,
-      "declines": 236,
-      "net_advances": 18,
-      "ad_line": 4070.0
+      "advances": 258,
+      "declines": 238,
+      "net_advances": 20,
+      "ad_line": 4101.0
     },
     {
       "date": "2024-02-29",
-      "advances": 314,
-      "declines": 174,
-      "net_advances": 140,
-      "ad_line": 4210.0
+      "advances": 318,
+      "declines": 176,
+      "net_advances": 142,
+      "ad_line": 4243.0
     },
     {
       "date": "2024-03-01",
-      "advances": 299,
-      "declines": 193,
+      "advances": 302,
+      "declines": 196,
       "net_advances": 106,
-      "ad_line": 4316.0
+      "ad_line": 4349.0
     },
     {
       "date": "2024-03-04",
-      "advances": 299,
-      "declines": 193,
-      "net_advances": 106,
-      "ad_line": 4422.0
+      "advances": 300,
+      "declines": 198,
+      "net_advances": 102,
+      "ad_line": 4451.0
     },
     {
       "date": "2024-03-05",
-      "advances": 171,
-      "declines": 318,
-      "net_advances": -147,
-      "ad_line": 4275.0
+      "advances": 172,
+      "declines": 323,
+      "net_advances": -151,
+      "ad_line": 4300.0
     },
     {
       "date": "2024-03-06",
-      "advances": 365,
-      "declines": 126,
-      "net_advances": 239,
-      "ad_line": 4514.0
+      "advances": 370,
+      "declines": 127,
+      "net_advances": 243,
+      "ad_line": 4543.0
     },
     {
       "date": "2024-03-07",
-      "advances": 360,
-      "declines": 132,
+      "advances": 363,
+      "declines": 135,
       "net_advances": 228,
-      "ad_line": 4742.0
+      "ad_line": 4771.0
     },
     {
       "date": "2024-03-08",
-      "advances": 238,
-      "declines": 252,
-      "net_advances": -14,
-      "ad_line": 4728.0
+      "advances": 243,
+      "declines": 253,
+      "net_advances": -10,
+      "ad_line": 4761.0
     },
     {
       "date": "2024-03-11",
-      "advances": 277,
-      "declines": 214,
+      "advances": 280,
+      "declines": 217,
       "net_advances": 63,
-      "ad_line": 4791.0
+      "ad_line": 4824.0
     },
     {
       "date": "2024-03-12",
-      "advances": 297,
-      "declines": 193,
-      "net_advances": 104,
-      "ad_line": 4895.0
+      "advances": 299,
+      "declines": 197,
+      "net_advances": 102,
+      "ad_line": 4926.0
     },
     {
       "date": "2024-03-13",
-      "advances": 265,
-      "declines": 225,
+      "advances": 268,
+      "declines": 228,
       "net_advances": 40,
-      "ad_line": 4935.0
+      "ad_line": 4966.0
     },
     {
       "date": "2024-03-14",
-      "advances": 112,
-      "declines": 378,
-      "net_advances": -266,
-      "ad_line": 4669.0
+      "advances": 114,
+      "declines": 382,
+      "net_advances": -268,
+      "ad_line": 4698.0
     },
     {
       "date": "2024-03-15",
-      "advances": 224,
-      "declines": 267,
+      "advances": 227,
+      "declines": 270,
       "net_advances": -43,
-      "ad_line": 4626.0
+      "ad_line": 4655.0
     },
     {
       "date": "2024-03-18",
-      "advances": 303,
-      "declines": 188,
-      "net_advances": 115,
-      "ad_line": 4741.0
+      "advances": 308,
+      "declines": 189,
+      "net_advances": 119,
+      "ad_line": 4774.0
     },
     {
       "date": "2024-03-19",
-      "advances": 376,
-      "declines": 113,
-      "net_advances": 263,
-      "ad_line": 5004.0
+      "advances": 380,
+      "declines": 115,
+      "net_advances": 265,
+      "ad_line": 5039.0
     },
     {
       "date": "2024-03-20",
-      "advances": 373,
-      "declines": 116,
+      "advances": 376,
+      "declines": 119,
       "net_advances": 257,
-      "ad_line": 5261.0
+      "ad_line": 5296.0
     },
     {
       "date": "2024-03-21",
-      "advances": 369,
-      "declines": 122,
-      "net_advances": 247,
-      "ad_line": 5508.0
+      "advances": 373,
+      "declines": 124,
+      "net_advances": 249,
+      "ad_line": 5545.0
     },
     {
       "date": "2024-03-22",
-      "advances": 121,
-      "declines": 367,
-      "net_advances": -246,
-      "ad_line": 5262.0
+      "advances": 124,
+      "declines": 369,
+      "net_advances": -245,
+      "ad_line": 5300.0
     },
     {
       "date": "2024-03-25",
-      "advances": 181,
-      "declines": 307,
-      "net_advances": -126,
-      "ad_line": 5136.0
+      "advances": 186,
+      "declines": 308,
+      "net_advances": -122,
+      "ad_line": 5178.0
     },
     {
       "date": "2024-03-26",
-      "advances": 220,
-      "declines": 266,
-      "net_advances": -46,
-      "ad_line": 5090.0
+      "advances": 222,
+      "declines": 270,
+      "net_advances": -48,
+      "ad_line": 5130.0
     },
     {
       "date": "2024-03-27",
-      "advances": 439,
-      "declines": 54,
-      "net_advances": 385,
-      "ad_line": 5475.0
+      "advances": 444,
+      "declines": 55,
+      "net_advances": 389,
+      "ad_line": 5519.0
     },
     {
       "date": "2024-03-28",
-      "advances": 357,
-      "declines": 137,
-      "net_advances": 220,
-      "ad_line": 5695.0
+      "advances": 362,
+      "declines": 138,
+      "net_advances": 224,
+      "ad_line": 5743.0
     },
     {
       "date": "2024-04-01",
-      "advances": 134,
-      "declines": 359,
+      "advances": 137,
+      "declines": 362,
       "net_advances": -225,
-      "ad_line": 5470.0
+      "ad_line": 5518.0
     },
     {
       "date": "2024-04-02",
-      "advances": 104,
-      "declines": 389,
-      "net_advances": -285,
-      "ad_line": 5185.0
+      "advances": 105,
+      "declines": 394,
+      "net_advances": -289,
+      "ad_line": 5229.0
     },
     {
       "date": "2024-04-03",
-      "advances": 274,
-      "declines": 219,
-      "net_advances": 55,
-      "ad_line": 5240.0
+      "advances": 278,
+      "declines": 221,
+      "net_advances": 57,
+      "ad_line": 5286.0
     },
     {
       "date": "2024-04-04",
-      "advances": 67,
-      "declines": 425,
-      "net_advances": -358,
-      "ad_line": 4882.0
+      "advances": 69,
+      "declines": 429,
+      "net_advances": -360,
+      "ad_line": 4926.0
     },
     {
       "date": "2024-04-05",
-      "advances": 362,
+      "advances": 368,
       "declines": 132,
-      "net_advances": 230,
-      "ad_line": 5112.0
+      "net_advances": 236,
+      "ad_line": 5162.0
     },
     {
       "date": "2024-04-08",
-      "advances": 279,
-      "declines": 214,
-      "net_advances": 65,
-      "ad_line": 5177.0
+      "advances": 283,
+      "declines": 216,
+      "net_advances": 67,
+      "ad_line": 5229.0
     },
     {
       "date": "2024-04-09",
-      "advances": 312,
-      "declines": 180,
-      "net_advances": 132,
-      "ad_line": 5309.0
+      "advances": 317,
+      "declines": 181,
+      "net_advances": 136,
+      "ad_line": 5365.0
     },
     {
       "date": "2024-04-10",
-      "advances": 79,
-      "declines": 415,
-      "net_advances": -336,
-      "ad_line": 4973.0
+      "advances": 80,
+      "declines": 420,
+      "net_advances": -340,
+      "ad_line": 5025.0
     },
     {
       "date": "2024-04-11",
-      "advances": 238,
-      "declines": 256,
-      "net_advances": -18,
-      "ad_line": 4955.0
+      "advances": 239,
+      "declines": 261,
+      "net_advances": -22,
+      "ad_line": 5003.0
     },
     {
       "date": "2024-04-12",
       "advances": 44,
-      "declines": 448,
-      "net_advances": -404,
-      "ad_line": 4551.0
+      "declines": 454,
+      "net_advances": -410,
+      "ad_line": 4593.0
     },
     {
       "date": "2024-04-15",
-      "advances": 73,
-      "declines": 418,
-      "net_advances": -345,
-      "ad_line": 4206.0
+      "advances": 75,
+      "declines": 422,
+      "net_advances": -347,
+      "ad_line": 4246.0
     },
     {
       "date": "2024-04-16",
-      "advances": 157,
-      "declines": 335,
+      "advances": 160,
+      "declines": 338,
       "net_advances": -178,
-      "ad_line": 4028.0
+      "ad_line": 4068.0
     },
     {
       "date": "2024-04-17",
-      "advances": 201,
-      "declines": 293,
-      "net_advances": -92,
-      "ad_line": 3936.0
+      "advances": 202,
+      "declines": 298,
+      "net_advances": -96,
+      "ad_line": 3972.0
     },
     {
       "date": "2024-04-18",
-      "advances": 254,
-      "declines": 237,
+      "advances": 257,
+      "declines": 240,
       "net_advances": 17,
-      "ad_line": 3953.0
+      "ad_line": 3989.0
     },
     {
       "date": "2024-04-19",
-      "advances": 319,
-      "declines": 173,
-      "net_advances": 146,
-      "ad_line": 4099.0
+      "advances": 323,
+      "declines": 175,
+      "net_advances": 148,
+      "ad_line": 4137.0
     },
     {
       "date": "2024-04-22",
-      "advances": 407,
-      "declines": 82,
-      "net_advances": 325,
-      "ad_line": 4424.0
+      "advances": 412,
+      "declines": 83,
+      "net_advances": 329,
+      "ad_line": 4466.0
     },
     {
       "date": "2024-04-23",
-      "advances": 388,
-      "declines": 103,
-      "net_advances": 285,
-      "ad_line": 4709.0
+      "advances": 392,
+      "declines": 104,
+      "net_advances": 288,
+      "ad_line": 4754.0
     },
     {
       "date": "2024-04-24",
-      "advances": 275,
-      "declines": 217,
-      "net_advances": 58,
-      "ad_line": 4767.0
+      "advances": 279,
+      "declines": 219,
+      "net_advances": 60,
+      "ad_line": 4814.0
     },
     {
       "date": "2024-04-25",
-      "advances": 186,
-      "declines": 307,
-      "net_advances": -121,
-      "ad_line": 4646.0
+      "advances": 191,
+      "declines": 308,
+      "net_advances": -117,
+      "ad_line": 4697.0
     },
     {
       "date": "2024-04-26",
-      "advances": 262,
-      "declines": 230,
+      "advances": 265,
+      "declines": 233,
       "net_advances": 32,
-      "ad_line": 4678.0
+      "ad_line": 4729.0
     },
     {
       "date": "2024-04-29",
-      "advances": 352,
-      "declines": 140,
-      "net_advances": 212,
-      "ad_line": 4890.0
+      "advances": 357,
+      "declines": 141,
+      "net_advances": 216,
+      "ad_line": 4945.0
     },
     {
       "date": "2024-04-30",
-      "advances": 57,
-      "declines": 436,
-      "net_advances": -379,
-      "ad_line": 4511.0
+      "advances": 58,
+      "declines": 440,
+      "net_advances": -382,
+      "ad_line": 4563.0
     },
     {
       "date": "2024-05-01",
       "advances": 239,
-      "declines": 253,
-      "net_advances": -14,
-      "ad_line": 4497.0
+      "declines": 259,
+      "net_advances": -20,
+      "ad_line": 4543.0
     },
     {
       "date": "2024-05-02",
-      "advances": 352,
+      "advances": 358,
       "declines": 142,
-      "net_advances": 210,
-      "ad_line": 4707.0
+      "net_advances": 216,
+      "ad_line": 4759.0
     },
     {
       "date": "2024-05-03",
-      "advances": 369,
-      "declines": 123,
-      "net_advances": 246,
-      "ad_line": 4953.0
+      "advances": 373,
+      "declines": 125,
+      "net_advances": 248,
+      "ad_line": 5007.0
     },
     {
       "date": "2024-05-06",
-      "advances": 383,
-      "declines": 109,
+      "advances": 386,
+      "declines": 112,
       "net_advances": 274,
-      "ad_line": 5227.0
+      "ad_line": 5281.0
     },
     {
       "date": "2024-05-07",
-      "advances": 318,
-      "declines": 175,
-      "net_advances": 143,
-      "ad_line": 5370.0
+      "advances": 323,
+      "declines": 176,
+      "net_advances": 147,
+      "ad_line": 5428.0
     },
     {
       "date": "2024-05-08",
-      "advances": 244,
-      "declines": 249,
-      "net_advances": -5,
-      "ad_line": 5365.0
+      "advances": 245,
+      "declines": 254,
+      "net_advances": -9,
+      "ad_line": 5419.0
     },
     {
       "date": "2024-05-09",
-      "advances": 404,
+      "advances": 410,
       "declines": 91,
-      "net_advances": 313,
-      "ad_line": 5678.0
+      "net_advances": 319,
+      "ad_line": 5738.0
     },
     {
       "date": "2024-05-10",
-      "advances": 296,
-      "declines": 192,
-      "net_advances": 104,
-      "ad_line": 5782.0
+      "advances": 300,
+      "declines": 194,
+      "net_advances": 106,
+      "ad_line": 5844.0
     },
     {
       "date": "2024-05-13",
-      "advances": 210,
-      "declines": 280,
-      "net_advances": -70,
-      "ad_line": 5712.0
+      "advances": 212,
+      "declines": 284,
+      "net_advances": -72,
+      "ad_line": 5772.0
     },
     {
       "date": "2024-05-14",
-      "advances": 309,
+      "advances": 315,
       "declines": 182,
-      "net_advances": 127,
-      "ad_line": 5839.0
+      "net_advances": 133,
+      "ad_line": 5905.0
     },
     {
       "date": "2024-05-15",
-      "advances": 361,
-      "declines": 130,
-      "net_advances": 231,
-      "ad_line": 6070.0
+      "advances": 366,
+      "declines": 131,
+      "net_advances": 235,
+      "ad_line": 6140.0
     },
     {
       "date": "2024-05-16",
-      "advances": 221,
-      "declines": 266,
+      "advances": 224,
+      "declines": 269,
       "net_advances": -45,
-      "ad_line": 6025.0
+      "ad_line": 6095.0
     },
     {
       "date": "2024-05-17",
-      "advances": 295,
-      "declines": 197,
-      "net_advances": 98,
-      "ad_line": 6123.0
+      "advances": 297,
+      "declines": 201,
+      "net_advances": 96,
+      "ad_line": 6191.0
     },
     {
       "date": "2024-05-20",
-      "advances": 222,
-      "declines": 269,
-      "net_advances": -47,
-      "ad_line": 6076.0
+      "advances": 223,
+      "declines": 274,
+      "net_advances": -51,
+      "ad_line": 6140.0
     },
     {
       "date": "2024-05-21",
-      "advances": 250,
-      "declines": 241,
-      "net_advances": 9,
-      "ad_line": 6085.0
+      "advances": 254,
+      "declines": 243,
+      "net_advances": 11,
+      "ad_line": 6151.0
     },
     {
       "date": "2024-05-22",
-      "advances": 177,
-      "declines": 315,
-      "net_advances": -138,
-      "ad_line": 5947.0
+      "advances": 178,
+      "declines": 320,
+      "net_advances": -142,
+      "ad_line": 6009.0
     },
     {
       "date": "2024-05-23",
-      "advances": 57,
-      "declines": 438,
-      "net_advances": -381,
-      "ad_line": 5566.0
+      "advances": 58,
+      "declines": 443,
+      "net_advances": -385,
+      "ad_line": 5624.0
     },
     {
       "date": "2024-05-24",
-      "advances": 354,
-      "declines": 140,
+      "advances": 357,
+      "declines": 143,
       "net_advances": 214,
-      "ad_line": 5780.0
+      "ad_line": 5838.0
     },
     {
       "date": "2024-05-28",
-      "advances": 132,
-      "declines": 359,
-      "net_advances": -227,
-      "ad_line": 5553.0
+      "advances": 136,
+      "declines": 361,
+      "net_advances": -225,
+      "ad_line": 5613.0
     },
     {
       "date": "2024-05-29",
-      "advances": 59,
-      "declines": 434,
-      "net_advances": -375,
-      "ad_line": 5178.0
+      "advances": 61,
+      "declines": 438,
+      "net_advances": -377,
+      "ad_line": 5236.0
     },
     {
       "date": "2024-05-30",
-      "advances": 352,
-      "declines": 140,
-      "net_advances": 212,
-      "ad_line": 5390.0
+      "advances": 356,
+      "declines": 142,
+      "net_advances": 214,
+      "ad_line": 5450.0
     },
     {
       "date": "2024-05-31",
-      "advances": 406,
+      "advances": 412,
       "declines": 88,
-      "net_advances": 318,
-      "ad_line": 5708.0
+      "net_advances": 324,
+      "ad_line": 5774.0
     },
     {
       "date": "2024-06-03",
-      "advances": 172,
-      "declines": 320,
-      "net_advances": -148,
-      "ad_line": 5560.0
+      "advances": 174,
+      "declines": 324,
+      "net_advances": -150,
+      "ad_line": 5624.0
     },
     {
       "date": "2024-06-04",
-      "advances": 227,
-      "declines": 267,
-      "net_advances": -40,
-      "ad_line": 5520.0
+      "advances": 229,
+      "declines": 271,
+      "net_advances": -42,
+      "ad_line": 5582.0
     },
     {
       "date": "2024-06-05",
-      "advances": 321,
-      "declines": 171,
-      "net_advances": 150,
-      "ad_line": 5670.0
+      "advances": 325,
+      "declines": 173,
+      "net_advances": 152,
+      "ad_line": 5734.0
     },
     {
       "date": "2024-06-06",
-      "advances": 194,
-      "declines": 298,
+      "advances": 197,
+      "declines": 301,
       "net_advances": -104,
-      "ad_line": 5566.0
+      "ad_line": 5630.0
     },
     {
       "date": "2024-06-07",
-      "advances": 185,
-      "declines": 306,
+      "advances": 188,
+      "declines": 309,
       "net_advances": -121,
-      "ad_line": 5445.0
+      "ad_line": 5509.0
     },
     {
       "date": "2024-06-10",
-      "advances": 285,
-      "declines": 207,
-      "net_advances": 78,
-      "ad_line": 5523.0
+      "advances": 289,
+      "declines": 209,
+      "net_advances": 80,
+      "ad_line": 5589.0
     },
     {
       "date": "2024-06-11",
-      "advances": 177,
-      "declines": 313,
-      "net_advances": -136,
-      "ad_line": 5387.0
+      "advances": 178,
+      "declines": 318,
+      "net_advances": -140,
+      "ad_line": 5449.0
     },
     {
       "date": "2024-06-12",
-      "advances": 293,
-      "declines": 200,
-      "net_advances": 93,
-      "ad_line": 5480.0
+      "advances": 295,
+      "declines": 204,
+      "net_advances": 91,
+      "ad_line": 5540.0
     },
     {
       "date": "2024-06-13",
-      "advances": 181,
-      "declines": 309,
-      "net_advances": -128,
-      "ad_line": 5352.0
+      "advances": 183,
+      "declines": 313,
+      "net_advances": -130,
+      "ad_line": 5410.0
     },
     {
       "date": "2024-06-14",
-      "advances": 134,
-      "declines": 359,
-      "net_advances": -225,
-      "ad_line": 5127.0
+      "advances": 135,
+      "declines": 364,
+      "net_advances": -229,
+      "ad_line": 5181.0
     },
     {
       "date": "2024-06-17",
-      "advances": 355,
-      "declines": 138,
-      "net_advances": 217,
-      "ad_line": 5344.0
+      "advances": 360,
+      "declines": 139,
+      "net_advances": 221,
+      "ad_line": 5402.0
     },
     {
       "date": "2024-06-18",
-      "advances": 317,
-      "declines": 174,
-      "net_advances": 143,
-      "ad_line": 5487.0
+      "advances": 319,
+      "declines": 178,
+      "net_advances": 141,
+      "ad_line": 5543.0
     },
     {
       "date": "2024-06-20",
-      "advances": 284,
-      "declines": 210,
-      "net_advances": 74,
-      "ad_line": 5561.0
+      "advances": 286,
+      "declines": 214,
+      "net_advances": 72,
+      "ad_line": 5615.0
     },
     {
       "date": "2024-06-21",
-      "advances": 288,
-      "declines": 204,
-      "net_advances": 84,
-      "ad_line": 5645.0
+      "advances": 293,
+      "declines": 205,
+      "net_advances": 88,
+      "ad_line": 5703.0
     },
     {
       "date": "2024-06-24",
-      "advances": 347,
-      "declines": 145,
+      "advances": 350,
+      "declines": 148,
       "net_advances": 202,
-      "ad_line": 5847.0
+      "ad_line": 5905.0
     },
     {
       "date": "2024-06-25",
-      "advances": 122,
-      "declines": 369,
-      "net_advances": -247,
-      "ad_line": 5600.0
+      "advances": 123,
+      "declines": 374,
+      "net_advances": -251,
+      "ad_line": 5654.0
     },
     {
       "date": "2024-06-26",
-      "advances": 165,
-      "declines": 329,
-      "net_advances": -164,
-      "ad_line": 5436.0
+      "advances": 170,
+      "declines": 330,
+      "net_advances": -160,
+      "ad_line": 5494.0
     },
     {
       "date": "2024-06-27",
-      "advances": 281,
-      "declines": 212,
-      "net_advances": 69,
-      "ad_line": 5505.0
+      "advances": 286,
+      "declines": 213,
+      "net_advances": 73,
+      "ad_line": 5567.0
     },
     {
       "date": "2024-06-28",
-      "advances": 264,
-      "declines": 230,
+      "advances": 267,
+      "declines": 233,
       "net_advances": 34,
-      "ad_line": 5539.0
+      "ad_line": 5601.0
     },
     {
       "date": "2024-07-01",
       "advances": 129,
-      "declines": 363,
-      "net_advances": -234,
-      "ad_line": 5305.0
+      "declines": 369,
+      "net_advances": -240,
+      "ad_line": 5361.0
     },
     {
       "date": "2024-07-02",
-      "advances": 337,
-      "declines": 155,
+      "advances": 340,
+      "declines": 158,
       "net_advances": 182,
-      "ad_line": 5487.0
+      "ad_line": 5543.0
     },
     {
       "date": "2024-07-03",
-      "advances": 244,
-      "declines": 246,
-      "net_advances": -2,
-      "ad_line": 5485.0
+      "advances": 246,
+      "declines": 250,
+      "net_advances": -4,
+      "ad_line": 5539.0
     },
     {
       "date": "2024-07-05",
-      "advances": 235,
-      "declines": 256,
-      "net_advances": -21,
-      "ad_line": 5464.0
+      "advances": 236,
+      "declines": 261,
+      "net_advances": -25,
+      "ad_line": 5514.0
     },
     {
       "date": "2024-07-08",
-      "advances": 274,
-      "declines": 220,
-      "net_advances": 54,
-      "ad_line": 5518.0
+      "advances": 276,
+      "declines": 224,
+      "net_advances": 52,
+      "ad_line": 5566.0
     },
     {
       "date": "2024-07-09",
       "advances": 199,
-      "declines": 294,
-      "net_advances": -95,
-      "ad_line": 5423.0
+      "declines": 300,
+      "net_advances": -101,
+      "ad_line": 5465.0
     },
     {
       "date": "2024-07-10",
-      "advances": 394,
-      "declines": 100,
-      "net_advances": 294,
-      "ad_line": 5717.0
+      "advances": 397,
+      "declines": 102,
+      "net_advances": 295,
+      "ad_line": 5760.0
     },
     {
       "date": "2024-07-11",
-      "advances": 382,
+      "advances": 388,
       "declines": 113,
-      "net_advances": 269,
-      "ad_line": 5986.0
+      "net_advances": 275,
+      "ad_line": 6035.0
     },
     {
       "date": "2024-07-12",
-      "advances": 400,
-      "declines": 93,
-      "net_advances": 307,
-      "ad_line": 6293.0
+      "advances": 405,
+      "declines": 94,
+      "net_advances": 311,
+      "ad_line": 6346.0
     },
     {
       "date": "2024-07-15",
-      "advances": 280,
-      "declines": 215,
-      "net_advances": 65,
-      "ad_line": 6358.0
+      "advances": 284,
+      "declines": 217,
+      "net_advances": 67,
+      "ad_line": 6413.0
     },
     {
       "date": "2024-07-16",
-      "advances": 435,
-      "declines": 58,
-      "net_advances": 377,
-      "ad_line": 6735.0
+      "advances": 440,
+      "declines": 59,
+      "net_advances": 381,
+      "ad_line": 6794.0
     },
     {
       "date": "2024-07-17",
-      "advances": 241,
-      "declines": 252,
-      "net_advances": -11,
-      "ad_line": 6724.0
+      "advances": 243,
+      "declines": 256,
+      "net_advances": -13,
+      "ad_line": 6781.0
     },
     {
       "date": "2024-07-18",
-      "advances": 116,
-      "declines": 377,
-      "net_advances": -261,
-      "ad_line": 6463.0
+      "advances": 118,
+      "declines": 381,
+      "net_advances": -263,
+      "ad_line": 6518.0
     },
     {
       "date": "2024-07-19",
-      "advances": 143,
-      "declines": 350,
-      "net_advances": -207,
-      "ad_line": 6256.0
+      "advances": 144,
+      "declines": 355,
+      "net_advances": -211,
+      "ad_line": 6307.0
     },
     {
       "date": "2024-07-22",
-      "advances": 394,
-      "declines": 98,
-      "net_advances": 296,
-      "ad_line": 6552.0
+      "advances": 395,
+      "declines": 103,
+      "net_advances": 292,
+      "ad_line": 6599.0
     },
     {
       "date": "2024-07-23",
-      "advances": 188,
-      "declines": 305,
-      "net_advances": -117,
-      "ad_line": 6435.0
+      "advances": 190,
+      "declines": 309,
+      "net_advances": -119,
+      "ad_line": 6480.0
     },
     {
       "date": "2024-07-24",
-      "advances": 157,
-      "declines": 336,
+      "advances": 160,
+      "declines": 339,
       "net_advances": -179,
-      "ad_line": 6256.0
+      "ad_line": 6301.0
     },
     {
       "date": "2024-07-25",
-      "advances": 277,
-      "declines": 216,
-      "net_advances": 61,
-      "ad_line": 6317.0
+      "advances": 282,
+      "declines": 217,
+      "net_advances": 65,
+      "ad_line": 6366.0
     },
     {
       "date": "2024-07-26",
-      "advances": 433,
-      "declines": 59,
+      "advances": 436,
+      "declines": 62,
       "net_advances": 374,
-      "ad_line": 6691.0
+      "ad_line": 6740.0
     },
     {
       "date": "2024-07-29",
-      "advances": 265,
-      "declines": 226,
-      "net_advances": 39,
-      "ad_line": 6730.0
+      "advances": 269,
+      "declines": 228,
+      "net_advances": 41,
+      "ad_line": 6781.0
     },
     {
       "date": "2024-07-30",
-      "advances": 328,
-      "declines": 166,
-      "net_advances": 162,
-      "ad_line": 6892.0
+      "advances": 330,
+      "declines": 169,
+      "net_advances": 161,
+      "ad_line": 6942.0
     },
     {
       "date": "2024-07-31",
-      "advances": 286,
-      "declines": 208,
+      "advances": 289,
+      "declines": 211,
       "net_advances": 78,
-      "ad_line": 6970.0
+      "ad_line": 7020.0
     },
     {
       "date": "2024-08-01",
-      "advances": 167,
-      "declines": 327,
+      "advances": 170,
+      "declines": 330,
       "net_advances": -160,
-      "ad_line": 6810.0
+      "ad_line": 6860.0
     },
     {
       "date": "2024-08-02",
-      "advances": 129,
-      "declines": 366,
-      "net_advances": -237,
-      "ad_line": 6573.0
+      "advances": 131,
+      "declines": 370,
+      "net_advances": -239,
+      "ad_line": 6621.0
     },
     {
       "date": "2024-08-05",
-      "advances": 22,
-      "declines": 473,
-      "net_advances": -451,
-      "ad_line": 6122.0
+      "advances": 24,
+      "declines": 477,
+      "net_advances": -453,
+      "ad_line": 6168.0
     },
     {
       "date": "2024-08-06",
-      "advances": 394,
-      "declines": 100,
-      "net_advances": 294,
-      "ad_line": 6416.0
+      "advances": 398,
+      "declines": 102,
+      "net_advances": 296,
+      "ad_line": 6464.0
     },
     {
       "date": "2024-08-07",
-      "advances": 146,
-      "declines": 348,
-      "net_advances": -202,
-      "ad_line": 6214.0
+      "advances": 148,
+      "declines": 352,
+      "net_advances": -204,
+      "ad_line": 6260.0
     },
     {
       "date": "2024-08-08",
-      "advances": 449,
-      "declines": 44,
-      "net_advances": 405,
-      "ad_line": 6619.0
+      "advances": 454,
+      "declines": 45,
+      "net_advances": 409,
+      "ad_line": 6669.0
     },
     {
       "date": "2024-08-09",
-      "advances": 297,
-      "declines": 196,
+      "advances": 300,
+      "declines": 199,
       "net_advances": 101,
-      "ad_line": 6720.0
+      "ad_line": 6770.0
     },
     {
       "date": "2024-08-12",
-      "advances": 160,
-      "declines": 333,
+      "advances": 163,
+      "declines": 336,
       "net_advances": -173,
-      "ad_line": 6547.0
+      "ad_line": 6597.0
     },
     {
       "date": "2024-08-13",
-      "advances": 419,
-      "declines": 72,
-      "net_advances": 347,
-      "ad_line": 6894.0
+      "advances": 423,
+      "declines": 74,
+      "net_advances": 349,
+      "ad_line": 6946.0
     },
     {
       "date": "2024-08-14",
-      "advances": 303,
-      "declines": 186,
-      "net_advances": 117,
-      "ad_line": 7011.0
+      "advances": 305,
+      "declines": 190,
+      "net_advances": 115,
+      "ad_line": 7061.0
     },
     {
       "date": "2024-08-15",
-      "advances": 408,
+      "advances": 414,
       "declines": 86,
-      "net_advances": 322,
-      "ad_line": 7333.0
+      "net_advances": 328,
+      "ad_line": 7389.0
     },
     {
       "date": "2024-08-16",
-      "advances": 322,
-      "declines": 170,
-      "net_advances": 152,
-      "ad_line": 7485.0
+      "advances": 324,
+      "declines": 174,
+      "net_advances": 150,
+      "ad_line": 7539.0
     },
     {
       "date": "2024-08-19",
-      "advances": 412,
-      "declines": 80,
-      "net_advances": 332,
-      "ad_line": 7817.0
+      "advances": 417,
+      "declines": 81,
+      "net_advances": 336,
+      "ad_line": 7875.0
     },
     {
       "date": "2024-08-20",
-      "advances": 171,
-      "declines": 321,
-      "net_advances": -150,
-      "ad_line": 7667.0
+      "advances": 172,
+      "declines": 326,
+      "net_advances": -154,
+      "ad_line": 7721.0
     },
     {
       "date": "2024-08-21",
-      "advances": 400,
-      "declines": 94,
+      "advances": 403,
+      "declines": 97,
       "net_advances": 306,
-      "ad_line": 7973.0
+      "ad_line": 8027.0
     },
     {
       "date": "2024-08-22",
-      "advances": 208,
-      "declines": 284,
-      "net_advances": -76,
-      "ad_line": 7897.0
+      "advances": 210,
+      "declines": 288,
+      "net_advances": -78,
+      "ad_line": 7949.0
     },
     {
       "date": "2024-08-23",
-      "advances": 426,
-      "declines": 68,
-      "net_advances": 358,
-      "ad_line": 8255.0
+      "advances": 431,
+      "declines": 69,
+      "net_advances": 362,
+      "ad_line": 8311.0
     },
     {
       "date": "2024-08-26",
-      "advances": 262,
-      "declines": 231,
-      "net_advances": 31,
-      "ad_line": 8286.0
+      "advances": 266,
+      "declines": 233,
+      "net_advances": 33,
+      "ad_line": 8344.0
     },
     {
       "date": "2024-08-27",
-      "advances": 244,
-      "declines": 249,
-      "net_advances": -5,
-      "ad_line": 8281.0
+      "advances": 246,
+      "declines": 253,
+      "net_advances": -7,
+      "ad_line": 8337.0
     },
     {
       "date": "2024-08-28",
-      "advances": 208,
-      "declines": 282,
-      "net_advances": -74,
-      "ad_line": 8207.0
+      "advances": 210,
+      "declines": 286,
+      "net_advances": -76,
+      "ad_line": 8261.0
     },
     {
       "date": "2024-08-29",
-      "advances": 332,
-      "declines": 163,
-      "net_advances": 169,
-      "ad_line": 8376.0
+      "advances": 334,
+      "declines": 167,
+      "net_advances": 167,
+      "ad_line": 8428.0
     },
     {
       "date": "2024-08-30",
-      "advances": 432,
-      "declines": 60,
-      "net_advances": 372,
-      "ad_line": 8748.0
+      "advances": 436,
+      "declines": 62,
+      "net_advances": 374,
+      "ad_line": 8802.0
     },
     {
       "date": "2024-09-03",
-      "advances": 144,
-      "declines": 349,
+      "advances": 147,
+      "declines": 352,
       "net_advances": -205,
-      "ad_line": 8543.0
+      "ad_line": 8597.0
     },
     {
       "date": "2024-09-04",
-      "advances": 236,
-      "declines": 258,
-      "net_advances": -22,
-      "ad_line": 8521.0
+      "advances": 238,
+      "declines": 262,
+      "net_advances": -24,
+      "ad_line": 8573.0
     },
     {
       "date": "2024-09-05",
       "advances": 127,
-      "declines": 363,
-      "net_advances": -236,
-      "ad_line": 8285.0
+      "declines": 370,
+      "net_advances": -243,
+      "ad_line": 8330.0
     },
     {
       "date": "2024-09-06",
       "advances": 83,
-      "declines": 410,
-      "net_advances": -327,
-      "ad_line": 7958.0
+      "declines": 415,
+      "net_advances": -332,
+      "ad_line": 7998.0
     },
     {
       "date": "2024-09-09",
-      "advances": 413,
-      "declines": 81,
-      "net_advances": 332,
-      "ad_line": 8290.0
+      "advances": 418,
+      "declines": 82,
+      "net_advances": 336,
+      "ad_line": 8334.0
     },
     {
       "date": "2024-09-10",
-      "advances": 266,
-      "declines": 225,
-      "net_advances": 41,
-      "ad_line": 8331.0
+      "advances": 267,
+      "declines": 230,
+      "net_advances": 37,
+      "ad_line": 8371.0
     },
     {
       "date": "2024-09-11",
       "advances": 238,
-      "declines": 253,
-      "net_advances": -15,
-      "ad_line": 8316.0
+      "declines": 259,
+      "net_advances": -21,
+      "ad_line": 8350.0
     },
     {
       "date": "2024-09-12",
-      "advances": 369,
+      "advances": 375,
       "declines": 125,
-      "net_advances": 244,
-      "ad_line": 8560.0
+      "net_advances": 250,
+      "ad_line": 8600.0
     },
     {
       "date": "2024-09-13",
-      "advances": 418,
-      "declines": 74,
-      "net_advances": 344,
-      "ad_line": 8904.0
+      "advances": 423,
+      "declines": 75,
+      "net_advances": 348,
+      "ad_line": 8948.0
     },
     {
       "date": "2024-09-16",
-      "advances": 381,
-      "declines": 112,
+      "advances": 384,
+      "declines": 115,
       "net_advances": 269,
-      "ad_line": 9173.0
+      "ad_line": 9217.0
     },
     {
       "date": "2024-09-17",
-      "advances": 266,
-      "declines": 228,
-      "net_advances": 38,
-      "ad_line": 9211.0
+      "advances": 270,
+      "declines": 230,
+      "net_advances": 40,
+      "ad_line": 9257.0
     },
     {
       "date": "2024-09-18",
-      "advances": 206,
+      "advances": 211,
       "declines": 285,
-      "net_advances": -79,
-      "ad_line": 9132.0
+      "net_advances": -74,
+      "ad_line": 9183.0
     },
     {
       "date": "2024-09-19",
-      "advances": 348,
-      "declines": 144,
-      "net_advances": 204,
-      "ad_line": 9336.0
+      "advances": 352,
+      "declines": 145,
+      "net_advances": 207,
+      "ad_line": 9390.0
     },
     {
       "date": "2024-09-20",
       "advances": 180,
-      "declines": 310,
-      "net_advances": -130,
-      "ad_line": 9206.0
+      "declines": 316,
+      "net_advances": -136,
+      "ad_line": 9254.0
     },
     {
       "date": "2024-09-23",
-      "advances": 355,
-      "declines": 134,
-      "net_advances": 221,
-      "ad_line": 9427.0
+      "advances": 360,
+      "declines": 135,
+      "net_advances": 225,
+      "ad_line": 9479.0
     },
     {
       "date": "2024-09-24",
-      "advances": 252,
-      "declines": 240,
-      "net_advances": 12,
-      "ad_line": 9439.0
+      "advances": 254,
+      "declines": 244,
+      "net_advances": 10,
+      "ad_line": 9489.0
     },
     {
       "date": "2024-09-25",
       "advances": 134,
-      "declines": 359,
-      "net_advances": -225,
-      "ad_line": 9214.0
-    },
-    {
-      "date": "2024-09-26",
-      "advances": 324,
-      "declines": 171,
-      "net_advances": 153,
-      "ad_line": 9367.0
-    },
-    {
-      "date": "2024-09-27",
-      "advances": 330,
-      "declines": 162,
-      "net_advances": 168,
-      "ad_line": 9535.0
-    },
-    {
-      "date": "2024-09-30",
-      "advances": 311,
-      "declines": 181,
-      "net_advances": 130,
-      "ad_line": 9665.0
-    },
-    {
-      "date": "2024-10-01",
-      "advances": 162,
-      "declines": 333,
-      "net_advances": -171,
-      "ad_line": 9494.0
-    },
-    {
-      "date": "2024-10-02",
-      "advances": 223,
-      "declines": 270,
-      "net_advances": -47,
-      "ad_line": 9447.0
-    },
-    {
-      "date": "2024-10-03",
-      "advances": 117,
-      "declines": 376,
-      "net_advances": -259,
-      "ad_line": 9188.0
-    },
-    {
-      "date": "2024-10-04",
-      "advances": 361,
-      "declines": 134,
-      "net_advances": 227,
-      "ad_line": 9415.0
-    },
-    {
-      "date": "2024-10-07",
-      "advances": 99,
-      "declines": 391,
-      "net_advances": -292,
-      "ad_line": 9123.0
-    },
-    {
-      "date": "2024-10-08",
-      "advances": 314,
-      "declines": 179,
-      "net_advances": 135,
+      "declines": 365,
+      "net_advances": -231,
       "ad_line": 9258.0
     },
     {
+      "date": "2024-09-26",
+      "advances": 328,
+      "declines": 173,
+      "net_advances": 155,
+      "ad_line": 9413.0
+    },
+    {
+      "date": "2024-09-27",
+      "advances": 334,
+      "declines": 164,
+      "net_advances": 170,
+      "ad_line": 9583.0
+    },
+    {
+      "date": "2024-09-30",
+      "advances": 316,
+      "declines": 182,
+      "net_advances": 134,
+      "ad_line": 9717.0
+    },
+    {
+      "date": "2024-10-01",
+      "advances": 164,
+      "declines": 337,
+      "net_advances": -173,
+      "ad_line": 9544.0
+    },
+    {
+      "date": "2024-10-02",
+      "advances": 225,
+      "declines": 273,
+      "net_advances": -48,
+      "ad_line": 9496.0
+    },
+    {
+      "date": "2024-10-03",
+      "advances": 118,
+      "declines": 381,
+      "net_advances": -263,
+      "ad_line": 9233.0
+    },
+    {
+      "date": "2024-10-04",
+      "advances": 364,
+      "declines": 137,
+      "net_advances": 227,
+      "ad_line": 9460.0
+    },
+    {
+      "date": "2024-10-07",
+      "advances": 103,
+      "declines": 393,
+      "net_advances": -290,
+      "ad_line": 9170.0
+    },
+    {
+      "date": "2024-10-08",
+      "advances": 318,
+      "declines": 181,
+      "net_advances": 137,
+      "ad_line": 9307.0
+    },
+    {
       "date": "2024-10-09",
-      "advances": 370,
+      "advances": 376,
       "declines": 124,
-      "net_advances": 246,
-      "ad_line": 9504.0
+      "net_advances": 252,
+      "ad_line": 9559.0
     },
     {
       "date": "2024-10-10",
-      "advances": 158,
-      "declines": 334,
+      "advances": 161,
+      "declines": 337,
       "net_advances": -176,
-      "ad_line": 9328.0
+      "ad_line": 9383.0
     },
     {
       "date": "2024-10-11",
-      "advances": 429,
-      "declines": 66,
+      "advances": 432,
+      "declines": 69,
       "net_advances": 363,
-      "ad_line": 9691.0
+      "ad_line": 9746.0
     },
     {
       "date": "2024-10-14",
-      "advances": 395,
-      "declines": 100,
-      "net_advances": 295,
-      "ad_line": 9986.0
+      "advances": 400,
+      "declines": 101,
+      "net_advances": 299,
+      "ad_line": 10045.0
     },
     {
       "date": "2024-10-15",
-      "advances": 243,
-      "declines": 251,
-      "net_advances": -8,
-      "ad_line": 9978.0
+      "advances": 245,
+      "declines": 255,
+      "net_advances": -10,
+      "ad_line": 10035.0
     },
     {
       "date": "2024-10-16",
-      "advances": 354,
-      "declines": 140,
-      "net_advances": 214,
-      "ad_line": 10192.0
+      "advances": 359,
+      "declines": 141,
+      "net_advances": 218,
+      "ad_line": 10253.0
     },
     {
       "date": "2024-10-17",
-      "advances": 234,
-      "declines": 259,
-      "net_advances": -25,
-      "ad_line": 10167.0
+      "advances": 235,
+      "declines": 264,
+      "net_advances": -29,
+      "ad_line": 10224.0
     },
     {
       "date": "2024-10-18",
-      "advances": 317,
-      "declines": 177,
-      "net_advances": 140,
-      "ad_line": 10307.0
+      "advances": 322,
+      "declines": 178,
+      "net_advances": 144,
+      "ad_line": 10368.0
     },
     {
       "date": "2024-10-21",
-      "advances": 81,
-      "declines": 411,
+      "advances": 84,
+      "declines": 414,
       "net_advances": -330,
-      "ad_line": 9977.0
+      "ad_line": 10038.0
     },
     {
       "date": "2024-10-22",
-      "advances": 181,
-      "declines": 312,
+      "advances": 184,
+      "declines": 315,
       "net_advances": -131,
-      "ad_line": 9846.0
+      "ad_line": 9907.0
     },
     {
       "date": "2024-10-23",
       "advances": 181,
-      "declines": 308,
-      "net_advances": -127,
-      "ad_line": 9719.0
+      "declines": 314,
+      "net_advances": -133,
+      "ad_line": 9774.0
     },
     {
       "date": "2024-10-24",
-      "advances": 250,
-      "declines": 243,
+      "advances": 253,
+      "declines": 246,
       "net_advances": 7,
-      "ad_line": 9726.0
+      "ad_line": 9781.0
     },
     {
       "date": "2024-10-25",
       "advances": 151,
-      "declines": 340,
-      "net_advances": -189,
-      "ad_line": 9537.0
+      "declines": 346,
+      "net_advances": -195,
+      "ad_line": 9586.0
     },
     {
       "date": "2024-10-28",
-      "advances": 350,
-      "declines": 145,
+      "advances": 353,
+      "declines": 148,
       "net_advances": 205,
-      "ad_line": 9742.0
+      "ad_line": 9791.0
     },
     {
       "date": "2024-10-29",
-      "advances": 165,
-      "declines": 329,
-      "net_advances": -164,
-      "ad_line": 9578.0
+      "advances": 167,
+      "declines": 333,
+      "net_advances": -166,
+      "ad_line": 9625.0
     },
     {
       "date": "2024-10-30",
-      "advances": 240,
-      "declines": 252,
+      "advances": 243,
+      "declines": 255,
       "net_advances": -12,
-      "ad_line": 9566.0
+      "ad_line": 9613.0
     },
     {
       "date": "2024-10-31",
-      "advances": 133,
-      "declines": 361,
-      "net_advances": -228,
-      "ad_line": 9338.0
+      "advances": 134,
+      "declines": 366,
+      "net_advances": -232,
+      "ad_line": 9381.0
     },
     {
       "date": "2024-11-01",
-      "advances": 244,
-      "declines": 250,
+      "advances": 247,
+      "declines": 253,
       "net_advances": -6,
-      "ad_line": 9332.0
+      "ad_line": 9375.0
     },
     {
       "date": "2024-11-04",
-      "advances": 275,
-      "declines": 218,
-      "net_advances": 57,
-      "ad_line": 9389.0
+      "advances": 277,
+      "declines": 222,
+      "net_advances": 55,
+      "ad_line": 9430.0
     },
     {
       "date": "2024-11-05",
-      "advances": 440,
-      "declines": 55,
-      "net_advances": 385,
-      "ad_line": 9774.0
+      "advances": 444,
+      "declines": 57,
+      "net_advances": 387,
+      "ad_line": 9817.0
     },
     {
       "date": "2024-11-06",
-      "advances": 339,
-      "declines": 155,
-      "net_advances": 184,
-      "ad_line": 9958.0
+      "advances": 343,
+      "declines": 157,
+      "net_advances": 186,
+      "ad_line": 10003.0
     },
     {
       "date": "2024-11-07",
-      "advances": 267,
-      "declines": 228,
+      "advances": 270,
+      "declines": 231,
       "net_advances": 39,
-      "ad_line": 9997.0
+      "ad_line": 10042.0
     },
     {
       "date": "2024-11-08",
-      "advances": 321,
-      "declines": 173,
-      "net_advances": 148,
-      "ad_line": 10145.0
+      "advances": 325,
+      "declines": 175,
+      "net_advances": 150,
+      "ad_line": 10192.0
     },
     {
       "date": "2024-11-11",
-      "advances": 306,
-      "declines": 189,
-      "net_advances": 117,
-      "ad_line": 10262.0
+      "advances": 308,
+      "declines": 193,
+      "net_advances": 115,
+      "ad_line": 10307.0
     },
     {
       "date": "2024-11-12",
-      "advances": 148,
-      "declines": 346,
-      "net_advances": -198,
-      "ad_line": 10064.0
+      "advances": 150,
+      "declines": 350,
+      "net_advances": -200,
+      "ad_line": 10107.0
     },
     {
       "date": "2024-11-13",
-      "advances": 257,
-      "declines": 234,
+      "advances": 260,
+      "declines": 237,
       "net_advances": 23,
-      "ad_line": 10087.0
+      "ad_line": 10130.0
     },
     {
       "date": "2024-11-14",
-      "advances": 140,
-      "declines": 355,
-      "net_advances": -215,
-      "ad_line": 9872.0
+      "advances": 142,
+      "declines": 359,
+      "net_advances": -217,
+      "ad_line": 9913.0
     },
     {
       "date": "2024-11-15",
-      "advances": 178,
-      "declines": 315,
+      "advances": 181,
+      "declines": 318,
       "net_advances": -137,
-      "ad_line": 9735.0
+      "ad_line": 9776.0
     },
     {
       "date": "2024-11-18",
-      "advances": 323,
-      "declines": 171,
-      "net_advances": 152,
-      "ad_line": 9887.0
+      "advances": 327,
+      "declines": 173,
+      "net_advances": 154,
+      "ad_line": 9930.0
     },
     {
       "date": "2024-11-19",
-      "advances": 199,
-      "declines": 296,
-      "net_advances": -97,
-      "ad_line": 9790.0
+      "advances": 200,
+      "declines": 301,
+      "net_advances": -101,
+      "ad_line": 9829.0
     },
     {
       "date": "2024-11-20",
-      "advances": 302,
+      "advances": 308,
       "declines": 192,
-      "net_advances": 110,
-      "ad_line": 9900.0
+      "net_advances": 116,
+      "ad_line": 9945.0
     },
     {
       "date": "2024-11-21",
-      "advances": 431,
-      "declines": 64,
-      "net_advances": 367,
-      "ad_line": 10267.0
+      "advances": 436,
+      "declines": 65,
+      "net_advances": 371,
+      "ad_line": 10316.0
     },
     {
       "date": "2024-11-22",
-      "advances": 372,
-      "declines": 120,
+      "advances": 375,
+      "declines": 123,
       "net_advances": 252,
-      "ad_line": 10519.0
+      "ad_line": 10568.0
     },
     {
       "date": "2024-11-25",
-      "advances": 374,
-      "declines": 120,
-      "net_advances": 254,
-      "ad_line": 10773.0
+      "advances": 379,
+      "declines": 121,
+      "net_advances": 258,
+      "ad_line": 10826.0
     },
     {
       "date": "2024-11-26",
-      "advances": 278,
-      "declines": 216,
-      "net_advances": 62,
-      "ad_line": 10835.0
+      "advances": 279,
+      "declines": 221,
+      "net_advances": 58,
+      "ad_line": 10884.0
     },
     {
       "date": "2024-11-27",
-      "advances": 260,
-      "declines": 232,
+      "advances": 263,
+      "declines": 235,
       "net_advances": 28,
-      "ad_line": 10863.0
+      "ad_line": 10912.0
     },
     {
       "date": "2024-11-29",
-      "advances": 299,
-      "declines": 194,
+      "advances": 302,
+      "declines": 197,
       "net_advances": 105,
-      "ad_line": 10968.0
+      "ad_line": 11017.0
     },
     {
       "date": "2024-12-02",
-      "advances": 183,
-      "declines": 310,
-      "net_advances": -127,
-      "ad_line": 10841.0
+      "advances": 185,
+      "declines": 314,
+      "net_advances": -129,
+      "ad_line": 10888.0
     },
     {
       "date": "2024-12-03",
-      "advances": 159,
-      "declines": 334,
-      "net_advances": -175,
-      "ad_line": 10666.0
+      "advances": 161,
+      "declines": 338,
+      "net_advances": -177,
+      "ad_line": 10711.0
     },
     {
       "date": "2024-12-04",
-      "advances": 238,
-      "declines": 256,
-      "net_advances": -18,
-      "ad_line": 10648.0
+      "advances": 240,
+      "declines": 260,
+      "net_advances": -20,
+      "ad_line": 10691.0
     },
     {
       "date": "2024-12-05",
-      "advances": 183,
-      "declines": 311,
+      "advances": 186,
+      "declines": 314,
       "net_advances": -128,
-      "ad_line": 10520.0
+      "ad_line": 10563.0
     },
     {
       "date": "2024-12-06",
-      "advances": 209,
-      "declines": 283,
-      "net_advances": -74,
-      "ad_line": 10446.0
+      "advances": 210,
+      "declines": 288,
+      "net_advances": -78,
+      "ad_line": 10485.0
     },
     {
       "date": "2024-12-09",
-      "advances": 215,
-      "declines": 279,
-      "net_advances": -64,
-      "ad_line": 10382.0
+      "advances": 220,
+      "declines": 280,
+      "net_advances": -60,
+      "ad_line": 10425.0
     },
     {
       "date": "2024-12-10",
-      "advances": 150,
-      "declines": 344,
-      "net_advances": -194,
-      "ad_line": 10188.0
+      "advances": 151,
+      "declines": 349,
+      "net_advances": -198,
+      "ad_line": 10227.0
     },
     {
       "date": "2024-12-11",
-      "advances": 240,
-      "declines": 253,
-      "net_advances": -13,
-      "ad_line": 10175.0
+      "advances": 242,
+      "declines": 256,
+      "net_advances": -14,
+      "ad_line": 10213.0
     },
     {
       "date": "2024-12-12",
-      "advances": 174,
-      "declines": 318,
-      "net_advances": -144,
-      "ad_line": 10031.0
+      "advances": 176,
+      "declines": 322,
+      "net_advances": -146,
+      "ad_line": 10067.0
     },
     {
       "date": "2024-12-13",
       "advances": 161,
-      "declines": 329,
-      "net_advances": -168,
-      "ad_line": 9863.0
+      "declines": 335,
+      "net_advances": -174,
+      "ad_line": 9893.0
     },
     {
       "date": "2024-12-16",
       "advances": 190,
-      "declines": 305,
-      "net_advances": -115,
-      "ad_line": 9748.0
+      "declines": 311,
+      "net_advances": -121,
+      "ad_line": 9772.0
     },
     {
       "date": "2024-12-17",
-      "advances": 118,
-      "declines": 374,
-      "net_advances": -256,
-      "ad_line": 9492.0
+      "advances": 119,
+      "declines": 379,
+      "net_advances": -260,
+      "ad_line": 9512.0
     },
     {
       "date": "2024-12-18",
       "advances": 19,
-      "declines": 476,
-      "net_advances": -457,
-      "ad_line": 9035.0
+      "declines": 482,
+      "net_advances": -463,
+      "ad_line": 9049.0
     },
     {
       "date": "2024-12-19",
-      "advances": 196,
-      "declines": 296,
-      "net_advances": -100,
-      "ad_line": 8935.0
+      "advances": 197,
+      "declines": 301,
+      "net_advances": -104,
+      "ad_line": 8945.0
     },
     {
       "date": "2024-12-20",
-      "advances": 441,
-      "declines": 53,
-      "net_advances": 388,
-      "ad_line": 9323.0
+      "advances": 446,
+      "declines": 54,
+      "net_advances": 392,
+      "ad_line": 9337.0
     },
     {
       "date": "2024-12-23",
-      "advances": 269,
-      "declines": 224,
+      "advances": 272,
+      "declines": 227,
       "net_advances": 45,
-      "ad_line": 9368.0
+      "ad_line": 9382.0
     },
     {
       "date": "2024-12-24",
-      "advances": 454,
+      "advances": 460,
       "declines": 40,
-      "net_advances": 414,
-      "ad_line": 9782.0
+      "net_advances": 420,
+      "ad_line": 9802.0
     },
     {
       "date": "2024-12-26",
-      "advances": 274,
-      "declines": 219,
-      "net_advances": 55,
-      "ad_line": 9837.0
+      "advances": 278,
+      "declines": 221,
+      "net_advances": 57,
+      "ad_line": 9859.0
     },
     {
       "date": "2024-12-27",
       "advances": 51,
-      "declines": 443,
-      "net_advances": -392,
-      "ad_line": 9445.0
+      "declines": 449,
+      "net_advances": -398,
+      "ad_line": 9461.0
     },
     {
       "date": "2024-12-30",
       "advances": 34,
-      "declines": 460,
-      "net_advances": -426,
-      "ad_line": 9019.0
+      "declines": 466,
+      "net_advances": -432,
+      "ad_line": 9029.0
     },
     {
       "date": "2024-12-31",
-      "advances": 285,
-      "declines": 204,
-      "net_advances": 81,
-      "ad_line": 9100.0
+      "advances": 290,
+      "declines": 205,
+      "net_advances": 85,
+      "ad_line": 9114.0
     },
     {
       "date": "2025-01-02",
-      "advances": 183,
-      "declines": 311,
-      "net_advances": -128,
-      "ad_line": 8972.0
+      "advances": 184,
+      "declines": 316,
+      "net_advances": -132,
+      "ad_line": 8982.0
     },
     {
       "date": "2025-01-03",
-      "advances": 393,
+      "advances": 399,
       "declines": 101,
-      "net_advances": 292,
-      "ad_line": 9264.0
+      "net_advances": 298,
+      "ad_line": 9280.0
     },
     {
       "date": "2025-01-06",
-      "advances": 233,
-      "declines": 259,
+      "advances": 236,
+      "declines": 262,
       "net_advances": -26,
-      "ad_line": 9238.0
+      "ad_line": 9254.0
     },
     {
       "date": "2025-01-07",
-      "advances": 200,
-      "declines": 293,
-      "net_advances": -93,
-      "ad_line": 9145.0
+      "advances": 202,
+      "declines": 297,
+      "net_advances": -95,
+      "ad_line": 9159.0
     },
     {
       "date": "2025-01-08",
-      "advances": 289,
-      "declines": 202,
-      "net_advances": 87,
-      "ad_line": 9232.0
+      "advances": 293,
+      "declines": 204,
+      "net_advances": 89,
+      "ad_line": 9248.0
     },
     {
       "date": "2025-01-10",
       "advances": 64,
-      "declines": 429,
-      "net_advances": -365,
-      "ad_line": 8867.0
+      "declines": 435,
+      "net_advances": -371,
+      "ad_line": 8877.0
     },
     {
       "date": "2025-01-13",
-      "advances": 361,
+      "advances": 367,
       "declines": 131,
-      "net_advances": 230,
-      "ad_line": 9097.0
+      "net_advances": 236,
+      "ad_line": 9113.0
     },
     {
       "date": "2025-01-14",
-      "advances": 375,
-      "declines": 117,
-      "net_advances": 258,
-      "ad_line": 9355.0
+      "advances": 379,
+      "declines": 119,
+      "net_advances": 260,
+      "ad_line": 9373.0
     },
     {
       "date": "2025-01-15",
-      "advances": 364,
-      "declines": 131,
-      "net_advances": 233,
-      "ad_line": 9588.0
+      "advances": 369,
+      "declines": 132,
+      "net_advances": 237,
+      "ad_line": 9610.0
     },
     {
       "date": "2025-01-16",
-      "advances": 373,
-      "declines": 119,
+      "advances": 376,
+      "declines": 122,
       "net_advances": 254,
-      "ad_line": 9842.0
+      "ad_line": 9864.0
     },
     {
       "date": "2025-01-17",
-      "advances": 338,
-      "declines": 153,
-      "net_advances": 185,
-      "ad_line": 10027.0
+      "advances": 342,
+      "declines": 155,
+      "net_advances": 187,
+      "ad_line": 10051.0
     },
     {
       "date": "2025-01-21",
-      "advances": 411,
-      "declines": 82,
-      "net_advances": 329,
-      "ad_line": 10356.0
+      "advances": 415,
+      "declines": 84,
+      "net_advances": 331,
+      "ad_line": 10382.0
     },
     {
       "date": "2025-01-22",
-      "advances": 176,
-      "declines": 318,
-      "net_advances": -142,
-      "ad_line": 10214.0
+      "advances": 177,
+      "declines": 323,
+      "net_advances": -146,
+      "ad_line": 10236.0
     },
     {
       "date": "2025-01-23",
-      "advances": 319,
-      "declines": 172,
-      "net_advances": 147,
-      "ad_line": 10361.0
+      "advances": 323,
+      "declines": 174,
+      "net_advances": 149,
+      "ad_line": 10385.0
     },
     {
       "date": "2025-01-24",
-      "advances": 250,
-      "declines": 239,
+      "advances": 253,
+      "declines": 242,
       "net_advances": 11,
-      "ad_line": 10372.0
+      "ad_line": 10396.0
     },
     {
       "date": "2025-01-27",
-      "advances": 339,
-      "declines": 156,
-      "net_advances": 183,
-      "ad_line": 10555.0
+      "advances": 343,
+      "declines": 158,
+      "net_advances": 185,
+      "ad_line": 10581.0
     },
     {
       "date": "2025-01-28",
-      "advances": 157,
-      "declines": 335,
-      "net_advances": -178,
-      "ad_line": 10377.0
+      "advances": 159,
+      "declines": 339,
+      "net_advances": -180,
+      "ad_line": 10401.0
     },
     {
       "date": "2025-01-29",
-      "advances": 207,
-      "declines": 288,
-      "net_advances": -81,
-      "ad_line": 10296.0
+      "advances": 211,
+      "declines": 290,
+      "net_advances": -79,
+      "ad_line": 10322.0
     },
     {
       "date": "2025-01-30",
-      "advances": 405,
+      "advances": 411,
       "declines": 89,
-      "net_advances": 316,
-      "ad_line": 10612.0
+      "net_advances": 322,
+      "ad_line": 10644.0
     },
     {
       "date": "2025-01-31",
       "advances": 121,
-      "declines": 373,
-      "net_advances": -252,
-      "ad_line": 10360.0
+      "declines": 379,
+      "net_advances": -258,
+      "ad_line": 10386.0
     },
     {
       "date": "2025-02-03",
-      "advances": 181,
-      "declines": 313,
-      "net_advances": -132,
-      "ad_line": 10228.0
+      "advances": 185,
+      "declines": 315,
+      "net_advances": -130,
+      "ad_line": 10256.0
     },
     {
       "date": "2025-02-04",
-      "advances": 245,
-      "declines": 248,
-      "net_advances": -3,
-      "ad_line": 10225.0
+      "advances": 249,
+      "declines": 250,
+      "net_advances": -1,
+      "ad_line": 10255.0
     },
     {
       "date": "2025-02-05",
-      "advances": 346,
-      "declines": 147,
-      "net_advances": 199,
-      "ad_line": 10424.0
+      "advances": 350,
+      "declines": 149,
+      "net_advances": 201,
+      "ad_line": 10456.0
     },
     {
       "date": "2025-02-06",
-      "advances": 259,
-      "declines": 233,
-      "net_advances": 26,
-      "ad_line": 10450.0
+      "advances": 260,
+      "declines": 238,
+      "net_advances": 22,
+      "ad_line": 10478.0
     },
     {
       "date": "2025-02-07",
-      "advances": 135,
-      "declines": 358,
-      "net_advances": -223,
-      "ad_line": 10227.0
+      "advances": 137,
+      "declines": 362,
+      "net_advances": -225,
+      "ad_line": 10253.0
     },
     {
       "date": "2025-02-10",
-      "advances": 287,
-      "declines": 205,
-      "net_advances": 82,
-      "ad_line": 10309.0
+      "advances": 291,
+      "declines": 207,
+      "net_advances": 84,
+      "ad_line": 10337.0
     },
     {
       "date": "2025-02-11",
-      "advances": 254,
-      "declines": 240,
-      "net_advances": 14,
-      "ad_line": 10323.0
+      "advances": 259,
+      "declines": 241,
+      "net_advances": 18,
+      "ad_line": 10355.0
     },
     {
       "date": "2025-02-12",
-      "advances": 161,
-      "declines": 333,
-      "net_advances": -172,
-      "ad_line": 10151.0
+      "advances": 162,
+      "declines": 338,
+      "net_advances": -176,
+      "ad_line": 10179.0
     },
     {
       "date": "2025-02-13",
-      "advances": 388,
-      "declines": 107,
-      "net_advances": 281,
-      "ad_line": 10432.0
+      "advances": 393,
+      "declines": 108,
+      "net_advances": 285,
+      "ad_line": 10464.0
     },
     {
       "date": "2025-02-14",
-      "advances": 211,
-      "declines": 283,
-      "net_advances": -72,
-      "ad_line": 10360.0
+      "advances": 215,
+      "declines": 285,
+      "net_advances": -70,
+      "ad_line": 10394.0
     },
     {
       "date": "2025-02-18",
-      "advances": 354,
-      "declines": 139,
-      "net_advances": 215,
-      "ad_line": 10575.0
+      "advances": 358,
+      "declines": 141,
+      "net_advances": 217,
+      "ad_line": 10611.0
     },
     {
       "date": "2025-02-19",
-      "advances": 292,
-      "declines": 202,
+      "advances": 295,
+      "declines": 205,
       "net_advances": 90,
-      "ad_line": 10665.0
+      "ad_line": 10701.0
     },
     {
       "date": "2025-02-20",
-      "advances": 227,
-      "declines": 268,
+      "advances": 230,
+      "declines": 271,
       "net_advances": -41,
-      "ad_line": 10624.0
+      "ad_line": 10660.0
     },
     {
       "date": "2025-02-21",
-      "advances": 117,
-      "declines": 377,
-      "net_advances": -260,
-      "ad_line": 10364.0
+      "advances": 119,
+      "declines": 381,
+      "net_advances": -262,
+      "ad_line": 10398.0
     },
     {
       "date": "2025-02-24",
-      "advances": 277,
-      "declines": 217,
-      "net_advances": 60,
-      "ad_line": 10424.0
+      "advances": 282,
+      "declines": 218,
+      "net_advances": 64,
+      "ad_line": 10462.0
     },
     {
       "date": "2025-02-25",
-      "advances": 288,
-      "declines": 206,
-      "net_advances": 82,
-      "ad_line": 10506.0
+      "advances": 292,
+      "declines": 208,
+      "net_advances": 84,
+      "ad_line": 10546.0
     },
     {
       "date": "2025-02-26",
-      "advances": 202,
-      "declines": 292,
-      "net_advances": -90,
-      "ad_line": 10416.0
+      "advances": 203,
+      "declines": 296,
+      "net_advances": -93,
+      "ad_line": 10453.0
     },
     {
       "date": "2025-02-27",
-      "advances": 184,
-      "declines": 311,
-      "net_advances": -127,
-      "ad_line": 10289.0
+      "advances": 185,
+      "declines": 316,
+      "net_advances": -131,
+      "ad_line": 10322.0
     },
     {
       "date": "2025-02-28",
-      "advances": 438,
-      "declines": 57,
-      "net_advances": 381,
-      "ad_line": 10670.0
+      "advances": 443,
+      "declines": 58,
+      "net_advances": 385,
+      "ad_line": 10707.0
     },
     {
       "date": "2025-03-03",
-      "advances": 164,
-      "declines": 329,
-      "net_advances": -165,
-      "ad_line": 10505.0
+      "advances": 166,
+      "declines": 333,
+      "net_advances": -167,
+      "ad_line": 10540.0
     },
     {
       "date": "2025-03-04",
       "advances": 84,
-      "declines": 410,
-      "net_advances": -326,
-      "ad_line": 10179.0
+      "declines": 416,
+      "net_advances": -332,
+      "ad_line": 10208.0
     },
     {
       "date": "2025-03-05",
-      "advances": 375,
-      "declines": 119,
-      "net_advances": 256,
-      "ad_line": 10435.0
+      "advances": 377,
+      "declines": 123,
+      "net_advances": 254,
+      "ad_line": 10462.0
     },
     {
       "date": "2025-03-06",
-      "advances": 154,
-      "declines": 341,
-      "net_advances": -187,
-      "ad_line": 10248.0
+      "advances": 158,
+      "declines": 343,
+      "net_advances": -185,
+      "ad_line": 10277.0
     },
     {
       "date": "2025-03-07",
-      "advances": 342,
-      "declines": 152,
-      "net_advances": 190,
-      "ad_line": 10438.0
+      "advances": 344,
+      "declines": 156,
+      "net_advances": 188,
+      "ad_line": 10465.0
     },
     {
       "date": "2025-03-10",
-      "advances": 149,
-      "declines": 343,
-      "net_advances": -194,
-      "ad_line": 10244.0
+      "advances": 151,
+      "declines": 347,
+      "net_advances": -196,
+      "ad_line": 10269.0
     },
     {
       "date": "2025-03-11",
-      "advances": 119,
-      "declines": 374,
-      "net_advances": -255,
-      "ad_line": 9989.0
+      "advances": 121,
+      "declines": 378,
+      "net_advances": -257,
+      "ad_line": 10012.0
     },
     {
       "date": "2025-03-12",
-      "advances": 188,
-      "declines": 306,
+      "advances": 191,
+      "declines": 309,
       "net_advances": -118,
-      "ad_line": 9871.0
+      "ad_line": 9894.0
     },
     {
       "date": "2025-03-13",
-      "advances": 125,
-      "declines": 370,
-      "net_advances": -245,
-      "ad_line": 9626.0
+      "advances": 126,
+      "declines": 375,
+      "net_advances": -249,
+      "ad_line": 9645.0
     },
     {
       "date": "2025-03-14",
-      "advances": 447,
+      "advances": 453,
       "declines": 48,
-      "net_advances": 399,
-      "ad_line": 10025.0
+      "net_advances": 405,
+      "ad_line": 10050.0
     },
     {
       "date": "2025-03-17",
-      "advances": 454,
-      "declines": 40,
-      "net_advances": 414,
-      "ad_line": 10439.0
+      "advances": 459,
+      "declines": 41,
+      "net_advances": 418,
+      "ad_line": 10468.0
     },
     {
       "date": "2025-03-18",
-      "advances": 158,
-      "declines": 336,
-      "net_advances": -178,
-      "ad_line": 10261.0
+      "advances": 159,
+      "declines": 341,
+      "net_advances": -182,
+      "ad_line": 10286.0
     },
     {
       "date": "2025-03-19",
-      "advances": 365,
-      "declines": 128,
-      "net_advances": 237,
-      "ad_line": 10498.0
+      "advances": 369,
+      "declines": 130,
+      "net_advances": 239,
+      "ad_line": 10525.0
     },
     {
       "date": "2025-03-20",
-      "advances": 178,
-      "declines": 311,
-      "net_advances": -133,
-      "ad_line": 10365.0
+      "advances": 180,
+      "declines": 315,
+      "net_advances": -135,
+      "ad_line": 10390.0
     },
     {
       "date": "2025-03-21",
-      "advances": 153,
-      "declines": 341,
-      "net_advances": -188,
-      "ad_line": 10177.0
+      "advances": 154,
+      "declines": 346,
+      "net_advances": -192,
+      "ad_line": 10198.0
     },
     {
       "date": "2025-03-24",
-      "advances": 417,
+      "advances": 423,
       "declines": 77,
-      "net_advances": 340,
-      "ad_line": 10517.0
+      "net_advances": 346,
+      "ad_line": 10544.0
     },
     {
       "date": "2025-03-25",
-      "advances": 216,
-      "declines": 277,
-      "net_advances": -61,
-      "ad_line": 10456.0
+      "advances": 218,
+      "declines": 281,
+      "net_advances": -63,
+      "ad_line": 10481.0
     },
     {
       "date": "2025-03-26",
-      "advances": 255,
-      "declines": 238,
-      "net_advances": 17,
-      "ad_line": 10473.0
+      "advances": 260,
+      "declines": 239,
+      "net_advances": 21,
+      "ad_line": 10502.0
     },
     {
       "date": "2025-03-27",
-      "advances": 207,
-      "declines": 284,
+      "advances": 210,
+      "declines": 287,
       "net_advances": -77,
-      "ad_line": 10396.0
+      "ad_line": 10425.0
     },
     {
       "date": "2025-03-28",
       "advances": 90,
-      "declines": 405,
-      "net_advances": -315,
-      "ad_line": 10081.0
+      "declines": 411,
+      "net_advances": -321,
+      "ad_line": 10104.0
     },
     {
       "date": "2025-03-31",
-      "advances": 385,
+      "advances": 391,
       "declines": 108,
-      "net_advances": 277,
-      "ad_line": 10358.0
+      "net_advances": 283,
+      "ad_line": 10387.0
     },
     {
       "date": "2025-04-01",
-      "advances": 302,
-      "declines": 192,
+      "advances": 305,
+      "declines": 195,
       "net_advances": 110,
-      "ad_line": 10468.0
+      "ad_line": 10497.0
     },
     {
       "date": "2025-04-02",
-      "advances": 386,
-      "declines": 109,
-      "net_advances": 277,
-      "ad_line": 10745.0
+      "advances": 391,
+      "declines": 110,
+      "net_advances": 281,
+      "ad_line": 10778.0
     },
     {
       "date": "2025-04-03",
-      "advances": 93,
-      "declines": 401,
-      "net_advances": -308,
-      "ad_line": 10437.0
+      "advances": 94,
+      "declines": 406,
+      "net_advances": -312,
+      "ad_line": 10466.0
     },
     {
       "date": "2025-04-04",
       "advances": 14,
-      "declines": 481,
-      "net_advances": -467,
-      "ad_line": 9970.0
+      "declines": 487,
+      "net_advances": -473,
+      "ad_line": 9993.0
     },
     {
       "date": "2025-04-07",
-      "advances": 160,
-      "declines": 334,
-      "net_advances": -174,
-      "ad_line": 9796.0
+      "advances": 162,
+      "declines": 338,
+      "net_advances": -176,
+      "ad_line": 9817.0
     },
     {
       "date": "2025-04-08",
       "advances": 71,
-      "declines": 424,
-      "net_advances": -353,
-      "ad_line": 9443.0
+      "declines": 430,
+      "net_advances": -359,
+      "ad_line": 9458.0
     },
     {
       "date": "2025-04-09",
-      "advances": 487,
+      "advances": 493,
       "declines": 8,
-      "net_advances": 479,
-      "ad_line": 9922.0
+      "net_advances": 485,
+      "ad_line": 9943.0
     },
     {
       "date": "2025-04-10",
-      "advances": 72,
-      "declines": 422,
-      "net_advances": -350,
-      "ad_line": 9572.0
+      "advances": 74,
+      "declines": 426,
+      "net_advances": -352,
+      "ad_line": 9591.0
     },
     {
       "date": "2025-04-11",
-      "advances": 431,
-      "declines": 62,
-      "net_advances": 369,
-      "ad_line": 9941.0
+      "advances": 436,
+      "declines": 63,
+      "net_advances": 373,
+      "ad_line": 9964.0
     },
     {
       "date": "2025-04-14",
-      "advances": 427,
-      "declines": 67,
-      "net_advances": 360,
-      "ad_line": 10301.0
+      "advances": 431,
+      "declines": 69,
+      "net_advances": 362,
+      "ad_line": 10326.0
     },
     {
       "date": "2025-04-15",
-      "advances": 199,
-      "declines": 294,
-      "net_advances": -95,
-      "ad_line": 10206.0
+      "advances": 200,
+      "declines": 299,
+      "net_advances": -99,
+      "ad_line": 10227.0
     },
     {
       "date": "2025-04-16",
-      "advances": 64,
-      "declines": 430,
-      "net_advances": -366,
-      "ad_line": 9840.0
+      "advances": 65,
+      "declines": 435,
+      "net_advances": -370,
+      "ad_line": 9857.0
     },
     {
       "date": "2025-04-17",
-      "advances": 377,
-      "declines": 117,
-      "net_advances": 260,
-      "ad_line": 10100.0
+      "advances": 382,
+      "declines": 118,
+      "net_advances": 264,
+      "ad_line": 10121.0
     },
     {
       "date": "2025-04-21",
       "advances": 37,
-      "declines": 458,
-      "net_advances": -421,
-      "ad_line": 9679.0
+      "declines": 464,
+      "net_advances": -427,
+      "ad_line": 9694.0
     },
     {
       "date": "2025-04-22",
-      "advances": 486,
+      "advances": 492,
       "declines": 9,
-      "net_advances": 477,
-      "ad_line": 10156.0
+      "net_advances": 483,
+      "ad_line": 10177.0
     },
     {
       "date": "2025-04-23",
-      "advances": 362,
-      "declines": 131,
-      "net_advances": 231,
-      "ad_line": 10387.0
+      "advances": 366,
+      "declines": 133,
+      "net_advances": 233,
+      "ad_line": 10410.0
     },
     {
       "date": "2025-04-24",
-      "advances": 399,
-      "declines": 95,
-      "net_advances": 304,
-      "ad_line": 10691.0
+      "advances": 404,
+      "declines": 96,
+      "net_advances": 308,
+      "ad_line": 10718.0
     },
     {
       "date": "2025-04-25",
-      "advances": 206,
-      "declines": 287,
-      "net_advances": -81,
-      "ad_line": 10610.0
+      "advances": 208,
+      "declines": 291,
+      "net_advances": -83,
+      "ad_line": 10635.0
     },
     {
       "date": "2025-04-28",
-      "advances": 333,
-      "declines": 161,
+      "advances": 336,
+      "declines": 164,
       "net_advances": 172,
-      "ad_line": 10782.0
+      "ad_line": 10807.0
     },
     {
       "date": "2025-04-29",
-      "advances": 369,
-      "declines": 125,
-      "net_advances": 244,
-      "ad_line": 11026.0
+      "advances": 374,
+      "declines": 126,
+      "net_advances": 248,
+      "ad_line": 11055.0
     },
     {
       "date": "2025-04-30",
-      "advances": 315,
-      "declines": 178,
-      "net_advances": 137,
-      "ad_line": 11163.0
+      "advances": 319,
+      "declines": 180,
+      "net_advances": 139,
+      "ad_line": 11194.0
     },
     {
       "date": "2025-05-01",
-      "advances": 212,
-      "declines": 282,
+      "advances": 215,
+      "declines": 285,
       "net_advances": -70,
-      "ad_line": 11093.0
+      "ad_line": 11124.0
     },
     {
       "date": "2025-05-02",
-      "advances": 450,
-      "declines": 45,
-      "net_advances": 405,
-      "ad_line": 11498.0
+      "advances": 455,
+      "declines": 46,
+      "net_advances": 409,
+      "ad_line": 11533.0
     },
     {
       "date": "2025-05-05",
-      "advances": 187,
-      "declines": 305,
-      "net_advances": -118,
-      "ad_line": 11380.0
+      "advances": 189,
+      "declines": 309,
+      "net_advances": -120,
+      "ad_line": 11413.0
     },
     {
       "date": "2025-05-06",
-      "advances": 142,
-      "declines": 351,
-      "net_advances": -209,
-      "ad_line": 11171.0
+      "advances": 144,
+      "declines": 355,
+      "net_advances": -211,
+      "ad_line": 11202.0
     },
     {
       "date": "2025-05-07",
-      "advances": 360,
-      "declines": 132,
-      "net_advances": 228,
-      "ad_line": 11399.0
+      "advances": 362,
+      "declines": 136,
+      "net_advances": 226,
+      "ad_line": 11428.0
     },
     {
       "date": "2025-05-08",
-      "advances": 342,
-      "declines": 150,
-      "net_advances": 192,
-      "ad_line": 11591.0
+      "advances": 347,
+      "declines": 151,
+      "net_advances": 196,
+      "ad_line": 11624.0
     },
     {
       "date": "2025-05-09",
-      "advances": 237,
-      "declines": 255,
+      "advances": 240,
+      "declines": 258,
       "net_advances": -18,
-      "ad_line": 11573.0
+      "ad_line": 11606.0
     },
     {
       "date": "2025-05-12",
-      "advances": 404,
-      "declines": 90,
-      "net_advances": 314,
-      "ad_line": 11887.0
+      "advances": 409,
+      "declines": 91,
+      "net_advances": 318,
+      "ad_line": 11924.0
     },
     {
       "date": "2025-05-13",
-      "advances": 245,
-      "declines": 248,
-      "net_advances": -3,
-      "ad_line": 11884.0
+      "advances": 246,
+      "declines": 253,
+      "net_advances": -7,
+      "ad_line": 11917.0
     },
     {
       "date": "2025-05-14",
-      "advances": 150,
-      "declines": 342,
-      "net_advances": -192,
-      "ad_line": 11692.0
+      "advances": 151,
+      "declines": 347,
+      "net_advances": -196,
+      "ad_line": 11721.0
     },
     {
       "date": "2025-05-15",
-      "advances": 363,
-      "declines": 132,
-      "net_advances": 231,
-      "ad_line": 11923.0
+      "advances": 368,
+      "declines": 133,
+      "net_advances": 235,
+      "ad_line": 11956.0
     },
     {
       "date": "2025-05-16",
-      "advances": 443,
-      "declines": 52,
-      "net_advances": 391,
-      "ad_line": 12314.0
+      "advances": 447,
+      "declines": 54,
+      "net_advances": 393,
+      "ad_line": 12349.0
     },
     {
       "date": "2025-05-19",
-      "advances": 254,
-      "declines": 238,
-      "net_advances": 16,
-      "ad_line": 12330.0
+      "advances": 258,
+      "declines": 240,
+      "net_advances": 18,
+      "ad_line": 12367.0
     },
     {
       "date": "2025-05-20",
-      "advances": 170,
-      "declines": 322,
-      "net_advances": -152,
-      "ad_line": 12178.0
+      "advances": 172,
+      "declines": 326,
+      "net_advances": -154,
+      "ad_line": 12213.0
     },
     {
       "date": "2025-05-21",
       "advances": 18,
-      "declines": 476,
-      "net_advances": -458,
-      "ad_line": 11720.0
+      "declines": 482,
+      "net_advances": -464,
+      "ad_line": 11749.0
     },
     {
       "date": "2025-05-22",
-      "advances": 186,
-      "declines": 302,
-      "net_advances": -116,
-      "ad_line": 11604.0
+      "advances": 187,
+      "declines": 307,
+      "net_advances": -120,
+      "ad_line": 11629.0
     },
     {
       "date": "2025-05-23",
-      "advances": 170,
-      "declines": 322,
-      "net_advances": -152,
-      "ad_line": 11452.0
+      "advances": 172,
+      "declines": 326,
+      "net_advances": -154,
+      "ad_line": 11475.0
     },
     {
       "date": "2025-05-27",
-      "advances": 462,
-      "declines": 32,
-      "net_advances": 430,
-      "ad_line": 11882.0
+      "advances": 467,
+      "declines": 33,
+      "net_advances": 434,
+      "ad_line": 11909.0
     },
     {
       "date": "2025-05-28",
-      "advances": 84,
-      "declines": 410,
-      "net_advances": -326,
-      "ad_line": 11556.0
+      "advances": 85,
+      "declines": 415,
+      "net_advances": -330,
+      "ad_line": 11579.0
     },
     {
       "date": "2025-05-29",
-      "advances": 348,
-      "declines": 142,
-      "net_advances": 206,
-      "ad_line": 11762.0
+      "advances": 352,
+      "declines": 144,
+      "net_advances": 208,
+      "ad_line": 11787.0
     },
     {
       "date": "2025-05-30",
-      "advances": 263,
-      "declines": 230,
+      "advances": 266,
+      "declines": 233,
       "net_advances": 33,
-      "ad_line": 11795.0
+      "ad_line": 11820.0
     },
     {
       "date": "2025-06-02",
-      "advances": 235,
-      "declines": 258,
+      "advances": 238,
+      "declines": 261,
       "net_advances": -23,
-      "ad_line": 11772.0
+      "ad_line": 11797.0
     },
     {
       "date": "2025-06-03",
-      "advances": 351,
-      "declines": 143,
-      "net_advances": 208,
-      "ad_line": 11980.0
+      "advances": 356,
+      "declines": 144,
+      "net_advances": 212,
+      "ad_line": 12009.0
     },
     {
       "date": "2025-06-04",
-      "advances": 196,
-      "declines": 296,
-      "net_advances": -100,
-      "ad_line": 11880.0
+      "advances": 197,
+      "declines": 301,
+      "net_advances": -104,
+      "ad_line": 11905.0
     },
     {
       "date": "2025-06-05",
-      "advances": 189,
-      "declines": 304,
-      "net_advances": -115,
-      "ad_line": 11765.0
+      "advances": 191,
+      "declines": 308,
+      "net_advances": -117,
+      "ad_line": 11788.0
     },
     {
       "date": "2025-06-06",
-      "advances": 414,
+      "advances": 420,
       "declines": 80,
-      "net_advances": 334,
-      "ad_line": 12099.0
+      "net_advances": 340,
+      "ad_line": 12128.0
     },
     {
       "date": "2025-06-09",
-      "advances": 255,
-      "declines": 237,
-      "net_advances": 18,
-      "ad_line": 12117.0
+      "advances": 259,
+      "declines": 239,
+      "net_advances": 20,
+      "ad_line": 12148.0
     },
     {
       "date": "2025-06-10",
-      "advances": 323,
-      "declines": 170,
-      "net_advances": 153,
-      "ad_line": 12270.0
+      "advances": 327,
+      "declines": 172,
+      "net_advances": 155,
+      "ad_line": 12303.0
     },
     {
       "date": "2025-06-11",
-      "advances": 167,
-      "declines": 326,
-      "net_advances": -159,
-      "ad_line": 12111.0
+      "advances": 168,
+      "declines": 331,
+      "net_advances": -163,
+      "ad_line": 12140.0
     },
     {
       "date": "2025-06-12",
-      "advances": 294,
-      "declines": 199,
-      "net_advances": 95,
-      "ad_line": 12206.0
+      "advances": 299,
+      "declines": 200,
+      "net_advances": 99,
+      "ad_line": 12239.0
     },
     {
       "date": "2025-06-13",
-      "advances": 67,
-      "declines": 428,
-      "net_advances": -361,
-      "ad_line": 11845.0
+      "advances": 69,
+      "declines": 432,
+      "net_advances": -363,
+      "ad_line": 11876.0
     },
     {
       "date": "2025-06-16",
-      "advances": 362,
-      "declines": 133,
-      "net_advances": 229,
-      "ad_line": 12074.0
+      "advances": 367,
+      "declines": 134,
+      "net_advances": 233,
+      "ad_line": 12109.0
     },
     {
       "date": "2025-06-17",
-      "advances": 85,
-      "declines": 409,
-      "net_advances": -324,
-      "ad_line": 11750.0
+      "advances": 87,
+      "declines": 413,
+      "net_advances": -326,
+      "ad_line": 11783.0
     },
     {
       "date": "2025-06-18",
-      "advances": 241,
-      "declines": 250,
-      "net_advances": -9,
-      "ad_line": 11741.0
+      "advances": 242,
+      "declines": 255,
+      "net_advances": -13,
+      "ad_line": 11770.0
     },
     {
       "date": "2025-06-20",
-      "advances": 292,
-      "declines": 200,
-      "net_advances": 92,
-      "ad_line": 11833.0
+      "advances": 296,
+      "declines": 202,
+      "net_advances": 94,
+      "ad_line": 11864.0
     },
     {
       "date": "2025-06-23",
-      "advances": 395,
-      "declines": 98,
+      "advances": 398,
+      "declines": 101,
       "net_advances": 297,
-      "ad_line": 12130.0
+      "ad_line": 12161.0
     },
     {
       "date": "2025-06-24",
-      "advances": 371,
-      "declines": 121,
-      "net_advances": 250,
-      "ad_line": 12380.0
+      "advances": 376,
+      "declines": 122,
+      "net_advances": 254,
+      "ad_line": 12415.0
     },
     {
       "date": "2025-06-25",
-      "advances": 136,
-      "declines": 359,
-      "net_advances": -223,
-      "ad_line": 12157.0
+      "advances": 138,
+      "declines": 363,
+      "net_advances": -225,
+      "ad_line": 12190.0
     },
     {
       "date": "2025-06-26",
-      "advances": 369,
-      "declines": 125,
-      "net_advances": 244,
-      "ad_line": 12401.0
+      "advances": 374,
+      "declines": 126,
+      "net_advances": 248,
+      "ad_line": 12438.0
     },
     {
       "date": "2025-06-27",
-      "advances": 335,
-      "declines": 155,
-      "net_advances": 180,
-      "ad_line": 12581.0
+      "advances": 339,
+      "declines": 157,
+      "net_advances": 182,
+      "ad_line": 12620.0
     },
     {
       "date": "2025-06-30",
-      "advances": 353,
-      "declines": 140,
-      "net_advances": 213,
-      "ad_line": 12794.0
+      "advances": 355,
+      "declines": 144,
+      "net_advances": 211,
+      "ad_line": 12831.0
     },
     {
       "date": "2025-07-01",
-      "advances": 369,
-      "declines": 125,
-      "net_advances": 244,
-      "ad_line": 13038.0
+      "advances": 374,
+      "declines": 126,
+      "net_advances": 248,
+      "ad_line": 13079.0
     },
     {
       "date": "2025-07-02",
-      "advances": 282,
-      "declines": 212,
-      "net_advances": 70,
-      "ad_line": 13108.0
+      "advances": 286,
+      "declines": 213,
+      "net_advances": 73,
+      "ad_line": 13152.0
     },
     {
       "date": "2025-07-03",
-      "advances": 350,
-      "declines": 140,
-      "net_advances": 210,
-      "ad_line": 13318.0
+      "advances": 352,
+      "declines": 144,
+      "net_advances": 208,
+      "ad_line": 13360.0
     },
     {
       "date": "2025-07-07",
-      "advances": 94,
-      "declines": 399,
-      "net_advances": -305,
-      "ad_line": 13013.0
+      "advances": 96,
+      "declines": 403,
+      "net_advances": -307,
+      "ad_line": 13053.0
     },
     {
       "date": "2025-07-08",
-      "advances": 260,
+      "advances": 266,
       "declines": 233,
-      "net_advances": 27,
-      "ad_line": 13040.0
+      "net_advances": 33,
+      "ad_line": 13086.0
     },
     {
       "date": "2025-07-09",
-      "advances": 300,
-      "declines": 194,
-      "net_advances": 106,
-      "ad_line": 13146.0
+      "advances": 304,
+      "declines": 196,
+      "net_advances": 108,
+      "ad_line": 13194.0
     },
     {
       "date": "2025-07-10",
-      "advances": 348,
+      "advances": 353,
       "declines": 146,
-      "net_advances": 202,
-      "ad_line": 13348.0
+      "net_advances": 207,
+      "ad_line": 13401.0
     },
     {
       "date": "2025-07-11",
-      "advances": 109,
-      "declines": 384,
-      "net_advances": -275,
-      "ad_line": 13073.0
+      "advances": 110,
+      "declines": 389,
+      "net_advances": -279,
+      "ad_line": 13122.0
     },
     {
       "date": "2025-07-14",
-      "advances": 286,
-      "declines": 208,
-      "net_advances": 78,
-      "ad_line": 13151.0
+      "advances": 288,
+      "declines": 212,
+      "net_advances": 76,
+      "ad_line": 13198.0
     },
     {
       "date": "2025-07-15",
       "advances": 50,
-      "declines": 445,
-      "net_advances": -395,
-      "ad_line": 12756.0
+      "declines": 451,
+      "net_advances": -401,
+      "ad_line": 12797.0
     },
     {
       "date": "2025-07-16",
-      "advances": 344,
-      "declines": 149,
-      "net_advances": 195,
-      "ad_line": 12951.0
+      "advances": 346,
+      "declines": 153,
+      "net_advances": 193,
+      "ad_line": 12990.0
     },
     {
       "date": "2025-07-17",
-      "advances": 372,
-      "declines": 121,
+      "advances": 375,
+      "declines": 124,
       "net_advances": 251,
-      "ad_line": 13202.0
+      "ad_line": 13241.0
     },
     {
       "date": "2025-07-18",
-      "advances": 257,
-      "declines": 236,
-      "net_advances": 21,
-      "ad_line": 13223.0
+      "advances": 258,
+      "declines": 241,
+      "net_advances": 17,
+      "ad_line": 13258.0
     },
     {
       "date": "2025-07-21",
-      "advances": 180,
-      "declines": 315,
+      "advances": 183,
+      "declines": 318,
       "net_advances": -135,
-      "ad_line": 13088.0
+      "ad_line": 13123.0
     },
     {
       "date": "2025-07-22",
-      "advances": 399,
-      "declines": 96,
-      "net_advances": 303,
-      "ad_line": 13391.0
+      "advances": 404,
+      "declines": 97,
+      "net_advances": 307,
+      "ad_line": 13430.0
     },
     {
       "date": "2025-07-23",
-      "advances": 341,
-      "declines": 154,
-      "net_advances": 187,
-      "ad_line": 13578.0
+      "advances": 345,
+      "declines": 156,
+      "net_advances": 189,
+      "ad_line": 13619.0
     },
     {
       "date": "2025-07-24",
-      "advances": 213,
-      "declines": 281,
+      "advances": 216,
+      "declines": 284,
       "net_advances": -68,
-      "ad_line": 13510.0
+      "ad_line": 13551.0
     },
     {
       "date": "2025-07-25",
-      "advances": 330,
-      "declines": 161,
+      "advances": 333,
+      "declines": 164,
       "net_advances": 169,
-      "ad_line": 13679.0
+      "ad_line": 13720.0
     },
     {
       "date": "2025-07-28",
-      "advances": 140,
-      "declines": 354,
-      "net_advances": -214,
-      "ad_line": 13465.0
+      "advances": 142,
+      "declines": 358,
+      "net_advances": -216,
+      "ad_line": 13504.0
     },
     {
       "date": "2025-07-29",
-      "advances": 251,
-      "declines": 241,
-      "net_advances": 10,
-      "ad_line": 13475.0
+      "advances": 255,
+      "declines": 243,
+      "net_advances": 12,
+      "ad_line": 13516.0
     },
     {
       "date": "2025-07-30",
       "advances": 160,
-      "declines": 333,
-      "net_advances": -173,
-      "ad_line": 13302.0
+      "declines": 339,
+      "net_advances": -179,
+      "ad_line": 13337.0
     },
     {
       "date": "2025-07-31",
-      "advances": 140,
-      "declines": 353,
-      "net_advances": -213,
-      "ad_line": 13089.0
+      "advances": 141,
+      "declines": 358,
+      "net_advances": -217,
+      "ad_line": 13120.0
     },
     {
       "date": "2025-08-01",
-      "advances": 141,
-      "declines": 353,
+      "advances": 144,
+      "declines": 356,
       "net_advances": -212,
-      "ad_line": 12877.0
+      "ad_line": 12908.0
     },
     {
       "date": "2025-08-04",
-      "advances": 428,
-      "declines": 65,
-      "net_advances": 363,
-      "ad_line": 13240.0
+      "advances": 430,
+      "declines": 69,
+      "net_advances": 361,
+      "ad_line": 13269.0
     },
     {
       "date": "2025-08-05",
-      "advances": 219,
-      "declines": 274,
+      "advances": 222,
+      "declines": 277,
       "net_advances": -55,
-      "ad_line": 13185.0
+      "ad_line": 13214.0
     },
     {
       "date": "2025-08-06",
-      "advances": 237,
-      "declines": 258,
-      "net_advances": -21,
-      "ad_line": 13164.0
+      "advances": 241,
+      "declines": 260,
+      "net_advances": -19,
+      "ad_line": 13195.0
     },
     {
       "date": "2025-08-07",
-      "advances": 245,
-      "declines": 246,
-      "net_advances": -1,
-      "ad_line": 13163.0
+      "advances": 247,
+      "declines": 249,
+      "net_advances": -2,
+      "ad_line": 13193.0
     },
     {
       "date": "2025-08-08",
-      "advances": 291,
-      "declines": 200,
-      "net_advances": 91,
-      "ad_line": 13254.0
+      "advances": 296,
+      "declines": 201,
+      "net_advances": 95,
+      "ad_line": 13288.0
     },
     {
       "date": "2025-08-11",
-      "advances": 174,
-      "declines": 315,
-      "net_advances": -141,
-      "ad_line": 13113.0
+      "advances": 176,
+      "declines": 319,
+      "net_advances": -143,
+      "ad_line": 13145.0
     },
     {
       "date": "2025-08-12",
-      "advances": 394,
+      "advances": 400,
       "declines": 99,
-      "net_advances": 295,
-      "ad_line": 13408.0
+      "net_advances": 301,
+      "ad_line": 13446.0
     },
     {
       "date": "2025-08-13",
-      "advances": 410,
-      "declines": 85,
-      "net_advances": 325,
-      "ad_line": 13733.0
+      "advances": 415,
+      "declines": 86,
+      "net_advances": 329,
+      "ad_line": 13775.0
     },
     {
       "date": "2025-08-14",
-      "advances": 144,
-      "declines": 350,
-      "net_advances": -206,
-      "ad_line": 13527.0
+      "advances": 145,
+      "declines": 354,
+      "net_advances": -209,
+      "ad_line": 13566.0
     },
     {
       "date": "2025-08-15",
-      "advances": 202,
-      "declines": 291,
-      "net_advances": -89,
-      "ad_line": 13438.0
+      "advances": 206,
+      "declines": 293,
+      "net_advances": -87,
+      "ad_line": 13479.0
     },
     {
       "date": "2025-08-18",
-      "advances": 230,
-      "declines": 264,
-      "net_advances": -34,
-      "ad_line": 13404.0
+      "advances": 231,
+      "declines": 269,
+      "net_advances": -38,
+      "ad_line": 13441.0
     },
     {
       "date": "2025-08-19",
-      "advances": 345,
+      "advances": 351,
       "declines": 149,
-      "net_advances": 196,
-      "ad_line": 13600.0
+      "net_advances": 202,
+      "ad_line": 13643.0
     },
     {
       "date": "2025-08-20",
-      "advances": 257,
-      "declines": 235,
-      "net_advances": 22,
-      "ad_line": 13622.0
+      "advances": 260,
+      "declines": 237,
+      "net_advances": 23,
+      "ad_line": 13666.0
     },
     {
       "date": "2025-08-21",
-      "advances": 160,
-      "declines": 334,
-      "net_advances": -174,
-      "ad_line": 13448.0
+      "advances": 164,
+      "declines": 336,
+      "net_advances": -172,
+      "ad_line": 13494.0
     },
     {
       "date": "2025-08-22",
-      "advances": 420,
-      "declines": 75,
-      "net_advances": 345,
-      "ad_line": 13793.0
+      "advances": 425,
+      "declines": 76,
+      "net_advances": 349,
+      "ad_line": 13843.0
     },
     {
       "date": "2025-08-25",
-      "advances": 98,
-      "declines": 394,
-      "net_advances": -296,
-      "ad_line": 13497.0
+      "advances": 100,
+      "declines": 398,
+      "net_advances": -298,
+      "ad_line": 13545.0
     },
     {
       "date": "2025-08-26",
-      "advances": 261,
-      "declines": 232,
-      "net_advances": 29,
-      "ad_line": 13526.0
+      "advances": 262,
+      "declines": 237,
+      "net_advances": 25,
+      "ad_line": 13570.0
     },
     {
       "date": "2025-08-27",
-      "advances": 334,
+      "advances": 340,
       "declines": 159,
-      "net_advances": 175,
-      "ad_line": 13701.0
+      "net_advances": 181,
+      "ad_line": 13751.0
     },
     {
       "date": "2025-08-28",
-      "advances": 221,
-      "declines": 272,
-      "net_advances": -51,
-      "ad_line": 13650.0
+      "advances": 223,
+      "declines": 276,
+      "net_advances": -53,
+      "ad_line": 13698.0
     },
     {
       "date": "2025-08-29",
-      "advances": 279,
-      "declines": 214,
-      "net_advances": 65,
-      "ad_line": 13715.0
+      "advances": 283,
+      "declines": 216,
+      "net_advances": 67,
+      "ad_line": 13765.0
     },
     {
       "date": "2025-09-02",
-      "advances": 123,
-      "declines": 370,
-      "net_advances": -247,
-      "ad_line": 13468.0
+      "advances": 124,
+      "declines": 375,
+      "net_advances": -251,
+      "ad_line": 13514.0
     },
     {
       "date": "2025-09-03",
-      "advances": 221,
-      "declines": 273,
-      "net_advances": -52,
-      "ad_line": 13416.0
+      "advances": 225,
+      "declines": 275,
+      "net_advances": -50,
+      "ad_line": 13464.0
     },
     {
       "date": "2025-09-04",
-      "advances": 361,
+      "advances": 367,
       "declines": 132,
-      "net_advances": 229,
-      "ad_line": 13645.0
+      "net_advances": 235,
+      "ad_line": 13699.0
     },
     {
       "date": "2025-09-05",
-      "advances": 270,
-      "declines": 225,
+      "advances": 273,
+      "declines": 228,
       "net_advances": 45,
-      "ad_line": 13690.0
+      "ad_line": 13744.0
     },
     {
       "date": "2025-09-08",
-      "advances": 242,
-      "declines": 250,
-      "net_advances": -8,
-      "ad_line": 13682.0
+      "advances": 244,
+      "declines": 254,
+      "net_advances": -10,
+      "ad_line": 13734.0
     },
     {
       "date": "2025-09-09",
-      "advances": 204,
-      "declines": 288,
-      "net_advances": -84,
-      "ad_line": 13598.0
+      "advances": 206,
+      "declines": 292,
+      "net_advances": -86,
+      "ad_line": 13648.0
     },
     {
       "date": "2025-09-10",
-      "advances": 200,
-      "declines": 294,
-      "net_advances": -94,
-      "ad_line": 13504.0
+      "advances": 202,
+      "declines": 298,
+      "net_advances": -96,
+      "ad_line": 13552.0
     },
     {
       "date": "2025-09-11",
-      "advances": 430,
-      "declines": 63,
-      "net_advances": 367,
-      "ad_line": 13871.0
+      "advances": 434,
+      "declines": 64,
+      "net_advances": 370,
+      "ad_line": 13922.0
     },
     {
       "date": "2025-09-12",
-      "advances": 114,
-      "declines": 379,
-      "net_advances": -265,
-      "ad_line": 13606.0
+      "advances": 116,
+      "declines": 383,
+      "net_advances": -267,
+      "ad_line": 13655.0
     },
     {
       "date": "2025-09-15",
-      "advances": 196,
-      "declines": 297,
+      "advances": 199,
+      "declines": 300,
       "net_advances": -101,
-      "ad_line": 13505.0
+      "ad_line": 13554.0
     },
     {
       "date": "2025-09-16",
-      "advances": 183,
-      "declines": 310,
-      "net_advances": -127,
-      "ad_line": 13378.0
+      "advances": 188,
+      "declines": 311,
+      "net_advances": -123,
+      "ad_line": 13431.0
     },
     {
       "date": "2025-09-17",
-      "advances": 287,
-      "declines": 207,
-      "net_advances": 80,
-      "ad_line": 13458.0
+      "advances": 289,
+      "declines": 211,
+      "net_advances": 78,
+      "ad_line": 13509.0
     },
     {
       "date": "2025-09-18",
-      "advances": 318,
-      "declines": 175,
+      "advances": 321,
+      "declines": 178,
       "net_advances": 143,
-      "ad_line": 13601.0
+      "ad_line": 13652.0
     },
     {
       "date": "2025-09-19",
       "advances": 215,
-      "declines": 278,
-      "net_advances": -63,
-      "ad_line": 13538.0
+      "declines": 284,
+      "net_advances": -69,
+      "ad_line": 13583.0
     },
     {
       "date": "2025-09-22",
-      "advances": 244,
-      "declines": 249,
-      "net_advances": -5,
-      "ad_line": 13533.0
+      "advances": 245,
+      "declines": 254,
+      "net_advances": -9,
+      "ad_line": 13574.0
     },
     {
       "date": "2025-09-23",
-      "advances": 276,
-      "declines": 216,
-      "net_advances": 60,
-      "ad_line": 13593.0
+      "advances": 278,
+      "declines": 220,
+      "net_advances": 58,
+      "ad_line": 13632.0
     },
     {
       "date": "2025-09-24",
-      "advances": 216,
-      "declines": 275,
-      "net_advances": -59,
-      "ad_line": 13534.0
+      "advances": 218,
+      "declines": 279,
+      "net_advances": -61,
+      "ad_line": 13571.0
     },
     {
       "date": "2025-09-25",
-      "advances": 117,
-      "declines": 377,
-      "net_advances": -260,
-      "ad_line": 13274.0
+      "advances": 119,
+      "declines": 381,
+      "net_advances": -262,
+      "ad_line": 13309.0
     },
     {
       "date": "2025-09-26",
-      "advances": 425,
-      "declines": 69,
-      "net_advances": 356,
-      "ad_line": 13630.0
+      "advances": 429,
+      "declines": 71,
+      "net_advances": 358,
+      "ad_line": 13667.0
     },
     {
       "date": "2025-09-29",
-      "advances": 306,
-      "declines": 189,
-      "net_advances": 117,
-      "ad_line": 13747.0
+      "advances": 307,
+      "declines": 194,
+      "net_advances": 113,
+      "ad_line": 13780.0
     },
     {
       "date": "2025-09-30",
-      "advances": 302,
-      "declines": 192,
-      "net_advances": 110,
-      "ad_line": 13857.0
+      "advances": 306,
+      "declines": 194,
+      "net_advances": 112,
+      "ad_line": 13892.0
     },
     {
       "date": "2025-10-01",
-      "advances": 214,
-      "declines": 280,
+      "advances": 217,
+      "declines": 283,
       "net_advances": -66,
-      "ad_line": 13791.0
+      "ad_line": 13826.0
     },
     {
       "date": "2025-10-02",
-      "advances": 272,
-      "declines": 218,
-      "net_advances": 54,
-      "ad_line": 13845.0
+      "advances": 276,
+      "declines": 220,
+      "net_advances": 56,
+      "ad_line": 13882.0
     },
     {
       "date": "2025-10-03",
-      "advances": 319,
-      "declines": 174,
-      "net_advances": 145,
-      "ad_line": 13990.0
+      "advances": 323,
+      "declines": 176,
+      "net_advances": 147,
+      "ad_line": 14029.0
     },
     {
       "date": "2025-10-06",
-      "advances": 238,
-      "declines": 257,
-      "net_advances": -19,
-      "ad_line": 13971.0
+      "advances": 239,
+      "declines": 262,
+      "net_advances": -23,
+      "ad_line": 14006.0
     },
     {
       "date": "2025-10-07",
-      "advances": 199,
-      "declines": 294,
+      "advances": 202,
+      "declines": 297,
       "net_advances": -95,
-      "ad_line": 13876.0
+      "ad_line": 13911.0
     },
     {
       "date": "2025-10-08",
-      "advances": 260,
-      "declines": 233,
-      "net_advances": 27,
-      "ad_line": 13903.0
+      "advances": 264,
+      "declines": 235,
+      "net_advances": 29,
+      "ad_line": 13940.0
     },
     {
       "date": "2025-10-09",
-      "advances": 117,
-      "declines": 377,
+      "advances": 120,
+      "declines": 380,
       "net_advances": -260,
-      "ad_line": 13643.0
+      "ad_line": 13680.0
     },
     {
       "date": "2025-10-10",
       "advances": 78,
-      "declines": 416,
-      "net_advances": -338,
-      "ad_line": 13305.0
+      "declines": 422,
+      "net_advances": -344,
+      "ad_line": 13336.0
     },
     {
       "date": "2025-10-13",
-      "advances": 348,
+      "advances": 354,
       "declines": 144,
-      "net_advances": 204,
-      "ad_line": 13509.0
+      "net_advances": 210,
+      "ad_line": 13546.0
     },
     {
       "date": "2025-10-14",
-      "advances": 381,
+      "advances": 387,
       "declines": 113,
-      "net_advances": 268,
-      "ad_line": 13777.0
+      "net_advances": 274,
+      "ad_line": 13820.0
     },
     {
       "date": "2025-10-15",
-      "advances": 243,
-      "declines": 249,
-      "net_advances": -6,
-      "ad_line": 13771.0
+      "advances": 245,
+      "declines": 253,
+      "net_advances": -8,
+      "ad_line": 13812.0
     },
     {
       "date": "2025-10-16",
-      "advances": 132,
-      "declines": 362,
+      "advances": 135,
+      "declines": 365,
       "net_advances": -230,
-      "ad_line": 13541.0
+      "ad_line": 13582.0
     },
     {
       "date": "2025-10-17",
-      "advances": 355,
+      "advances": 361,
       "declines": 139,
-      "net_advances": 216,
-      "ad_line": 13757.0
+      "net_advances": 222,
+      "ad_line": 13804.0
     },
     {
       "date": "2025-10-20",
-      "advances": 407,
-      "declines": 84,
-      "net_advances": 323,
-      "ad_line": 14080.0
+      "advances": 412,
+      "declines": 85,
+      "net_advances": 327,
+      "ad_line": 14131.0
     },
     {
       "date": "2025-10-21",
-      "advances": 293,
-      "declines": 201,
-      "net_advances": 92,
-      "ad_line": 14172.0
+      "advances": 298,
+      "declines": 202,
+      "net_advances": 96,
+      "ad_line": 14227.0
     },
     {
       "date": "2025-10-22",
-      "advances": 195,
-      "declines": 299,
+      "advances": 198,
+      "declines": 302,
       "net_advances": -104,
-      "ad_line": 14068.0
+      "ad_line": 14123.0
     },
     {
       "date": "2025-10-23",
-      "advances": 278,
-      "declines": 216,
-      "net_advances": 62,
-      "ad_line": 14130.0
+      "advances": 283,
+      "declines": 217,
+      "net_advances": 66,
+      "ad_line": 14189.0
     },
     {
       "date": "2025-10-24",
-      "advances": 256,
-      "declines": 236,
-      "net_advances": 20,
-      "ad_line": 14150.0
+      "advances": 257,
+      "declines": 241,
+      "net_advances": 16,
+      "ad_line": 14205.0
     },
     {
       "date": "2025-10-27",
-      "advances": 318,
-      "declines": 175,
-      "net_advances": 143,
-      "ad_line": 14293.0
+      "advances": 323,
+      "declines": 176,
+      "net_advances": 147,
+      "ad_line": 14352.0
     },
     {
       "date": "2025-10-28",
-      "advances": 104,
-      "declines": 392,
-      "net_advances": -288,
-      "ad_line": 14005.0
+      "advances": 105,
+      "declines": 397,
+      "net_advances": -292,
+      "ad_line": 14060.0
     },
     {
       "date": "2025-10-29",
-      "advances": 123,
-      "declines": 373,
-      "net_advances": -250,
-      "ad_line": 13755.0
+      "advances": 125,
+      "declines": 377,
+      "net_advances": -252,
+      "ad_line": 13808.0
     },
     {
       "date": "2025-10-30",
-      "advances": 231,
-      "declines": 264,
+      "advances": 234,
+      "declines": 267,
       "net_advances": -33,
-      "ad_line": 13722.0
+      "ad_line": 13775.0
     },
     {
       "date": "2025-10-31",
-      "advances": 263,
-      "declines": 230,
-      "net_advances": 33,
-      "ad_line": 13755.0
+      "advances": 264,
+      "declines": 235,
+      "net_advances": 29,
+      "ad_line": 13804.0
     },
     {
       "date": "2025-11-03",
-      "advances": 184,
-      "declines": 310,
-      "net_advances": -126,
-      "ad_line": 13629.0
+      "advances": 186,
+      "declines": 314,
+      "net_advances": -128,
+      "ad_line": 13676.0
     },
     {
       "date": "2025-11-04",
-      "advances": 218,
-      "declines": 278,
-      "net_advances": -60,
-      "ad_line": 13569.0
+      "advances": 220,
+      "declines": 282,
+      "net_advances": -62,
+      "ad_line": 13614.0
     },
     {
       "date": "2025-11-05",
-      "advances": 306,
-      "declines": 187,
-      "net_advances": 119,
-      "ad_line": 13688.0
+      "advances": 308,
+      "declines": 191,
+      "net_advances": 117,
+      "ad_line": 13731.0
     },
     {
       "date": "2025-11-06",
-      "advances": 161,
-      "declines": 336,
-      "net_advances": -175,
-      "ad_line": 13513.0
+      "advances": 162,
+      "declines": 341,
+      "net_advances": -179,
+      "ad_line": 13552.0
     },
     {
       "date": "2025-11-07",
-      "advances": 390,
-      "declines": 106,
+      "advances": 393,
+      "declines": 109,
       "net_advances": 284,
-      "ad_line": 13797.0
+      "ad_line": 13836.0
     },
     {
       "date": "2025-11-10",
-      "advances": 312,
-      "declines": 183,
+      "advances": 315,
+      "declines": 186,
       "net_advances": 129,
-      "ad_line": 13926.0
+      "ad_line": 13965.0
     },
     {
       "date": "2025-11-11",
-      "advances": 339,
-      "declines": 156,
-      "net_advances": 183,
-      "ad_line": 14109.0
+      "advances": 344,
+      "declines": 157,
+      "net_advances": 187,
+      "ad_line": 14152.0
     },
     {
       "date": "2025-11-12",
-      "advances": 292,
-      "declines": 202,
-      "net_advances": 90,
-      "ad_line": 14199.0
+      "advances": 297,
+      "declines": 203,
+      "net_advances": 94,
+      "ad_line": 14246.0
     },
     {
       "date": "2025-11-13",
-      "advances": 126,
-      "declines": 368,
+      "advances": 129,
+      "declines": 371,
       "net_advances": -242,
-      "ad_line": 13957.0
+      "ad_line": 14004.0
     },
     {
       "date": "2025-11-14",
-      "advances": 183,
-      "declines": 308,
+      "advances": 186,
+      "declines": 311,
       "net_advances": -125,
-      "ad_line": 13832.0
+      "ad_line": 13879.0
     },
     {
       "date": "2025-11-17",
-      "advances": 95,
-      "declines": 402,
-      "net_advances": -307,
-      "ad_line": 13525.0
+      "advances": 96,
+      "declines": 407,
+      "net_advances": -311,
+      "ad_line": 13568.0
     },
     {
       "date": "2025-11-18",
-      "advances": 277,
-      "declines": 217,
-      "net_advances": 60,
-      "ad_line": 13585.0
+      "advances": 250,
+      "declines": 253,
+      "net_advances": -3,
+      "ad_line": 13565.0
     }
   ]
 }

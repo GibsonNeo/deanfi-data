@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2025-11-18T20:29:19.705717+00:00",
+    "generated_at": "2025-11-18T21:53:40.963834+00:00",
     "data_source": "Yahoo Finance (yfinance)",
     "universe": "S&P 500",
     "total_stocks": 503,
@@ -28,24 +28,24 @@
   },
   "statistics": {
     "near_52w_high": {
-      "current_percentage": 2.95,
-      "change_5_days": -3.21,
-      "change_20_days": 0.36,
+      "current_percentage": 2.78,
+      "change_5_days": -3.38,
+      "change_20_days": 0.19,
       "min_percentage": 0.0,
       "max_percentage": 22.75,
       "average_percentage": 5.67
     },
     "near_52w_low": {
-      "current_percentage": 1.69,
-      "change_5_days": 1.09,
-      "change_20_days": 1.49,
+      "current_percentage": 2.19,
+      "change_5_days": 1.59,
+      "change_20_days": 1.99,
       "min_percentage": 0.0,
       "max_percentage": 14.57,
       "average_percentage": 1.05
     },
     "high_low_ratio": {
-      "current": 1.75,
-      "average": 12.113
+      "current": 1.273,
+      "average": 12.111
     },
     "market_condition": "Neutral (mixed market)",
     "trend": "Stable",
@@ -3620,11 +3620,11 @@
       "date": "2025-11-13",
       "near_52w_high": {
         "count": 10,
-        "percentage": 2.0
+        "percentage": 1.99
       },
       "near_52w_low": {
         "count": 7,
-        "percentage": 1.4
+        "percentage": 1.39
       },
       "high_low_ratio": 1.429
     },
@@ -3632,11 +3632,11 @@
       "date": "2025-11-14",
       "near_52w_high": {
         "count": 10,
-        "percentage": 2.0
+        "percentage": 1.99
       },
       "near_52w_low": {
         "count": 9,
-        "percentage": 1.8
+        "percentage": 1.79
       },
       "high_low_ratio": 1.111
     },
@@ -3644,11 +3644,11 @@
       "date": "2025-11-17",
       "near_52w_high": {
         "count": 8,
-        "percentage": 1.6
+        "percentage": 1.59
       },
       "near_52w_low": {
         "count": 16,
-        "percentage": 3.19
+        "percentage": 3.18
       },
       "high_low_ratio": 0.5
     },
@@ -3656,13 +3656,13 @@
       "date": "2025-11-18",
       "near_52w_high": {
         "count": 14,
-        "percentage": 2.95
+        "percentage": 2.78
       },
       "near_52w_low": {
-        "count": 8,
-        "percentage": 1.69
+        "count": 11,
+        "percentage": 2.19
       },
-      "high_low_ratio": 1.75
+      "high_low_ratio": 1.273
     }
   ]
 }
