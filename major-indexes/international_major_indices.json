@@ -21,7 +21,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2025-11-18T19:01:39Z",
+    "generated_at": "2025-11-18T19:24:55Z",
     "market_date": "2025-11-18",
     "market_status": "during",
     "indices_count": 11,
@@ -30,7 +30,7 @@
       "status": "stale",
       "missing_days": 241,
       "completeness_percent": 4.4,
-      "last_update": "2025-11-18T19:01:39Z",
+      "last_update": "2025-11-18T19:24:55Z",
       "market_hours": "during"
     }
   },
@@ -311,20 +311,20 @@
       "country": "Canada",
       "currency": "CAD",
       "region": "other",
-      "current_price": 30111.44,
-      "daily_change": 35.24,
-      "daily_change_percent": 0.12,
-      "volume": 119354247,
+      "current_price": 30095.99,
+      "daily_change": 19.79,
+      "daily_change_percent": 0.07,
+      "volume": 126294390,
       "day_high": 30138.59,
       "day_low": 29829.35,
       "day_open": 29969.72,
       "52_week_high": 30827.6,
       "52_week_low": 22506.9,
-      "distance_from_52w_high_percent": -2.32,
-      "year_to_date_percent": 20.94,
-      "1_month_percent": -1.0,
-      "3_month_percent": 8.22,
-      "6_month_percent": 15.57,
+      "distance_from_52w_high_percent": -2.37,
+      "year_to_date_percent": 20.88,
+      "1_month_percent": -1.05,
+      "3_month_percent": 8.17,
+      "6_month_percent": 15.51,
       "pivot_points": {
         "pivot_point": 30123.27,
         "resistance_1": 30306.03,
@@ -382,7 +382,7 @@
       "regional_sentiment": "negative"
     },
     "other": {
-      "average_return_1d": -0.86,
+      "average_return_1d": -0.89,
       "indices_count": 2,
       "indices_up": 1,
       "indices_down": 1,
