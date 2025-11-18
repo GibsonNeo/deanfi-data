@@ -3,7 +3,7 @@
     "title": "Treasury Yields - 252-Day Historical"
   },
   "metadata": {
-    "generated_at": "2025-11-18T14:27:01Z",
+    "generated_at": "2025-11-18T14:48:13Z",
     "trading_days": 252
   },
   "indices": {
@@ -2275,18 +2275,18 @@
           "open": 4.11,
           "high": 4.11,
           "low": 4.09,
-          "close": 4.09,
+          "close": 4.11,
           "volume": 0,
-          "daily_return_percent": -0.92
+          "daily_return_percent": -0.58
         }
       ],
       "technical_indicators": {
         "moving_averages": {
-          "sma_20": 4.07,
+          "sma_20": 4.08,
           "sma_50": 4.08,
-          "sma_200": 4.27
+          "sma_200": 4.28
         },
-        "rsi_14": 54.07,
+        "rsi_14": 55.94,
         "macd": {
           "macd_line": 0.01,
           "signal_line": 0.01,
@@ -2294,15 +2294,15 @@
         },
         "bollinger_bands": {
           "upper": 4.19,
-          "middle": 4.07,
+          "middle": 4.08,
           "lower": 3.96
         }
       },
       "statistics": {
-        "period_return_percent": -7.59,
+        "period_return_percent": -7.27,
         "volatility_annual_percent": 0.19,
         "max_drawdown_percent": -17.7,
-        "sharpe_ratio": -0.52,
+        "sharpe_ratio": -0.51,
         "average_daily_volume": null,
         "days_up": 125,
         "days_down": 121,
@@ -4575,11 +4575,11 @@
         {
           "date": "2025-11-18",
           "open": 4.72,
-          "high": 4.72,
+          "high": 4.73,
           "low": 4.71,
-          "close": 4.71,
+          "close": 4.73,
           "volume": 0,
-          "daily_return_percent": -0.57
+          "daily_return_percent": -0.3
         }
       ],
       "technical_indicators": {
@@ -4588,7 +4588,7 @@
           "sma_50": 4.68,
           "sma_200": 4.77
         },
-        "rsi_14": 63.68,
+        "rsi_14": 65.75,
         "macd": {
           "macd_line": 0.02,
           "signal_line": 0.01,
@@ -4601,10 +4601,10 @@
         }
       },
       "statistics": {
-        "period_return_percent": 2.43,
+        "period_return_percent": 2.72,
         "volatility_annual_percent": 0.16,
         "max_drawdown_percent": -11.99,
-        "sharpe_ratio": -0.01,
+        "sharpe_ratio": 0.0,
         "average_daily_volume": null,
         "days_up": 125,
         "days_down": 122,
@@ -6879,9 +6879,9 @@
           "open": 3.69,
           "high": 3.69,
           "low": 3.67,
-          "close": 3.67,
+          "close": 3.68,
           "volume": 0,
-          "daily_return_percent": -1.4
+          "daily_return_percent": -1.02
         }
       ],
       "technical_indicators": {
@@ -6890,7 +6890,7 @@
           "sma_50": 3.67,
           "sma_200": 3.9
         },
-        "rsi_14": 46.51,
+        "rsi_14": 48.13,
         "macd": {
           "macd_line": 0.01,
           "signal_line": 0.01,
@@ -6903,10 +6903,10 @@
         }
       },
       "statistics": {
-        "period_return_percent": -14.66,
+        "period_return_percent": -14.33,
         "volatility_annual_percent": 0.22,
         "max_drawdown_percent": -23.11,
-        "sharpe_ratio": -0.8,
+        "sharpe_ratio": -0.78,
         "average_daily_volume": null,
         "days_up": 124,
         "days_down": 125,

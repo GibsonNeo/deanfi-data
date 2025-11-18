@@ -5,7 +5,7 @@
     "trading_days": 252
   },
   "metadata": {
-    "generated_at": "2025-11-18T14:26:58Z",
+    "generated_at": "2025-11-18T14:48:09Z",
     "trading_days": 252,
     "indices_count": 11
   },
@@ -2278,35 +2278,35 @@
           "date": "2025-11-18",
           "open": 9675.44,
           "high": 9675.64,
-          "low": 9533.67,
-          "close": 9536.66,
+          "low": 9529.86,
+          "close": 9548.56,
           "volume": 0,
-          "daily_return_percent": -1.43
+          "daily_return_percent": -1.31
         }
       ],
       "technical_indicators": {
         "moving_averages": {
-          "sma_20": 9712.57,
-          "sma_50": 9495.78,
-          "sma_200": 8955.29
+          "sma_20": 9713.17,
+          "sma_50": 9496.01,
+          "sma_200": 8955.35
         },
-        "rsi_14": 36.88,
+        "rsi_14": 37.41,
         "macd": {
-          "macd_line": 60.75,
-          "signal_line": 90.52,
-          "histogram": -29.77
+          "macd_line": 61.7,
+          "signal_line": 90.71,
+          "histogram": -29.01
         },
         "bollinger_bands": {
-          "upper": 9916.09,
-          "middle": 9712.57,
-          "lower": 9509.06
+          "upper": 9914.58,
+          "middle": 9713.17,
+          "lower": 9511.76
         }
       },
       "statistics": {
-        "period_return_percent": 17.95,
+        "period_return_percent": 18.1,
         "volatility_annual_percent": 0.12,
         "max_drawdown_percent": -13.43,
-        "sharpe_ratio": 1.1,
+        "sharpe_ratio": 1.11,
         "average_daily_volume": null,
         "days_up": 151,
         "days_down": 100,
@@ -4581,35 +4581,35 @@
           "date": "2025-11-18",
           "open": 23238.33,
           "high": 23358.75,
-          "low": 23184.11,
-          "close": 23184.48,
+          "low": 23174.04,
+          "close": 23222.98,
           "volume": 0,
-          "daily_return_percent": -1.72
+          "daily_return_percent": -1.56
         }
       ],
       "technical_indicators": {
         "moving_averages": {
-          "sma_20": 23997.28,
-          "sma_50": 23981.28,
-          "sma_200": 23447.83
+          "sma_20": 23999.2,
+          "sma_50": 23982.05,
+          "sma_200": 23448.02
         },
-        "rsi_14": 34.9,
+        "rsi_14": 35.34,
         "macd": {
-          "macd_line": -119.45,
-          "signal_line": -46.69,
-          "histogram": -72.76
+          "macd_line": -116.38,
+          "signal_line": -46.07,
+          "histogram": -70.3
         },
         "bollinger_bands": {
-          "upper": 24579.57,
-          "middle": 23997.28,
-          "lower": 23414.98
+          "upper": 24570.33,
+          "middle": 23999.2,
+          "lower": 23428.08
         }
       },
       "statistics": {
-        "period_return_percent": 21.99,
+        "period_return_percent": 22.2,
         "volatility_annual_percent": 0.18,
         "max_drawdown_percent": -16.01,
-        "sharpe_ratio": 0.98,
+        "sharpe_ratio": 0.99,
         "average_daily_volume": null,
         "days_up": 133,
         "days_down": 118,
@@ -6884,32 +6884,32 @@
           "date": "2025-11-18",
           "open": 8017.73,
           "high": 8032.51,
-          "low": 7977.5,
-          "close": 7978.17,
+          "low": 7972.46,
+          "close": 7986.09,
           "volume": 0,
-          "daily_return_percent": -1.73
+          "daily_return_percent": -1.64
         }
       ],
       "technical_indicators": {
         "moving_averages": {
-          "sma_20": 8135.63,
-          "sma_50": 8022.71,
-          "sma_200": 7847.2
+          "sma_20": 8136.02,
+          "sma_50": 8022.86,
+          "sma_200": 7847.24
         },
-        "rsi_14": 36.39,
+        "rsi_14": 36.75,
         "macd": {
-          "macd_line": 15.79,
-          "signal_line": 30.16,
-          "histogram": -14.38
+          "macd_line": 16.42,
+          "signal_line": 30.29,
+          "histogram": -13.87
         },
         "bollinger_bands": {
-          "upper": 8324.7,
-          "middle": 8135.63,
-          "lower": 7946.55
+          "upper": 8323.74,
+          "middle": 8136.02,
+          "lower": 7948.31
         }
       },
       "statistics": {
-        "period_return_percent": 9.97,
+        "period_return_percent": 10.08,
         "volatility_annual_percent": 0.16,
         "max_drawdown_percent": -16.37,
         "sharpe_ratio": 0.43,
@@ -9187,35 +9187,35 @@
           "date": "2025-11-18",
           "open": 5610.75,
           "high": 5610.75,
-          "low": 5543.46,
-          "close": 5543.46,
+          "low": 5541.47,
+          "close": 5554.11,
           "volume": 0,
-          "daily_return_percent": -1.73
+          "daily_return_percent": -1.54
         }
       ],
       "technical_indicators": {
         "moving_averages": {
-          "sma_20": 5672.46,
-          "sma_50": 5586.52,
-          "sma_200": 5390.37
+          "sma_20": 5672.99,
+          "sma_50": 5586.74,
+          "sma_200": 5390.42
         },
-        "rsi_14": 37.63,
+        "rsi_14": 38.25,
         "macd": {
-          "macd_line": 15.27,
-          "signal_line": 30.11,
-          "histogram": -14.84
+          "macd_line": 16.12,
+          "signal_line": 30.28,
+          "histogram": -14.16
         },
         "bollinger_bands": {
-          "upper": 5784.73,
-          "middle": 5672.46,
-          "lower": 5560.19
+          "upper": 5782.76,
+          "middle": 5672.99,
+          "lower": 5563.22
         }
       },
       "statistics": {
-        "period_return_percent": 14.69,
+        "period_return_percent": 14.91,
         "volatility_annual_percent": 0.16,
         "max_drawdown_percent": -16.58,
-        "sharpe_ratio": 0.68,
+        "sharpe_ratio": 0.69,
         "average_daily_volume": null,
         "days_up": 135,
         "days_down": 116,
@@ -11490,32 +11490,32 @@
           "date": "2025-11-18",
           "open": 12559.94,
           "high": 12566.22,
-          "low": 12497.73,
-          "close": 12506.68,
+          "low": 12489.37,
+          "close": 12509.48,
           "volume": 0,
-          "daily_return_percent": -0.72
+          "daily_return_percent": -0.7
         }
       ],
       "technical_indicators": {
         "moving_averages": {
-          "sma_20": 12470.99,
-          "sma_50": 12374.67,
-          "sma_200": 12289.55
+          "sma_20": 12471.13,
+          "sma_50": 12374.73,
+          "sma_200": 12289.57
         },
-        "rsi_14": 59.12,
+        "rsi_14": 59.27,
         "macd": {
-          "macd_line": 58.14,
-          "signal_line": 43.82,
-          "histogram": 14.32
+          "macd_line": 58.37,
+          "signal_line": 43.87,
+          "histogram": 14.5
         },
         "bollinger_bands": {
-          "upper": 12822.7,
-          "middle": 12470.99,
-          "lower": 12119.27
+          "upper": 12822.9,
+          "middle": 12471.13,
+          "lower": 12119.35
         }
       },
       "statistics": {
-        "period_return_percent": 6.14,
+        "period_return_percent": 6.16,
         "volatility_annual_percent": 0.15,
         "max_drawdown_percent": -17.31,
         "sharpe_ratio": 0.21,
@@ -20743,22 +20743,13 @@
       "country": "Canada",
       "data": [
         {
-          "date": "2024-11-15",
-          "open": 25004.5,
-          "high": 25004.5,
-          "low": 24814.9,
-          "close": 24890.7,
-          "volume": 253363600,
-          "daily_return_percent": null
-        },
-        {
           "date": "2024-11-18",
           "open": 24906.5,
           "high": 25082.9,
           "low": 24906.5,
           "close": 24976.9,
           "volume": 286275200,
-          "daily_return_percent": 0.35
+          "daily_return_percent": null
         },
         {
           "date": "2024-11-19",
@@ -23009,35 +23000,44 @@
           "close": 30076.2,
           "volume": 314802500,
           "daily_return_percent": -0.83
+        },
+        {
+          "date": "2025-11-18",
+          "open": 29969.72,
+          "high": 30008.7,
+          "low": 29873.18,
+          "close": 29949.01,
+          "volume": 21318667,
+          "daily_return_percent": -0.42
         }
       ],
       "technical_indicators": {
         "moving_averages": {
-          "sma_20": 30191.91,
-          "sma_50": 30006.61,
-          "sma_200": 27030.23
+          "sma_20": 30194.92,
+          "sma_50": 30025.03,
+          "sma_200": 27052.31
         },
-        "rsi_14": 44.83,
+        "rsi_14": 46.91,
         "macd": {
-          "macd_line": 86.65,
-          "signal_line": 104.89,
-          "histogram": -18.24
+          "macd_line": 56.84,
+          "signal_line": 95.28,
+          "histogram": -38.44
         },
         "bollinger_bands": {
-          "upper": 30672.87,
-          "middle": 30191.91,
-          "lower": 29710.95
+          "upper": 30668.59,
+          "middle": 30194.92,
+          "lower": 29721.25
         }
       },
       "statistics": {
-        "period_return_percent": 20.83,
+        "period_return_percent": 19.91,
         "volatility_annual_percent": 0.14,
         "max_drawdown_percent": -12.79,
-        "sharpe_ratio": 1.12,
+        "sharpe_ratio": 1.07,
         "average_daily_volume": null,
-        "days_up": 155,
-        "days_down": 95,
-        "win_rate_percent": 61.75
+        "days_up": 154,
+        "days_down": 96,
+        "win_rate_percent": 61.35
       }
     },
     "^TA125.TA": {
@@ -25308,35 +25308,35 @@
           "date": "2025-11-18",
           "open": 3464.79,
           "high": 3475.34,
-          "low": 3429.83,
-          "close": 3432.95,
+          "low": 3425.27,
+          "close": 3433.46,
           "volume": 0,
-          "daily_return_percent": -1.8
+          "daily_return_percent": -1.79
         }
       ],
       "technical_indicators": {
         "moving_averages": {
-          "sma_20": 3372.09,
-          "sma_50": 3247.78,
-          "sma_200": 2843.57
+          "sma_20": 3372.11,
+          "sma_50": 3247.79,
+          "sma_200": 2843.58
         },
-        "rsi_14": 72.97,
+        "rsi_14": 73.08,
         "macd": {
-          "macd_line": 65.79,
-          "signal_line": 62.76,
-          "histogram": 3.02
+          "macd_line": 65.83,
+          "signal_line": 62.77,
+          "histogram": 3.06
         },
         "bollinger_bands": {
-          "upper": 3525.71,
-          "middle": 3372.09,
-          "lower": 3218.46
+          "upper": 3525.78,
+          "middle": 3372.11,
+          "lower": 3218.45
         }
       },
       "statistics": {
-        "period_return_percent": 57.98,
+        "period_return_percent": 58.0,
         "volatility_annual_percent": 0.17,
         "max_drawdown_percent": -8.54,
-        "sharpe_ratio": 2.59,
+        "sharpe_ratio": 2.6,
         "average_daily_volume": null,
         "days_up": 140,
         "days_down": 111,
