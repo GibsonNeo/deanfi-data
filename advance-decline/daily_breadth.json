@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2025-11-18T19:52:22.542425+00:00",
+    "generated_at": "2025-11-18T20:26:16.329427+00:00",
     "data_source": "Yahoo Finance (yfinance)",
     "universe": "S&P 500",
     "total_stocks_analyzed": 503,
@@ -25,45 +25,45 @@
   "data": {
     "date": "2025-11-18",
     "advances_declines": {
-      "advances": 312,
-      "declines": 183,
+      "advances": 284,
+      "declines": 191,
       "unchanged": 1,
-      "total_stocks": 496,
-      "advance_decline_ratio": 1.705,
-      "advance_percentage": 62.9,
+      "total_stocks": 476,
+      "advance_decline_ratio": 1.487,
+      "advance_percentage": 59.66,
       "interpretation": "Advances > Declines suggests broad market strength"
     },
     "volume_metrics": {
-      "advancing_volume": 1086972541,
-      "declining_volume": 892721219,
-      "total_volume": 1980139429,
-      "volume_ratio": 1.218,
-      "advancing_volume_pct": 54.89,
+      "advancing_volume": 1060429567,
+      "declining_volume": 917954209,
+      "total_volume": 1978636647,
+      "volume_ratio": 1.155,
+      "advancing_volume_pct": 53.59,
       "interpretation": "Volume ratio > 1 means more volume in advancing stocks (bullish)"
     },
     "new_highs_lows": {
-      "stocks_near_52w_high": 17,
-      "stocks_near_52w_low": 7,
-      "pct_near_52w_high": 3.43,
-      "pct_near_52w_low": 1.41,
-      "high_low_ratio": 2.429,
+      "stocks_near_52w_high": 14,
+      "stocks_near_52w_low": 8,
+      "pct_near_52w_high": 2.94,
+      "pct_near_52w_low": 1.68,
+      "high_low_ratio": 1.75,
       "threshold_note": "Near high: within 1%, Near low: within 1%",
       "interpretation": "More new highs than lows indicates strong market leadership"
     },
     "moving_averages": {
       "above_20_day_ma": {
-        "count": 178,
-        "percentage": 35.89,
+        "count": 169,
+        "percentage": 35.5,
         "interpretation": ">70% = strong short-term trend, <30% = weak short-term trend"
       },
       "above_50_day_ma": {
-        "count": 198,
+        "count": 190,
         "percentage": 39.92,
         "interpretation": ">70% = strong intermediate trend, <30% = weak trend"
       },
       "above_200_day_ma": {
-        "count": 273,
-        "percentage": 55.04,
+        "count": 263,
+        "percentage": 55.25,
         "interpretation": ">70% = strong long-term trend, <30% = weak trend"
       }
     }
