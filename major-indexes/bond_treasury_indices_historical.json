@@ -3,7 +3,7 @@
     "title": "Treasury Yields - 252-Day Historical"
   },
   "metadata": {
-    "generated_at": "2025-11-19T19:42:32Z",
+    "generated_at": "2025-11-19T19:55:52Z",
     "trading_days": 252
   },
   "indices": {
@@ -2277,7 +2277,7 @@
           "low": 4.1,
           "close": 4.12,
           "volume": 0,
-          "daily_return_percent": -0.12
+          "daily_return_percent": 0.02
         }
       ],
       "technical_indicators": {
@@ -2286,7 +2286,7 @@
           "sma_50": 4.08,
           "sma_200": 4.27
         },
-        "rsi_14": 53.06,
+        "rsi_14": 53.95,
         "macd": {
           "macd_line": 0.01,
           "signal_line": 0.01,
@@ -2299,10 +2299,10 @@
         }
       },
       "statistics": {
-        "period_return_percent": -6.77,
+        "period_return_percent": -6.64,
         "volatility_annual_percent": 0.19,
         "max_drawdown_percent": -17.7,
-        "sharpe_ratio": -0.48,
+        "sharpe_ratio": -0.47,
         "average_daily_volume": null,
         "days_up": 125,
         "days_down": 121,
@@ -4579,7 +4579,7 @@
           "low": 4.72,
           "close": 4.74,
           "volume": 0,
-          "daily_return_percent": -0.04
+          "daily_return_percent": 0.06
         }
       ],
       "technical_indicators": {
@@ -4588,7 +4588,7 @@
           "sma_50": 4.68,
           "sma_200": 4.77
         },
-        "rsi_14": 62.82,
+        "rsi_14": 63.71,
         "macd": {
           "macd_line": 0.02,
           "signal_line": 0.01,
@@ -4601,13 +4601,13 @@
         }
       },
       "statistics": {
-        "period_return_percent": 2.87,
+        "period_return_percent": 2.97,
         "volatility_annual_percent": 0.16,
         "max_drawdown_percent": -11.99,
-        "sharpe_ratio": 0.01,
+        "sharpe_ratio": 0.02,
         "average_daily_volume": null,
         "days_up": 125,
-        "days_down": 122,
+        "days_down": 121,
         "win_rate_percent": 49.8
       }
     },
@@ -6879,18 +6879,18 @@
           "open": 3.68,
           "high": 3.7,
           "low": 3.67,
-          "close": 3.69,
+          "close": 3.7,
           "volume": 0,
-          "daily_return_percent": -0.08
+          "daily_return_percent": 0.16
         }
       ],
       "technical_indicators": {
         "moving_averages": {
           "sma_20": 3.69,
           "sma_50": 3.67,
-          "sma_200": 3.89
+          "sma_200": 3.9
         },
-        "rsi_14": 45.58,
+        "rsi_14": 46.74,
         "macd": {
           "macd_line": 0.01,
           "signal_line": 0.01,
@@ -6903,14 +6903,14 @@
         }
       },
       "statistics": {
-        "period_return_percent": -13.79,
+        "period_return_percent": -13.58,
         "volatility_annual_percent": 0.22,
         "max_drawdown_percent": -23.11,
-        "sharpe_ratio": -0.75,
+        "sharpe_ratio": -0.74,
         "average_daily_volume": null,
-        "days_up": 124,
-        "days_down": 125,
-        "win_rate_percent": 49.4
+        "days_up": 125,
+        "days_down": 124,
+        "win_rate_percent": 49.8
       }
     },
     "^IRX": {
@@ -9181,9 +9181,9 @@
           "open": 3.77,
           "high": 3.78,
           "low": 3.76,
-          "close": 3.78,
+          "close": 3.77,
           "volume": 0,
-          "daily_return_percent": 0.13
+          "daily_return_percent": 0.05
         }
       ],
       "technical_indicators": {
@@ -9192,7 +9192,7 @@
           "sma_50": 3.82,
           "sma_200": 4.1
         },
-        "rsi_14": 54.09,
+        "rsi_14": 53.46,
         "macd": {
           "macd_line": -0.01,
           "signal_line": -0.02,
@@ -9205,14 +9205,14 @@
         }
       },
       "statistics": {
-        "period_return_percent": -14.26,
+        "period_return_percent": -14.33,
         "volatility_annual_percent": 0.06,
         "max_drawdown_percent": -15.79,
-        "sharpe_ratio": -3.03,
+        "sharpe_ratio": -3.04,
         "average_daily_volume": null,
-        "days_up": 103,
+        "days_up": 102,
         "days_down": 117,
-        "win_rate_percent": 41.04
+        "win_rate_percent": 40.64
       }
     }
   }
