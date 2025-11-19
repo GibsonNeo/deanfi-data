@@ -6,7 +6,7 @@
     "trading_days": 252
   },
   "metadata": {
-    "generated_at": "2025-11-19T21:21:54Z",
+    "generated_at": "2025-11-19T21:42:59Z",
     "start_date": "2024-11-19",
     "end_date": "2025-11-19",
     "trading_days": 252,
@@ -112,7 +112,7 @@
         {
           "date": "2024-12-03",
           "open": 233.47,
-          "high": 235.36,
+          "high": 235.37,
           "low": 233.01,
           "close": 235.31,
           "volume": 2788000,
@@ -6891,9 +6891,9 @@
           "open": 51.38,
           "high": 51.65,
           "low": 51.19,
-          "close": 51.57,
+          "close": 51.56,
           "volume": 45542541,
-          "daily_return_percent": 0.39
+          "daily_return_percent": 0.37
         }
       ],
       "technical_indicators": {
@@ -6902,7 +6902,7 @@
           "sma_50": 53.03,
           "sma_200": 51.11
         },
-        "rsi_14": 43.07,
+        "rsi_14": 42.95,
         "macd": {
           "macd_line": -0.27,
           "signal_line": -0.15,
@@ -6915,7 +6915,7 @@
         }
       },
       "statistics": {
-        "period_return_percent": 4.61,
+        "period_return_percent": 4.59,
         "volatility_annual_percent": 0.19,
         "max_drawdown_percent": -15.54,
         "sharpe_ratio": 0.12,

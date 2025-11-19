@@ -42,7 +42,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2025-11-19T21:21:12Z",
+    "generated_at": "2025-11-19T21:42:55Z",
     "market_date": "2025-11-19",
     "market_status": "post",
     "indices_count": 11,
@@ -51,7 +51,7 @@
       "status": "stale",
       "missing_days": 241,
       "completeness_percent": 4.4,
-      "last_update": "2025-11-19T21:21:12Z",
+      "last_update": "2025-11-19T21:42:55Z",
       "market_hours": "post"
     }
   },
@@ -124,21 +124,21 @@
       "sector_name": "Financials",
       "gics_code": "40",
       "description": "Banks, insurance, capital markets, REITs",
-      "current_price": 51.57,
-      "daily_change": 0.2,
-      "daily_change_percent": 0.39,
+      "current_price": 51.56,
+      "daily_change": 0.19,
+      "daily_change_percent": 0.37,
       "volume": 45542541,
       "day_high": 51.65,
       "day_low": 51.19,
       "day_open": 51.38,
       "52_week_high": 54.13,
       "52_week_low": 43.63,
-      "distance_from_52w_high_percent": -4.73,
-      "year_to_date_percent": 8.08,
-      "1_month_percent": -2.2,
-      "3_month_percent": -1.82,
-      "6_month_percent": 3.24,
-      "relative_to_sp500_1d": 0.01,
+      "distance_from_52w_high_percent": -4.75,
+      "year_to_date_percent": 8.06,
+      "1_month_percent": -2.22,
+      "3_month_percent": -1.84,
+      "6_month_percent": 3.22,
+      "relative_to_sp500_1d": -0.01,
       "pivot_points": {
         "pivot_point": 51.42,
         "resistance_1": 51.7,
@@ -178,6 +178,37 @@
         "support_1": 223.35,
         "support_2": 222.21,
         "support_3": 217.97
+      }
+    },
+    "XLI": {
+      "name": "Industrial Select Sector SPDR Fund",
+      "symbol": "XLI",
+      "sector_name": "Industrials",
+      "gics_code": "20",
+      "description": "Aerospace, defense, machinery, transportation",
+      "current_price": 150.35,
+      "daily_change": 0.5,
+      "daily_change_percent": 0.33,
+      "volume": 12419390,
+      "day_high": 150.86,
+      "day_low": 149.6,
+      "day_open": 150.0,
+      "52_week_high": 155.79,
+      "52_week_low": 115.59,
+      "distance_from_52w_high_percent": -3.49,
+      "year_to_date_percent": 15.69,
+      "1_month_percent": -2.92,
+      "3_month_percent": 0.19,
+      "6_month_percent": 7.15,
+      "relative_to_sp500_1d": -0.05,
+      "pivot_points": {
+        "pivot_point": 149.9,
+        "resistance_1": 150.71,
+        "resistance_2": 151.56,
+        "resistance_3": 152.37,
+        "support_1": 149.05,
+        "support_2": 148.24,
+        "support_3": 145.78
       }
     },
     "XLP": {
@@ -375,11 +406,11 @@
       },
       {
         "sector": "XLF",
-        "return": 0.39
+        "return": 0.37
       },
       {
-        "sector": "XLB",
-        "return": 0.26
+        "sector": "XLI",
+        "return": 0.33
       }
     ],
     "bottom_performers_1d": [
@@ -396,8 +427,8 @@
         "return": -0.78
       }
     ],
-    "sectors_beating_sp500": 2,
-    "breadth_score": 20.0,
+    "sectors_beating_sp500": 1,
+    "breadth_score": 9.1,
     "market_leadership": "cyclical",
     "defensive_strength": "weak"
   }
