@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2025-11-19T20:54:08.111026+00:00",
+    "generated_at": "2025-11-19T21:20:33.784328+00:00",
     "data_source": "Yahoo Finance (yfinance)",
     "universe": "S&P 500",
     "total_stocks": 503,
@@ -28,24 +28,24 @@
   },
   "statistics": {
     "near_52w_high": {
-      "current_percentage": 2.27,
-      "change_5_days": -4.3,
-      "change_20_days": -0.52,
+      "current_percentage": 1.79,
+      "change_5_days": -4.78,
+      "change_20_days": -1.0,
       "min_percentage": 0.0,
       "max_percentage": 22.75,
-      "average_percentage": 5.66
+      "average_percentage": 5.65
     },
     "near_52w_low": {
-      "current_percentage": 2.06,
-      "change_5_days": 1.46,
-      "change_20_days": 1.26,
+      "current_percentage": 2.39,
+      "change_5_days": 1.79,
+      "change_20_days": 1.59,
       "min_percentage": 0.0,
       "max_percentage": 14.57,
       "average_percentage": 1.06
     },
     "high_low_ratio": {
-      "current": 1.1,
-      "average": 12.066
+      "current": 0.75,
+      "average": 12.065
     },
     "market_condition": "Neutral (mixed market)",
     "trend": "Stable",
@@ -3667,14 +3667,14 @@
     {
       "date": "2025-11-19",
       "near_52w_high": {
-        "count": 11,
-        "percentage": 2.27
+        "count": 9,
+        "percentage": 1.79
       },
       "near_52w_low": {
-        "count": 10,
-        "percentage": 2.06
+        "count": 12,
+        "percentage": 2.39
       },
-      "high_low_ratio": 1.1
+      "high_low_ratio": 0.75
     }
   ]
 }
