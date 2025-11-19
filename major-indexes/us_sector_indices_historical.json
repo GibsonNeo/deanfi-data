@@ -6,7 +6,7 @@
     "trading_days": 252
   },
   "metadata": {
-    "generated_at": "2025-11-19T21:42:59Z",
+    "generated_at": "2025-11-19T21:54:16Z",
     "start_date": "2024-11-19",
     "end_date": "2025-11-19",
     "trading_days": 252,
@@ -112,7 +112,7 @@
         {
           "date": "2024-12-03",
           "open": 233.47,
-          "high": 235.37,
+          "high": 235.36,
           "low": 233.01,
           "close": 235.31,
           "volume": 2788000,
