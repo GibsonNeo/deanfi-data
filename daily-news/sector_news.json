@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2025-11-19T14:42:10.677863",
+    "generated_at": "2025-11-19T21:09:35.529013",
     "type": "sector_news",
     "date_range": {
       "from": "2025-11-16",
@@ -17,10 +17,10 @@
     "method": "Top 5 stocks per GICS sector",
     "stats": {
       "total_sectors": 11,
-      "total_articles": 54,
+      "total_articles": 61,
       "total_tickers": 56,
       "by_source": {
-        "CNBC": 52,
+        "CNBC": 59,
         "MarketWatch": 2
       }
     }
@@ -30,103 +30,103 @@
       "sector_name": "Information Technology",
       "articles": [
         {
-          "headline": "Microsoft unveils new tool to help companies control, track AI agents",
-          "summary": "The software, named Agent 365, provides a list of artificial intelligence agents inside companies\u2019 systems, even if they\u2019re from other companies, Microsoft announced Tuesday. CNBC's Steve Kovach joins 'Money Movers' with the details.",
+          "headline": "Musk\u2019s xAI and Saudi Arabia team up on a 500-megawatt Nvidia project: Here\u2019s what you need to know",
+          "summary": "CNBC\u2019s Kristina Partsinevelos reports on Elon Musk\u2019s xAI partnership with Saudi Arabia on a 500-megawatt Nvidia project.",
           "source": "CNBC",
           "ticker": "NVDA",
-          "url": "https://finnhub.io/api/news?id=2008800aa1373df5d66a7712399cc6af6dc5ed62ff08bae7ba1c3db84dc8c450",
+          "url": "https://finnhub.io/api/news?id=8e62b79d73445821ac94c73add8db94e2d99550fa5b884c436012ee221c05f55",
           "category": "company",
-          "datetime": "2025-11-18T11:48:53",
-          "timestamp": 1763466533,
-          "id": 137539376
+          "datetime": "2025-11-19T12:12:07",
+          "timestamp": 1763554327,
+          "id": 137547876
         },
         {
-          "headline": "Anthropic valued in range of $350B following investment deal with Microsoft, Nvidia",
-          "summary": "CNBC\u2019s MacKenzie Sigalos reports on a sweeping Cloudflare outage and the soaring new valuation for AI startup Anthropic, backed by Microsoft and Nvidia.",
-          "source": "CNBC",
-          "ticker": "MSFT",
-          "url": "https://finnhub.io/api/news?id=a7c07dbac366828e4b9fbef72eac0981423935d07f377aa616f1667b98bd5b80",
-          "category": "company",
-          "datetime": "2025-11-18T11:24:19",
-          "timestamp": 1763465059,
-          "id": 137539377
-        },
-        {
-          "headline": "Anthropic valued in range of $350B following investment deal with Microsoft, Nvidia",
-          "summary": "CNBC\u2019s MacKenzie Sigalos reports on a sweeping Cloudflare outage and the soaring new valuation for AI startup Anthropic, backed by Microsoft and Nvidia.",
+          "headline": "Nvidia reports third-quarter earnings after the bell ",
+          "summary": "Nvidia is at the center of the artificial intelligence boom, and counts every major cloud company and AI lab as a customer. ",
           "source": "CNBC",
           "ticker": "NVDA",
-          "url": "https://finnhub.io/api/news?id=a7c07dbac366828e4b9fbef72eac0981423935d07f377aa616f1667b98bd5b80",
+          "url": "https://finnhub.io/api/news?id=23c43faf1a2453c935f140d41e43a6794ac96988c1d4ba74dd80ae3e020ef46c",
           "category": "company",
-          "datetime": "2025-11-18T11:24:19",
-          "timestamp": 1763465059,
-          "id": 137539377
+          "datetime": "2025-11-19T12:00:02",
+          "timestamp": 1763553602,
+          "id": 137547878
         },
         {
-          "headline": "Microsoft unveils tool to help companies control, track AI agents",
-          "summary": "Microsoft has helped companies build AI agents that can do specific kinds of work. Now it has a way to spot and stop risky agents.",
-          "source": "CNBC",
-          "ticker": "MSFT",
-          "url": "https://finnhub.io/api/news?id=1693a91cbf4c1b7eed7bb13970e49d3ddad30138be2b4a474d3676639fa2441f",
-          "category": "company",
-          "datetime": "2025-11-18T11:00:01",
-          "timestamp": 1763463601,
-          "id": 137539401
-        },
-        {
-          "headline": "Anthropic to spend $30B in compute through Nvidia and Microsoft",
-          "summary": "CNBC's Steve Kovach breaks down the latest news on a new investments from Anthropic, what the spend means for the AI competitive landscape, and more.",
-          "source": "CNBC",
-          "ticker": "MSFT",
-          "url": "https://finnhub.io/api/news?id=8b61bf03a183f2034798cdde6d51e29abac101bb7e3a397e0743a6322a021e13",
-          "category": "company",
-          "datetime": "2025-11-18T10:17:50",
-          "timestamp": 1763461070,
-          "id": 137539378
-        },
-        {
-          "headline": "Anthropic to spend $30B in compute through Nvidia and Microsoft",
-          "summary": "CNBC's Steve Kovach breaks down the latest news on a new investments from Anthropic, what the spend means for the AI competitive landscape, and more.",
+          "headline": "Stocks making the biggest moves midday: Alphabet, Nvidia, Lowe's, La-Z-Boy, MP Materials & more",
+          "summary": "These are the stocks posting the largest moves midday.",
           "source": "CNBC",
           "ticker": "NVDA",
-          "url": "https://finnhub.io/api/news?id=8b61bf03a183f2034798cdde6d51e29abac101bb7e3a397e0743a6322a021e13",
+          "url": "https://finnhub.io/api/news?id=670ccfb28acc8c2f8bbe58b166775b6949459201203c31cd7d8f19f5953e0da2",
           "category": "company",
-          "datetime": "2025-11-18T10:17:50",
-          "timestamp": 1763461070,
-          "id": 137539378
+          "datetime": "2025-11-19T11:52:31",
+          "timestamp": 1763553151,
+          "id": 137547882
         },
         {
-          "headline": "Home Depot earnings, 'quiet time' in the job market, Panera's new strategy and more in Morning Squawk",
+          "headline": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
+          "summary": "Club holding Nvidia's quarterly earnings report is in focus as the S&P 500 tries to break its four- session losing streak.",
+          "source": "CNBC",
+          "ticker": "AAPL",
+          "url": "https://finnhub.io/api/news?id=d3c5c3fad02b6bf873b13b996aca53ac0e03c214aa901dea22f09f09a1783c1d",
+          "category": "company",
+          "datetime": "2025-11-19T09:03:31",
+          "timestamp": 1763543011,
+          "id": 137547897
+        },
+        {
+          "headline": "Nvidia earnings, Target's profit outlook, Meta's antitrust victory and more in Morning Squawk",
+          "summary": "Here are five key things investors need to know to start the trading day.",
+          "source": "CNBC",
+          "ticker": "MSFT",
+          "url": "https://finnhub.io/api/news?id=aa24af340394c10a12fe7d720a4c0d85d2f02db2a60997c0daec5148cad151dd",
+          "category": "company",
+          "datetime": "2025-11-19T08:07:16",
+          "timestamp": 1763539636,
+          "id": 137547899
+        },
+        {
+          "headline": "Nvidia earnings, Target's profit outlook, Meta's antitrust victory and more in Morning Squawk",
           "summary": "Here are five key things investors need to know to start the trading day.",
           "source": "CNBC",
           "ticker": "AAPL",
-          "url": "https://finnhub.io/api/news?id=9d831cc8a34053db3d12ef17423e7a100201ddd9444d33344e3c34ee0db04ea3",
+          "url": "https://finnhub.io/api/news?id=aa24af340394c10a12fe7d720a4c0d85d2f02db2a60997c0daec5148cad151dd",
           "category": "company",
-          "datetime": "2025-11-18T08:05:16",
-          "timestamp": 1763453116,
-          "id": 137539385
+          "datetime": "2025-11-19T08:07:16",
+          "timestamp": 1763539636,
+          "id": 137547899
         },
         {
-          "headline": "Global stocks sell off as AI valuation concerns persist ahead of Nvidia earnings",
-          "summary": "Experts told CNBC it's a healthy correction, fueled by a unclear outlook 2026.",
+          "headline": "CNBC Daily Open: AI firms are getting money while their stocks are losing value",
+          "summary": "Money from technology companies keeps flowing into their compatriots, while money from investors are leaving technology stocks.",
           "source": "CNBC",
-          "ticker": "ORCL",
-          "url": "https://finnhub.io/api/news?id=63fde360d8083fc4f170058c079135a65aecc0fa8f2458195b1243ea5ff9ca98",
+          "ticker": "MSFT",
+          "url": "https://finnhub.io/api/news?id=3b7a41edce8e379fdc89db28df16ac8fe560a5f9816ca087e01653494e0ae60a",
           "category": "company",
-          "datetime": "2025-11-18T04:39:25",
-          "timestamp": 1763440765,
-          "id": 137539426
+          "datetime": "2025-11-19T02:30:01",
+          "timestamp": 1763519401,
+          "id": 137547916
         },
         {
-          "headline": "CNBC Daily Open: We could still close the year with a rally despite AI slump",
-          "summary": "Despite the recent sell-off in tech over concerns about high valuations and capital expenditure, some analysts think we could still end the year with a rally.",
+          "headline": "Jim Cramer explains how to take advantage of market declines",
+          "summary": "CNBC's Jim Cramer reviewed how best to buy on weakness as stocks fell during Tuesday's session.",
           "source": "CNBC",
           "ticker": "AAPL",
-          "url": "https://finnhub.io/api/news?id=6b11ef8fc7a32c0ade3056d28c94ca58904ce50f4699f8a38a1cf3b2432a5e62",
+          "url": "https://finnhub.io/api/news?id=5a1a7aeef19c5f1c912d8621ac52994ec27d70e783b14b9f789fa2af939a7d6f",
           "category": "company",
-          "datetime": "2025-11-18T02:30:01",
-          "timestamp": 1763433001,
-          "id": 137539386
+          "datetime": "2025-11-18T18:59:20",
+          "timestamp": 1763492360,
+          "id": 137547903
+        },
+        {
+          "headline": "The red-hot AI trade has cooled off. Jim Cramer offers a timeline of how it all went down",
+          "summary": "CNBC's Jim Cramer explained why some investors have soured on AI stocks.",
+          "source": "CNBC",
+          "ticker": "ORCL",
+          "url": "https://finnhub.io/api/news?id=e4c9638978bc9e49e867686d6d95c1fcfb11fac840fe593376f270557f1d6d04",
+          "category": "company",
+          "datetime": "2025-11-18T18:44:13",
+          "timestamp": 1763491453,
+          "id": 137547972
         }
       ]
     },
@@ -134,26 +134,92 @@
       "sector_name": "Financials",
       "articles": [
         {
-          "headline": "Tariff dividend checks: How to separate facts from scams",
-          "summary": "Experts tell CNBC Select how discourse around tariff checks is fueling online scams.",
+          "headline": "Alphabet stock surges on Gemini 3 AI model optimism",
+          "summary": "Google said Gemini 3 allows users to get better answers to more complex questions and doesn't need as much prompting to determine the context.",
           "source": "CNBC",
-          "ticker": "JPM",
-          "url": "https://finnhub.io/api/news?id=d1206f3c71f6a5f592d9888a08ec1608f8efaf6fcfa4d408d7cd0fa3f20cbc42",
+          "ticker": "BRK.B",
+          "url": "https://finnhub.io/api/news?id=190cb8d204c51fc82f56c61cd92d193c41c4f008a4167c4c3d99984f1e952113",
           "category": "company",
-          "datetime": "2025-11-18T11:26:34",
-          "timestamp": 1763465194,
-          "id": 137539463
+          "datetime": "2025-11-19T11:27:34",
+          "timestamp": 1763551654,
+          "id": 137547953
         },
         {
-          "headline": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
-          "summary": "The S&P 500 was headed for a lower open this morning, putting the benchmark index on track for its fourth consecutive day of losses.",
+          "headline": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
+          "summary": "Club holding Nvidia's quarterly earnings report is in focus as the S&P 500 tries to break its four- session losing streak.",
+          "source": "CNBC",
+          "ticker": "WFC",
+          "url": "https://finnhub.io/api/news?id=d3c5c3fad02b6bf873b13b996aca53ac0e03c214aa901dea22f09f09a1783c1d",
+          "category": "company",
+          "datetime": "2025-11-19T09:03:31",
+          "timestamp": 1763543011,
+          "id": 137547897
+        },
+        {
+          "headline": "Amazon Prime Visa vs Amex Blue Cash Everyday: Which of these cash-back cards is better for your holiday shopping?",
+          "summary": "Both cards are great for Amazon purchases, but the different costs and rewards structures make all the difference.",
           "source": "CNBC",
           "ticker": "JPM",
-          "url": "https://finnhub.io/api/news?id=34ee49591a4c8bfc78990f82677dcb1b2e4f7b99bf4bf875437f38c8ecdefaa7",
+          "url": "https://finnhub.io/api/news?id=ad5fd033de60c0e9cddbbf8b1cae1c4f73e24f2bbd2612af6f3d81adece384d0",
           "category": "company",
-          "datetime": "2025-11-18T09:11:26",
-          "timestamp": 1763457086,
-          "id": 137539411
+          "datetime": "2025-11-19T08:48:01",
+          "timestamp": 1763542081,
+          "id": 137547930
+        },
+        {
+          "headline": "Best data removal services of 2025",
+          "summary": "The best data removal services wipe your personal details off the Web, reducing spam calls, cyberattacks and other threats.",
+          "source": "CNBC",
+          "ticker": "JPM",
+          "url": "https://finnhub.io/api/news?id=1ec98c71ea0a946e74812a2b3e15764e993198801321ef247b8a0f7566322ae5",
+          "category": "company",
+          "datetime": "2025-11-19T06:10:02",
+          "timestamp": 1763532602,
+          "id": 137547986
+        },
+        {
+          "headline": "Wednesday's big stock stories: What\u2019s likely to move the market in the next trading session",
+          "summary": "The S&P 500 on Tuesday closed down for a fourth straight day, its longest losing streak since August, as investors fret about tech stock valuations. ",
+          "source": "CNBC",
+          "ticker": "JPM",
+          "url": "https://finnhub.io/api/news?id=656fba299ba2b943a5d06d27e6091c6fba5116e7921cc948e8c6c44f2be72641",
+          "category": "company",
+          "datetime": "2025-11-18T19:30:42",
+          "timestamp": 1763494242,
+          "id": 137547987
+        },
+        {
+          "headline": "Wednesday's big stock stories: What\u2019s likely to move the market in the next trading session",
+          "summary": "The S&P 500 on Tuesday closed down for a fourth straight day, its longest losing streak since August, as investors fret about tech stock valuations. ",
+          "source": "CNBC",
+          "ticker": "BAC",
+          "url": "https://finnhub.io/api/news?id=656fba299ba2b943a5d06d27e6091c6fba5116e7921cc948e8c6c44f2be72641",
+          "category": "company",
+          "datetime": "2025-11-18T19:30:42",
+          "timestamp": 1763494242,
+          "id": 137547987
+        },
+        {
+          "headline": "Wednesday's big stock stories: What\u2019s likely to move the market in the next trading session",
+          "summary": "The S&P 500 on Tuesday closed down for a fourth straight day, its longest losing streak since August, as investors fret about tech stock valuations. ",
+          "source": "CNBC",
+          "ticker": "WFC",
+          "url": "https://finnhub.io/api/news?id=656fba299ba2b943a5d06d27e6091c6fba5116e7921cc948e8c6c44f2be72641",
+          "category": "company",
+          "datetime": "2025-11-18T19:30:42",
+          "timestamp": 1763494242,
+          "id": 137547987
+        },
+        {
+          "headline": "Wednesday's big stock stories: What\u2019s likely to move the market in the next trading session",
+          "summary": "The S&P 500 on Tuesday closed down for a fourth straight day, its longest losing streak since August, as investors fret about tech stock valuations. ",
+          "source": "CNBC",
+          "ticker": "C",
+          "url": "https://finnhub.io/api/news?id=656fba299ba2b943a5d06d27e6091c6fba5116e7921cc948e8c6c44f2be72641",
+          "category": "company",
+          "datetime": "2025-11-18T19:30:42",
+          "timestamp": 1763494242,
+          "id": 137547987
         },
         {
           "headline": "Home Depot earnings, 'quiet time' in the job market, Panera's new strategy and more in Morning Squawk",
@@ -165,72 +231,6 @@
           "datetime": "2025-11-18T08:05:16",
           "timestamp": 1763453116,
           "id": 137539385
-        },
-        {
-          "headline": "CNBC Daily Open: We could still close the year with a rally despite AI slump",
-          "summary": "Despite the recent sell-off in tech over concerns about high valuations and capital expenditure, some analysts think we could still end the year with a rally.",
-          "source": "CNBC",
-          "ticker": "BRK.B",
-          "url": "https://finnhub.io/api/news?id=6b11ef8fc7a32c0ade3056d28c94ca58904ce50f4699f8a38a1cf3b2432a5e62",
-          "category": "company",
-          "datetime": "2025-11-18T02:30:01",
-          "timestamp": 1763433001,
-          "id": 137539386
-        },
-        {
-          "headline": "CNBC Daily Open: AI still under pressure \u2014 but some analysts see a year-end rally",
-          "summary": "Despite the recent sell-off in tech over concerns about high valuations and capital expenditure, some analysts think we could still end the year with a rally.",
-          "source": "CNBC",
-          "ticker": "BRK.B",
-          "url": "https://finnhub.io/api/news?id=98c015637d5ad77d26c2d8c11cc8d9958937af796790f18d1f621bbc5070e41f",
-          "category": "company",
-          "datetime": "2025-11-17T20:01:20",
-          "timestamp": 1763409680,
-          "id": 137539390
-        },
-        {
-          "headline": "Tuesday's big stock stories: What\u2019s likely to move the market in the next trading session",
-          "summary": "Stocks pulled back on Monday, with tech shares largely trading lower. That included Nvidia, which dropped about 2% ahead of its earnings on Wednesday. ",
-          "source": "CNBC",
-          "ticker": "JPM",
-          "url": "https://finnhub.io/api/news?id=8448fc51e3457e29c7f8df49c25d4f89351d82dc0140e062152650a00ca9989a",
-          "category": "company",
-          "datetime": "2025-11-17T17:11:36",
-          "timestamp": 1763399496,
-          "id": 137539465
-        },
-        {
-          "headline": "Tuesday's big stock stories: What\u2019s likely to move the market in the next trading session",
-          "summary": "Stocks pulled back on Monday, with tech shares largely trading lower. That included Nvidia, which dropped about 2% ahead of its earnings on Wednesday. ",
-          "source": "CNBC",
-          "ticker": "BAC",
-          "url": "https://finnhub.io/api/news?id=8448fc51e3457e29c7f8df49c25d4f89351d82dc0140e062152650a00ca9989a",
-          "category": "company",
-          "datetime": "2025-11-17T17:11:36",
-          "timestamp": 1763399496,
-          "id": 137539465
-        },
-        {
-          "headline": "Tuesday's big stock stories: What\u2019s likely to move the market in the next trading session",
-          "summary": "Stocks pulled back on Monday, with tech shares largely trading lower. That included Nvidia, which dropped about 2% ahead of its earnings on Wednesday. ",
-          "source": "CNBC",
-          "ticker": "C",
-          "url": "https://finnhub.io/api/news?id=8448fc51e3457e29c7f8df49c25d4f89351d82dc0140e062152650a00ca9989a",
-          "category": "company",
-          "datetime": "2025-11-17T17:11:36",
-          "timestamp": 1763399496,
-          "id": 137539465
-        },
-        {
-          "headline": "Amex Platinum vs. Citi Strata Elite: Which premium card's benefits are a better fit for you?",
-          "summary": "These card's aren't cheap, but they both have perks that can justify the cost.",
-          "source": "CNBC",
-          "ticker": "C",
-          "url": "https://finnhub.io/api/news?id=07b9d40c4aaa6827a49f3dc9da46bdae908013c555bc25a22ad1d148c03c9e57",
-          "category": "company",
-          "datetime": "2025-11-17T12:50:06",
-          "timestamp": 1763383806,
-          "id": 137539543
         }
       ]
     },
@@ -238,109 +238,197 @@
       "sector_name": "Communication Services",
       "articles": [
         {
-          "headline": "Google releases Gemini 3.0 model released across suite of Google products",
+          "headline": "Alphabet shares surge after the release of Gemini 3.0",
           "summary": "CNBC's Deirdre Bosa joins 'Money Movers' with the latest Tech Check.",
           "source": "CNBC",
           "ticker": "GOOGL",
-          "url": "https://finnhub.io/api/news?id=3a221c09b2d8fedca8de6c74c831fbaecb91581613c44b9463caef883f064cbf",
+          "url": "https://finnhub.io/api/news?id=c58c63499a0e4899e393ed1d7414b7e02ee09426a7c0c2a97419575146696d22",
           "category": "company",
-          "datetime": "2025-11-18T11:47:19",
-          "timestamp": 1763466439,
-          "id": 137539418
+          "datetime": "2025-11-19T12:13:13",
+          "timestamp": 1763554393,
+          "id": 137547951
         },
         {
-          "headline": "Google announces Gemini 3 as battle with OpenAI intensifies",
-          "summary": "Google says its latest suite of AI models will require users to do \"less prompting\" to get the desired results.",
+          "headline": "Stocks making the biggest moves midday: Alphabet, Nvidia, Lowe's, La-Z-Boy, MP Materials & more",
+          "summary": "These are the stocks posting the largest moves midday.",
           "source": "CNBC",
           "ticker": "GOOGL",
-          "url": "https://finnhub.io/api/news?id=ed970573ea640433cb80f9ec24f922d0a8dd947b48673bc8bf3198c6158c6db6",
+          "url": "https://finnhub.io/api/news?id=670ccfb28acc8c2f8bbe58b166775b6949459201203c31cd7d8f19f5953e0da2",
           "category": "company",
-          "datetime": "2025-11-18T11:00:01",
-          "timestamp": 1763463601,
-          "id": 137539419
+          "datetime": "2025-11-19T11:52:31",
+          "timestamp": 1763553151,
+          "id": 137547882
         },
         {
-          "headline": "Zoox begins offering robotaxi rides in San Francisco, facing off with Waymo",
-          "summary": "Riders can sign up to join the \"Zoox Explorers\" program to take free rides on the company's box-shaped vehicles in certain San Francisco neighborhoods.",
+          "headline": "Alphabet stock surges on Gemini 3 AI model optimism",
+          "summary": "Google said Gemini 3 allows users to get better answers to more complex questions and doesn't need as much prompting to determine the context.",
           "source": "CNBC",
           "ticker": "GOOGL",
-          "url": "https://finnhub.io/api/news?id=4d7f650e01ff83f7762c762d81f81b8fc1cd58a1672123aabe9e0d7f78e67a1a",
+          "url": "https://finnhub.io/api/news?id=190cb8d204c51fc82f56c61cd92d193c41c4f008a4167c4c3d99984f1e952113",
           "category": "company",
-          "datetime": "2025-11-18T09:00:01",
-          "timestamp": 1763456401,
-          "id": 137539412
+          "datetime": "2025-11-19T11:27:34",
+          "timestamp": 1763551654,
+          "id": 137547953
         },
         {
-          "headline": "Netflix is finally leaning into a key piece of the media playbook: Merchandising",
-          "summary": "Netflix finally has a robust line-up of original intellectual property and is bolstering its merchandising strategy to keep fans engaged between releases.",
+          "headline": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
+          "summary": "Club holding Nvidia's quarterly earnings report is in focus as the S&P 500 tries to break its four- session losing streak.",
+          "source": "CNBC",
+          "ticker": "META",
+          "url": "https://finnhub.io/api/news?id=d3c5c3fad02b6bf873b13b996aca53ac0e03c214aa901dea22f09f09a1783c1d",
+          "category": "company",
+          "datetime": "2025-11-19T09:03:31",
+          "timestamp": 1763543011,
+          "id": 137547897
+        },
+        {
+          "headline": "Nvidia earnings, Target's profit outlook, Meta's antitrust victory and more in Morning Squawk",
+          "summary": "Here are five key things investors need to know to start the trading day.",
+          "source": "CNBC",
+          "ticker": "META",
+          "url": "https://finnhub.io/api/news?id=aa24af340394c10a12fe7d720a4c0d85d2f02db2a60997c0daec5148cad151dd",
+          "category": "company",
+          "datetime": "2025-11-19T08:07:16",
+          "timestamp": 1763539636,
+          "id": 137547899
+        },
+        {
+          "headline": "Nvidia earnings, Target's profit outlook, Meta's antitrust victory and more in Morning Squawk",
+          "summary": "Here are five key things investors need to know to start the trading day.",
           "source": "CNBC",
           "ticker": "NFLX",
-          "url": "https://finnhub.io/api/news?id=e260ef21e7fd2215c557209c57c6d36bac93fc307d075da6dcdf029dfc4dc409",
+          "url": "https://finnhub.io/api/news?id=aa24af340394c10a12fe7d720a4c0d85d2f02db2a60997c0daec5148cad151dd",
           "category": "company",
-          "datetime": "2025-11-18T08:00:01",
-          "timestamp": 1763452801,
-          "id": 137539469
+          "datetime": "2025-11-19T08:07:16",
+          "timestamp": 1763539636,
+          "id": 137547899
         },
         {
-          "headline": "Netflix is finally leaning into a key piece of the media playbook: Merchandising",
-          "summary": "Netflix finally has a robust line-up of original intellectual property and is bolstering its merchandising strategy to keep fans engaged between releases.",
+          "headline": "Nvidia earnings, Target's profit outlook, Meta's antitrust victory and more in Morning Squawk",
+          "summary": "Here are five key things investors need to know to start the trading day.",
           "source": "CNBC",
           "ticker": "DIS",
-          "url": "https://finnhub.io/api/news?id=e260ef21e7fd2215c557209c57c6d36bac93fc307d075da6dcdf029dfc4dc409",
+          "url": "https://finnhub.io/api/news?id=aa24af340394c10a12fe7d720a4c0d85d2f02db2a60997c0daec5148cad151dd",
           "category": "company",
-          "datetime": "2025-11-18T08:00:01",
-          "timestamp": 1763452801,
-          "id": 137539469
+          "datetime": "2025-11-19T08:07:16",
+          "timestamp": 1763539636,
+          "id": 137547899
         },
         {
-          "headline": "Global stocks sell off as AI valuation concerns persist ahead of Nvidia earnings",
-          "summary": "Experts told CNBC it's a healthy correction, fueled by a unclear outlook 2026.",
+          "headline": "Blip, dip, pullback or the beginning of the end? Global investors weigh in on stock sell-off",
+          "summary": "Once asset light businesses have morphed into capex-heavy hyperscalers, leading to investor concern. ",
           "source": "CNBC",
           "ticker": "META",
-          "url": "https://finnhub.io/api/news?id=63fde360d8083fc4f170058c079135a65aecc0fa8f2458195b1243ea5ff9ca98",
+          "url": "https://finnhub.io/api/news?id=8d1dd42a3520936b74ea2f56237fb82bcd4913a43600826c3db0c3277a63522d",
           "category": "company",
-          "datetime": "2025-11-18T04:39:25",
-          "timestamp": 1763440765,
-          "id": 137539426
+          "datetime": "2025-11-19T04:49:48",
+          "timestamp": 1763527788,
+          "id": 137547971
         },
         {
-          "headline": "CNBC Daily Open: We could still close the year with a rally despite AI slump",
-          "summary": "Despite the recent sell-off in tech over concerns about high valuations and capital expenditure, some analysts think we could still end the year with a rally.",
+          "headline": "Trump calls for ABC's license to be revoked after reporter asks about Jeffrey Epstein files",
+          "summary": "Trump insulted ABC News reporter Mary Bruce days after telling a female reporter to be \"quiet, piggy,\" when she asked about Jeffrey Epstein.",
           "source": "CNBC",
-          "ticker": "META",
-          "url": "https://finnhub.io/api/news?id=6b11ef8fc7a32c0ade3056d28c94ca58904ce50f4699f8a38a1cf3b2432a5e62",
+          "ticker": "DIS",
+          "url": "https://finnhub.io/api/news?id=541f66a5186172a379f389509c75e5a7d742e76041be78ce1a5213e4ece56d6c",
           "category": "company",
-          "datetime": "2025-11-18T02:30:01",
-          "timestamp": 1763433001,
-          "id": 137539386
-        },
-        {
-          "headline": "From chips to couture: Baillie Gifford explains top long-term stock picks",
-          "summary": "Baillie Gifford\u2019s Mark Urquhart breaks down his AI portfolio strategy \u2014 explaining why he\u2019s steering clear of memory stocks and instead backing companies that are \u201cvery hard to replicate\u201d across multiple industries. He also names some of his preferred luxury goods stocks.",
-          "source": "CNBC",
-          "ticker": "NFLX",
-          "url": "https://finnhub.io/api/news?id=c9707f31771d3d7b004ea308a40190d4158ea3cd124543d1d71b0c125bf41079",
-          "category": "company",
-          "datetime": "2025-11-17T21:43:20",
-          "timestamp": 1763415800,
-          "id": 137539470
-        },
-        {
-          "headline": "Nvidia CEO Jensen Huang surprised investors with a 'half a trillion' forecast. It'll come up at earnings",
-          "summary": "\"This is how much business is on the books. Half a trillion dollars worth so far,\" Huang said at the company's GTC conference in Washington last month. ",
-          "source": "CNBC",
-          "ticker": "META",
-          "url": "https://finnhub.io/api/news?id=b6cc56dc6e602ecb1a14581554e040ac08040e6ef87cbc353290c6490beb30a8",
-          "category": "company",
-          "datetime": "2025-11-17T07:00:01",
-          "timestamp": 1763362801,
-          "id": 137505328
+          "datetime": "2025-11-18T13:23:24",
+          "timestamp": 1763472204,
+          "id": 137548048
         }
       ]
     },
     "XLY": {
       "sector_name": "Consumer Discretionary",
       "articles": [
+        {
+          "headline": "Adobe to buy Semrush for $1.9 billion, sending marketing platform's shares up 70%",
+          "summary": "Adobe said Semrush's search engine and marketing tools can help brands engage and grow customers, especially in the age of artificial intelligence. ",
+          "source": "CNBC",
+          "ticker": "AMZN",
+          "url": "https://finnhub.io/api/news?id=ec9ec70f034c5cbf56efda6dc4e3f5cc0988019645aa14c68220cc711220c033",
+          "category": "company",
+          "datetime": "2025-11-19T11:06:07",
+          "timestamp": 1763550367,
+          "id": 137547924
+        },
+        {
+          "headline": "Watch: Elon Musk, Jensen Huang talk AI at U.S.-Saudi Investment Forum",
+          "summary": "The event comes a day after President Donald Trump met with Saudi Crown Prince Mohammed bin Salman at the White House.",
+          "source": "CNBC",
+          "ticker": "TSLA",
+          "url": "https://finnhub.io/api/news?id=ed7ce66759b5a3eb84ae30012edc46583f46bc0219a1b791e578cac74e0a83ce",
+          "category": "company",
+          "datetime": "2025-11-19T10:56:15",
+          "timestamp": 1763549775,
+          "id": 137547977
+        },
+        {
+          "headline": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
+          "summary": "Club holding Nvidia's quarterly earnings report is in focus as the S&P 500 tries to break its four- session losing streak.",
+          "source": "CNBC",
+          "ticker": "AMZN",
+          "url": "https://finnhub.io/api/news?id=d3c5c3fad02b6bf873b13b996aca53ac0e03c214aa901dea22f09f09a1783c1d",
+          "category": "company",
+          "datetime": "2025-11-19T09:03:31",
+          "timestamp": 1763543011,
+          "id": 137547897
+        },
+        {
+          "headline": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
+          "summary": "Club holding Nvidia's quarterly earnings report is in focus as the S&P 500 tries to break its four- session losing streak.",
+          "source": "CNBC",
+          "ticker": "HD",
+          "url": "https://finnhub.io/api/news?id=d3c5c3fad02b6bf873b13b996aca53ac0e03c214aa901dea22f09f09a1783c1d",
+          "category": "company",
+          "datetime": "2025-11-19T09:03:31",
+          "timestamp": 1763543011,
+          "id": 137547897
+        },
+        {
+          "headline": "Amazon Prime Visa vs Amex Blue Cash Everyday: Which of these cash-back cards is better for your holiday shopping?",
+          "summary": "Both cards are great for Amazon purchases, but the different costs and rewards structures make all the difference.",
+          "source": "CNBC",
+          "ticker": "AMZN",
+          "url": "https://finnhub.io/api/news?id=ad5fd033de60c0e9cddbbf8b1cae1c4f73e24f2bbd2612af6f3d81adece384d0",
+          "category": "company",
+          "datetime": "2025-11-19T08:48:01",
+          "timestamp": 1763542081,
+          "id": 137547930
+        },
+        {
+          "headline": "Lowe's beats on quarterly sales, but lowers full-year profit forecast amid economic uncertainty",
+          "summary": "Rival Home Depot, which reported a day earlier, also lowered its full-year profit outlook and referred to a tough housing market and consumer uncertainty.",
+          "source": "CNBC",
+          "ticker": "HD",
+          "url": "https://finnhub.io/api/news?id=15ceed6ef3dbfceada58f564949cf0d537ddd0ca91dbab29fda57accd3bfd794",
+          "category": "company",
+          "datetime": "2025-11-19T06:22:47",
+          "timestamp": 1763533367,
+          "id": 137548014
+        },
+        {
+          "headline": "Tesla obtains permit to operate ride-hail service in Arizona",
+          "summary": "The Arizona Department of Transportation said Tesla obtained a \"transportation network company\" permit in the state.",
+          "source": "CNBC",
+          "ticker": "TSLA",
+          "url": "https://finnhub.io/api/news?id=bceb4267edfda94d2367ef2b1c94c11eb7c696828cb190da0dc9c5ab656e1d22",
+          "category": "company",
+          "datetime": "2025-11-18T22:48:59",
+          "timestamp": 1763506139,
+          "id": 137547978
+        },
+        {
+          "headline": "Why superior speed isn't selling EVs",
+          "summary": "Tesla's Elon Musk was fanatical about showing EVs were better, faster, stronger cars than gas. It helped propel the company's growth. It's not working anymore. ",
+          "source": "CNBC",
+          "ticker": "TSLA",
+          "url": "https://finnhub.io/api/news?id=7c10938ecaf50b2b1c901b29863f88242802ab4810a1e5292865b50b22502250",
+          "category": "company",
+          "datetime": "2025-11-18T15:16:37",
+          "timestamp": 1763478997,
+          "id": 137547979
+        },
         {
           "headline": "UBS' Michael Lasser: Here's what to make of Home Depot's latest earnings",
           "summary": "Michael Lasser, UBS senior research analyst, joins CNBC's 'Squawk on the Street' to discuss his reaction to Home Depot's latest quarter, expectations for the business, and much more.",
@@ -351,100 +439,34 @@
           "datetime": "2025-11-18T11:36:32",
           "timestamp": 1763465792,
           "id": 137539514
-        },
-        {
-          "headline": "Anthropic valued in range of $350 billion following investment deal with Microsoft, Nvidia",
-          "summary": "Microsoft announced new strategic partnerships with Nvidia and the AI startup Anthropic.",
-          "source": "CNBC",
-          "ticker": "AMZN",
-          "url": "https://finnhub.io/api/news?id=787a2639f9e64ca5a1b96750f7958d7aeed677cf9e1db913f906115ef3f95c7e",
-          "category": "company",
-          "datetime": "2025-11-18T10:03:48",
-          "timestamp": 1763460228,
-          "id": 137539379
-        },
-        {
-          "headline": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
-          "summary": "The S&P 500 was headed for a lower open this morning, putting the benchmark index on track for its fourth consecutive day of losses.",
-          "source": "CNBC",
-          "ticker": "AMZN",
-          "url": "https://finnhub.io/api/news?id=34ee49591a4c8bfc78990f82677dcb1b2e4f7b99bf4bf875437f38c8ecdefaa7",
-          "category": "company",
-          "datetime": "2025-11-18T09:11:26",
-          "timestamp": 1763457086,
-          "id": 137539411
-        },
-        {
-          "headline": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
-          "summary": "The S&P 500 was headed for a lower open this morning, putting the benchmark index on track for its fourth consecutive day of losses.",
-          "source": "CNBC",
-          "ticker": "HD",
-          "url": "https://finnhub.io/api/news?id=34ee49591a4c8bfc78990f82677dcb1b2e4f7b99bf4bf875437f38c8ecdefaa7",
-          "category": "company",
-          "datetime": "2025-11-18T09:11:26",
-          "timestamp": 1763457086,
-          "id": 137539411
-        },
-        {
-          "headline": "Zoox begins offering robotaxi rides in San Francisco, facing off with Waymo",
-          "summary": "Riders can sign up to join the \"Zoox Explorers\" program to take free rides on the company's box-shaped vehicles in certain San Francisco neighborhoods.",
-          "source": "CNBC",
-          "ticker": "AMZN",
-          "url": "https://finnhub.io/api/news?id=4d7f650e01ff83f7762c762d81f81b8fc1cd58a1672123aabe9e0d7f78e67a1a",
-          "category": "company",
-          "datetime": "2025-11-18T09:00:01",
-          "timestamp": 1763456401,
-          "id": 137539412
-        },
-        {
-          "headline": "Home Depot earnings, 'quiet time' in the job market, Panera's new strategy and more in Morning Squawk",
-          "summary": "Here are five key things investors need to know to start the trading day.",
-          "source": "CNBC",
-          "ticker": "HD",
-          "url": "https://finnhub.io/api/news?id=9d831cc8a34053db3d12ef17423e7a100201ddd9444d33344e3c34ee0db04ea3",
-          "category": "company",
-          "datetime": "2025-11-18T08:05:16",
-          "timestamp": 1763453116,
-          "id": 137539385
-        },
-        {
-          "headline": "Stifel's Stephen Gengaro shares his bull case for Tesla",
-          "summary": "Stephen Gengaro, Stifel, joins 'Fast Money' to talk his bullish take on Tesla.",
-          "source": "CNBC",
-          "ticker": "TSLA",
-          "url": "https://finnhub.io/api/news?id=f36a0eac65fa94e81a3d686ac64c4ff5bc7bc32ba8da90125f753ce3fba51e3f",
-          "category": "company",
-          "datetime": "2025-11-17T17:49:18",
-          "timestamp": 1763401758,
-          "id": 137539451
-        },
-        {
-          "headline": "Joe Terranova on the quantitative approach to the JOET ETF that identifies winners like Palantir early",
-          "summary": "Joe Terranova discussed what has helped his quality momentum ETF outperform \u2014 and where he envisions taking the fund from here.",
-          "source": "CNBC",
-          "ticker": "TSLA",
-          "url": "https://finnhub.io/api/news?id=5cad9ce3e09ea055c1d4500dde7942f5f4e09096976d8de01afab40dc6b6d9ba",
-          "category": "company",
-          "datetime": "2025-11-17T11:29:28",
-          "timestamp": 1763378968,
-          "id": 137505380
-        },
-        {
-          "headline": "Peter Thiel's hedge fund dumps Nvidia stake, cuts back Tesla position",
-          "summary": "Thiel Macro zeroed out its stake worth nearly $94 million in Nvidia during the three-month period.",
-          "source": "CNBC",
-          "ticker": "TSLA",
-          "url": "https://finnhub.io/api/news?id=71fde696014b3d0fd4ce55cec79e4314127d5339c7823ccf568495fc890c06fa",
-          "category": "company",
-          "datetime": "2025-11-17T10:28:21",
-          "timestamp": 1763375301,
-          "id": 137505313
         }
       ]
     },
     "XLV": {
       "sector_name": "Health Care",
       "articles": [
+        {
+          "headline": "Final Trade: UNH, DELL, CEG, MOH",
+          "summary": "The final trades of the day with CNBC's Melissa Lee and the 'Fast Money' traders.",
+          "source": "CNBC",
+          "ticker": "UNH",
+          "url": "https://finnhub.io/api/news?id=e23c0e73a184dceb9a51c6de7851ad3b046b188afb3097eeb26165f41fd81402",
+          "category": "company",
+          "datetime": "2025-11-18T18:04:20",
+          "timestamp": 1763489060,
+          "id": 137548019
+        },
+        {
+          "headline": "Health insurance weakness is a major opportunity for investors, says Bernstein's Lance Wilkes",
+          "summary": "Lance Wilkes, Bernstein Research managing director & senior research analyst, joins 'Fast Money' to talk worries around health care premiums jumping and how that is impacting health care companies.",
+          "source": "CNBC",
+          "ticker": "UNH",
+          "url": "https://finnhub.io/api/news?id=4ab079220c22c5dbc36a6c57216dbbaeb6aa08c435e2f096d8d1c94e21f7702e",
+          "category": "company",
+          "datetime": "2025-11-18T17:51:58",
+          "timestamp": 1763488318,
+          "id": 137548020
+        },
         {
           "headline": "How to use the tax-loss selling occurring now to pick up quality stocks on the cheap",
           "summary": "Kevin Simpson on how to use this annual phenomenon to your advantage.",
@@ -495,6 +517,28 @@
       "sector_name": "Industrials",
       "articles": [
         {
+          "headline": "Saudi Arabia to buy U.S. F-35 jets",
+          "summary": "CNBC's Brian Sullivan and Morgan Brennan discuss Saudi Arabia's deal with the U.S. to buy F-35 jets.",
+          "source": "CNBC",
+          "ticker": "LMT",
+          "url": "https://finnhub.io/api/news?id=bb2bf732b241588ed178d3c70295701f3e24a7cf29866212267f305426f51a88",
+          "category": "company",
+          "datetime": "2025-11-18T14:41:41",
+          "timestamp": 1763476901,
+          "id": 137548123
+        },
+        {
+          "headline": "Final Trades: Netflix, Nvidia, Lockheed Martin and Freeport-McMoRan",
+          "summary": "The Investment Committee give you their top stocks to watch for the second half. Jenny Harrington also highlights her sale of WPP.",
+          "source": "CNBC",
+          "ticker": "LMT",
+          "url": "https://finnhub.io/api/news?id=0231108ca6fd2734888c732f48994ce49659f19a9ba881bd6a382b93e3e19b51",
+          "category": "company",
+          "datetime": "2025-11-18T13:07:57",
+          "timestamp": 1763471277,
+          "id": 137547994
+        },
+        {
           "headline": "Emirates to hold Boeing's 'feet to the fire' to deliver on $38 billion deal, president says",
           "summary": "Dubai's flagship airline announced a major order with Boeing this week. ",
           "source": "CNBC",
@@ -544,6 +588,39 @@
       "sector_name": "Consumer Staples",
       "articles": [
         {
+          "headline": "Walmart in talks to acquire Israeli-founded startup to combat scams, counterfeits ",
+          "summary": "A Walmart acquisition of R&A Data would come after CNBC found issues on its online marketplace involving identity theft and counterfeit beauty products.",
+          "source": "CNBC",
+          "ticker": "WMT",
+          "url": "https://finnhub.io/api/news?id=5face2acc801aa53244026de54e709f47f5ae577976e0ab793bf6412b95eb959",
+          "category": "company",
+          "datetime": "2025-11-19T10:15:28",
+          "timestamp": 1763547328,
+          "id": 137547997
+        },
+        {
+          "headline": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
+          "summary": "Club holding Nvidia's quarterly earnings report is in focus as the S&P 500 tries to break its four- session losing streak.",
+          "source": "CNBC",
+          "ticker": "WMT",
+          "url": "https://finnhub.io/api/news?id=d3c5c3fad02b6bf873b13b996aca53ac0e03c214aa901dea22f09f09a1783c1d",
+          "category": "company",
+          "datetime": "2025-11-19T09:03:31",
+          "timestamp": 1763543011,
+          "id": 137547897
+        },
+        {
+          "headline": "Target cuts profit outlook as shoppers look for deals, make fewer store trips",
+          "summary": "Target is gearing up for the holidays and trying to snap an approximately four-year sales slump.",
+          "source": "CNBC",
+          "ticker": "WMT",
+          "url": "https://finnhub.io/api/news?id=7fac487d3a9d810a238e08d53386f846ad09ae555b856d3f0cd002a9a2bde7e2",
+          "category": "company",
+          "datetime": "2025-11-19T00:01:01",
+          "timestamp": 1763510461,
+          "id": 137547999
+        },
+        {
           "headline": "How to use the tax-loss selling occurring now to pick up quality stocks on the cheap",
           "summary": "Kevin Simpson on how to use this annual phenomenon to your advantage.",
           "source": "CNBC",
@@ -564,39 +641,6 @@
           "datetime": "2025-11-18T10:36:00",
           "timestamp": 1763462160,
           "id": 137539478
-        },
-        {
-          "headline": "Home Depot earnings, 'quiet time' in the job market, Panera's new strategy and more in Morning Squawk",
-          "summary": "Here are five key things investors need to know to start the trading day.",
-          "source": "CNBC",
-          "ticker": "WMT",
-          "url": "https://finnhub.io/api/news?id=9d831cc8a34053db3d12ef17423e7a100201ddd9444d33344e3c34ee0db04ea3",
-          "category": "company",
-          "datetime": "2025-11-18T08:05:16",
-          "timestamp": 1763453116,
-          "id": 137539385
-        },
-        {
-          "headline": "Intuit to pay OpenAI over $100 million a year for model access, ChatGPT integrates with TurboTax",
-          "summary": "Intuit has struck a $100 million-plus annual deal with OpenAI to bring AI into its financial products like TurboTax and QuickBooks. ",
-          "source": "CNBC",
-          "ticker": "WMT",
-          "url": "https://finnhub.io/api/news?id=567af8ab1f5141c964ca3e040b194712043f99b70b8e8f1ef1b66da5261f1c29",
-          "category": "company",
-          "datetime": "2025-11-18T08:00:01",
-          "timestamp": 1763452801,
-          "id": 137539484
-        },
-        {
-          "headline": "Dow drops 500 points, S&P 500 falls for a fourth day as tech slumps, bitcoin briefly dips below $90,000: Live updates",
-          "summary": "Nvidia notably declined about 2% on Monday ahead of the chipmaker's third-quarter results on Wednesday. ",
-          "source": "CNBC",
-          "ticker": "WMT",
-          "url": "https://finnhub.io/api/news?id=31b41f0086b77cc0b1767137a7efbf583948679f4a9f44a652a07860477c955c",
-          "category": "company",
-          "datetime": "2025-11-17T18:05:04",
-          "timestamp": 1763402704,
-          "id": 137539485
         },
         {
           "headline": "Novo Nordisk cuts direct-to-consumer prices for Wegovy, Ozempic to $349 a month",
@@ -653,6 +697,17 @@
       "sector_name": "Utilities",
       "articles": [
         {
+          "headline": "Trump administration backs Three Mile Island nuclear restart with $1 billion loan to Constellation",
+          "summary": "The first advance to Constellation Energy is expected in the first quarter, said Greg Beard, senior advisor to the Energy Department's Loan Programs Office.",
+          "source": "CNBC",
+          "ticker": "NEE",
+          "url": "https://finnhub.io/api/news?id=d13d3de846ad85592dfd6c0c3c862156a53dbfc81751d05c8fba308f0d67c4e0",
+          "category": "company",
+          "datetime": "2025-11-18T16:15:30",
+          "timestamp": 1763482530,
+          "id": 137548061
+        },
+        {
           "headline": "Top Wall Street analysts are bullish on these 3 dividend stocks",
           "summary": "TipRanks' ranking service highlights three\u00a0dividend-paying stocks, including Diamondback Energy and Permian Resources",
           "source": "CNBC",
@@ -667,11 +722,35 @@
     },
     "XLRE": {
       "sector_name": "Real Estate",
-      "articles": []
+      "articles": [
+        {
+          "headline": "Wednesday's big stock stories: What\u2019s likely to move the market in the next trading session",
+          "summary": "The S&P 500 on Tuesday closed down for a fourth straight day, its longest losing streak since August, as investors fret about tech stock valuations. ",
+          "source": "CNBC",
+          "ticker": "DLR",
+          "url": "https://finnhub.io/api/news?id=656fba299ba2b943a5d06d27e6091c6fba5116e7921cc948e8c6c44f2be72641",
+          "category": "company",
+          "datetime": "2025-11-18T19:30:42",
+          "timestamp": 1763494242,
+          "id": 137547987
+        }
+      ]
     },
     "XLB": {
       "sector_name": "Materials",
-      "articles": []
+      "articles": [
+        {
+          "headline": "Final Trades: Netflix, Nvidia, Lockheed Martin and Freeport-McMoRan",
+          "summary": "The Investment Committee give you their top stocks to watch for the second half. Jenny Harrington also highlights her sale of WPP.",
+          "source": "CNBC",
+          "ticker": "FCX",
+          "url": "https://finnhub.io/api/news?id=0231108ca6fd2734888c732f48994ce49659f19a9ba881bd6a382b93e3e19b51",
+          "category": "company",
+          "datetime": "2025-11-18T13:07:57",
+          "timestamp": 1763471277,
+          "id": 137547994
+        }
+      ]
     }
   }
 }
