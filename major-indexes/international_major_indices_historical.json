@@ -5,7 +5,7 @@
     "trading_days": 252
   },
   "metadata": {
-    "generated_at": "2025-11-20T16:59:27Z",
+    "generated_at": "2025-11-20T17:25:36Z",
     "trading_days": 252,
     "indices_count": 11
   },
@@ -4581,7 +4581,7 @@
           "date": "2025-11-20",
           "open": 23387.42,
           "high": 23512.49,
-          "low": 23289.48,
+          "low": 23277.09,
           "close": 23278.85,
           "volume": 0,
           "daily_return_percent": 0.5
@@ -20700,11 +20700,11 @@
         },
         {
           "date": "2025-11-20",
-          "open": 4030.97,
-          "high": 4059.37,
-          "low": 4001.31,
+          "open": 0.0,
+          "high": 0.0,
+          "low": 0.0,
           "close": 4004.85,
-          "volume": 360282,
+          "volume": 0,
           "daily_return_percent": 1.92
         }
       ],
@@ -23005,35 +23005,35 @@
           "date": "2025-11-20",
           "open": 30479.88,
           "high": 30632.84,
-          "low": 30118.46,
-          "close": 30118.46,
-          "volume": 86595545,
-          "daily_return_percent": -0.53
+          "low": 30012.6,
+          "close": 30028.21,
+          "volume": 100252250,
+          "daily_return_percent": -0.83
         }
       ],
       "technical_indicators": {
         "moving_averages": {
-          "sma_20": 30210.67,
-          "sma_50": 30069.87,
-          "sma_200": 27102.13
+          "sma_20": 30206.16,
+          "sma_50": 30068.07,
+          "sma_200": 27101.67
         },
-        "rsi_14": 47.89,
+        "rsi_14": 46.64,
         "macd": {
-          "macd_line": 51.56,
-          "signal_line": 82.51,
-          "histogram": -30.95
+          "macd_line": 44.36,
+          "signal_line": 81.07,
+          "histogram": -36.71
         },
         "bollinger_bands": {
-          "upper": 30667.95,
-          "middle": 30210.67,
-          "lower": 29753.4
+          "upper": 30669.01,
+          "middle": 30206.16,
+          "lower": 29743.31
         }
       },
       "statistics": {
-        "period_return_percent": 20.3,
+        "period_return_percent": 19.94,
         "volatility_annual_percent": 0.14,
         "max_drawdown_percent": -12.79,
-        "sharpe_ratio": 1.09,
+        "sharpe_ratio": 1.07,
         "average_daily_volume": null,
         "days_up": 153,
         "days_down": 97,
