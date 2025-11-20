@@ -26,7 +26,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2025-11-20T21:25:45Z",
+    "generated_at": "2025-11-20T21:41:08Z",
     "start_date": "2024-11-20",
     "end_date": "2025-11-20",
     "trading_days": 252,
@@ -6910,7 +6910,7 @@
           "high": 23147.33,
           "low": 22043.2,
           "close": 22078.05,
-          "volume": 8850008000,
+          "volume": 8883286000,
           "daily_return_percent": -2.15
         }
       ],
@@ -6937,7 +6937,7 @@
         "volatility_annual_percent": 0.25,
         "max_drawdown_percent": -24.32,
         "sharpe_ratio": 0.58,
-        "average_daily_volume": 9136916500,
+        "average_daily_volume": 9137048555,
         "days_up": 143,
         "days_down": 108,
         "win_rate_percent": 56.97
@@ -9213,7 +9213,7 @@
           "high": 25222.95,
           "low": 24021.44,
           "close": 24054.38,
-          "volume": 1617411000,
+          "volume": 1619858000,
           "daily_return_percent": -2.38
         }
       ],
@@ -9240,7 +9240,7 @@
         "volatility_annual_percent": 0.24,
         "max_drawdown_percent": -22.93,
         "sharpe_ratio": 0.59,
-        "average_daily_volume": 8767070440,
+        "average_daily_volume": 8767080150,
         "days_up": 146,
         "days_down": 105,
         "win_rate_percent": 58.17
@@ -13818,9 +13818,9 @@
           "open": 20.78,
           "high": 28.27,
           "low": 19.28,
-          "close": 26.37,
+          "close": 26.42,
           "volume": 0,
-          "daily_return_percent": 11.45
+          "daily_return_percent": 11.67
         }
       ],
       "technical_indicators": {
@@ -13829,20 +13829,20 @@
           "sma_50": 18.1,
           "sma_200": 19.58
         },
-        "rsi_14": 74.41,
+        "rsi_14": 74.48,
         "macd": {
           "macd_line": 1.64,
           "signal_line": 0.82,
           "histogram": 0.82
         },
         "bollinger_bands": {
-          "upper": 25.04,
+          "upper": 25.06,
           "middle": 19.1,
-          "lower": 13.15
+          "lower": 13.14
         }
       },
       "statistics": {
-        "period_return_percent": 61.28,
+        "period_return_percent": 61.59,
         "volatility_annual_percent": 1.59,
         "max_drawdown_percent": -72.83,
         "sharpe_ratio": 0.99,
