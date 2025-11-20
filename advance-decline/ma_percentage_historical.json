@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2025-11-20T14:58:18.870083+00:00",
+    "generated_at": "2025-11-20T15:24:34.258561+00:00",
     "data_source": "Yahoo Finance (yfinance)",
     "universe": "S&P 500",
     "total_stocks": 503,
@@ -32,34 +32,34 @@
   },
   "statistics": {
     "20_day_ma": {
-      "current_percentage": 43.74,
+      "current_percentage": 47.71,
       "market_condition": "Weak (more stocks in downtrend)",
       "trend_20d": "Deteriorating (breadth contracting)",
-      "change_5_days": -3.97,
-      "change_20_days": -14.03,
-      "change_60_days": -29.31,
+      "change_5_days": 0.0,
+      "change_20_days": -10.06,
+      "change_60_days": -25.34,
       "min_percentage": 2.2,
       "max_percentage": 89.02,
-      "average_percentage": 53.53
+      "average_percentage": 53.55
     },
     "50_day_ma": {
-      "current_percentage": 42.35,
+      "current_percentage": 43.34,
       "market_condition": "Weak (more stocks in downtrend)",
       "trend_20d": "Deteriorating (breadth contracting)",
-      "change_5_days": -2.78,
-      "change_20_days": -9.84,
-      "change_60_days": -25.12,
+      "change_5_days": -1.79,
+      "change_20_days": -8.85,
+      "change_60_days": -24.13,
       "min_percentage": 5.79,
       "max_percentage": 85.63,
       "average_percentage": 55.68
     },
     "200_day_ma": {
-      "current_percentage": 55.27,
+      "current_percentage": 56.06,
       "market_condition": "Moderate (mixed market)",
       "trend_20d": "Deteriorating (breadth contracting)",
-      "change_5_days": -2.98,
-      "change_20_days": -11.46,
-      "change_60_days": -13.59,
+      "change_5_days": -2.19,
+      "change_20_days": -10.67,
+      "change_60_days": -12.8,
       "min_percentage": 18.96,
       "max_percentage": 82.04,
       "average_percentage": 60.66
@@ -834,8 +834,8 @@
     {
       "date": "2024-11-18",
       "ma_20": {
-        "count_above": 301,
-        "percentage_above": 60.08
+        "count_above": 300,
+        "percentage_above": 59.88
       },
       "ma_50": {
         "count_above": 297,
@@ -4614,16 +4614,16 @@
     {
       "date": "2025-11-20",
       "ma_20": {
-        "count_above": 220,
-        "percentage_above": 43.74
+        "count_above": 240,
+        "percentage_above": 47.71
       },
       "ma_50": {
-        "count_above": 213,
-        "percentage_above": 42.35
+        "count_above": 218,
+        "percentage_above": 43.34
       },
       "ma_200": {
-        "count_above": 278,
-        "percentage_above": 55.27
+        "count_above": 282,
+        "percentage_above": 56.06
       }
     }
   ]
