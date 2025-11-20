@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2025-11-19T12:16:39.754495-05:00",
+    "generated_at": "2025-11-20T12:14:34.723083-05:00",
     "data_source": "FRED API",
     "category": "Inflation & Prices",
     "indicators": [
@@ -48,8 +48,8 @@
       }
     ],
     "history_days": 7300,
-    "data_start": "2005-11-24",
-    "data_end": "2025-11-19"
+    "data_start": "2005-11-25",
+    "data_end": "2025-11-20"
   },
   "current": {
     "date": "2025-09-01",
@@ -170,18 +170,18 @@
         "value": 2.36,
         "unit": "Percent",
         "frequency": "Daily",
-        "percentile": 78.98,
+        "percentile": 78.96,
         "grade": {
           "grade": "B",
           "label": "Acceptable",
           "color": "warning",
           "points": 3
         },
-        "trend": "declining",
+        "trend": "stable",
         "changes": {
-          "1y": -2.48,
-          "5y": 47.5,
-          "10y": 108.85,
+          "1y": -1.67,
+          "5y": 45.68,
+          "10y": 103.45,
           "20y": null
         },
         "interpretation": "neutral"
