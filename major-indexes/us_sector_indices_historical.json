@@ -6,7 +6,7 @@
     "trading_days": 252
   },
   "metadata": {
-    "generated_at": "2025-11-20T21:41:13Z",
+    "generated_at": "2025-11-20T21:54:21Z",
     "start_date": "2024-11-20",
     "end_date": "2025-11-20",
     "trading_days": 252,
@@ -231,7 +231,7 @@
           "open": 235.14,
           "high": 237.05,
           "low": 233.89,
-          "close": 236.96,
+          "close": 236.95,
           "volume": 3986700,
           "daily_return_percent": 1.06
         },
@@ -242,7 +242,7 @@
           "low": 237.44,
           "close": 239.4,
           "volume": 2326700,
-          "daily_return_percent": 1.03
+          "daily_return_percent": 1.04
         },
         {
           "date": "2024-12-26",
@@ -21183,7 +21183,7 @@
           "open": 76.04,
           "high": 76.85,
           "low": 75.97,
-          "close": 76.73,
+          "close": 76.74,
           "volume": 9356300,
           "daily_return_percent": 2.08
         },
@@ -21194,7 +21194,7 @@
           "low": 76.11,
           "close": 76.28,
           "volume": 9834800,
-          "daily_return_percent": -0.58
+          "daily_return_percent": -0.59
         },
         {
           "date": "2025-02-03",

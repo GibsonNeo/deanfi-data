@@ -26,7 +26,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2025-11-20T21:41:08Z",
+    "generated_at": "2025-11-20T21:54:14Z",
     "start_date": "2024-11-20",
     "end_date": "2025-11-20",
     "trading_days": 252,
@@ -6910,7 +6910,7 @@
           "high": 23147.33,
           "low": 22043.2,
           "close": 22078.05,
-          "volume": 8883286000,
+          "volume": 8901137000,
           "daily_return_percent": -2.15
         }
       ],
@@ -6937,7 +6937,7 @@
         "volatility_annual_percent": 0.25,
         "max_drawdown_percent": -24.32,
         "sharpe_ratio": 0.58,
-        "average_daily_volume": 9137048555,
+        "average_daily_volume": 9137119392,
         "days_up": 143,
         "days_down": 108,
         "win_rate_percent": 56.97
@@ -9213,7 +9213,7 @@
           "high": 25222.95,
           "low": 24021.44,
           "close": 24054.38,
-          "volume": 1619858000,
+          "volume": 1621317000,
           "daily_return_percent": -2.38
         }
       ],
@@ -9240,7 +9240,7 @@
         "volatility_annual_percent": 0.24,
         "max_drawdown_percent": -22.93,
         "sharpe_ratio": 0.59,
-        "average_daily_volume": 8767080150,
+        "average_daily_volume": 8767085940,
         "days_up": 146,
         "days_down": 105,
         "win_rate_percent": 58.17
