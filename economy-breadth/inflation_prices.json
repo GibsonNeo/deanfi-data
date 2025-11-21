@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2025-11-20T12:14:34.723083-05:00",
+    "generated_at": "2025-11-21T12:15:26.087665-05:00",
     "data_source": "FRED API",
     "category": "Inflation & Prices",
     "indicators": [
@@ -48,8 +48,8 @@
       }
     ],
     "history_days": 7300,
-    "data_start": "2005-11-25",
-    "data_end": "2025-11-20"
+    "data_start": "2005-11-26",
+    "data_end": "2025-11-21"
   },
   "current": {
     "date": "2025-09-01",
@@ -167,21 +167,21 @@
       },
       "T5YIE": {
         "name": "5-Year Breakeven Inflation Rate",
-        "value": 2.36,
+        "value": 2.34,
         "unit": "Percent",
         "frequency": "Daily",
-        "percentile": 78.96,
+        "percentile": 77.46,
         "grade": {
           "grade": "B",
           "label": "Acceptable",
           "color": "warning",
           "points": 3
         },
-        "trend": "stable",
+        "trend": "declining",
         "changes": {
-          "1y": -1.67,
-          "5y": 45.68,
-          "10y": 103.45,
+          "1y": -2.09,
+          "5y": 50.0,
+          "10y": 107.08,
           "20y": null
         },
         "interpretation": "neutral"
@@ -3111,7 +3111,7 @@
           2.47,
           2.42,
           2.4,
-          2.36
+          2.34
         ]
       },
       "CPIENGSL": {
