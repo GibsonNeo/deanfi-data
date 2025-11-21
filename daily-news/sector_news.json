@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2025-11-20T21:11:30.371381",
+    "generated_at": "2025-11-21T14:40:23.704659",
     "type": "sector_news",
     "date_range": {
-      "from": "2025-11-17",
-      "to": "2025-11-20",
+      "from": "2025-11-18",
+      "to": "2025-11-21",
       "lookback_days": 3
     },
     "source_priority": [
@@ -17,11 +17,11 @@
     "method": "Top 5 stocks per GICS sector",
     "stats": {
       "total_sectors": 11,
-      "total_articles": 81,
+      "total_articles": 74,
       "total_tickers": 56,
       "by_source": {
-        "CNBC": 62,
-        "MarketWatch": 19
+        "CNBC": 57,
+        "MarketWatch": 17
       }
     }
   },
@@ -512,26 +512,15 @@
           "id": 137539478
         },
         {
-          "headline": "The Club's top 10 things to watch in the stock market Monday",
-          "summary": "Stock futures are relatively muted early this morning. The market is coming off a volatile week, driven by doubts about the sustainability of AI spending.",
-          "source": "CNBC",
-          "ticker": "JNJ",
-          "url": "https://finnhub.io/api/news?id=ec2712827bd069539f87cf6a3ae1272d68a0677dae42cd005b604ef60c644c6d",
-          "category": "company",
-          "datetime": "2025-11-17T09:02:23",
-          "timestamp": 1763370143,
-          "id": 137505318
-        },
-        {
-          "headline": "The Club's top 10 things to watch in the stock market Monday",
-          "summary": "Stock futures are relatively muted early this morning. The market is coming off a volatile week, driven by doubts about the sustainability of AI spending.",
-          "source": "CNBC",
+          "headline": "Eli Lilly & Co. stock outperforms competitors on strong trading day",
+          "summary": "Eli Lilly & Co. stock outperforms competitors on strong trading day",
+          "source": "MarketWatch",
           "ticker": "LLY",
-          "url": "https://finnhub.io/api/news?id=ec2712827bd069539f87cf6a3ae1272d68a0677dae42cd005b604ef60c644c6d",
+          "url": "https://finnhub.io/api/news?id=4a074d780613d05597e1a21ebe0c097587ebc588a0718bba18a62583715f7647",
           "category": "company",
-          "datetime": "2025-11-17T09:02:23",
-          "timestamp": 1763370143,
-          "id": 137505318
+          "datetime": "2025-11-19T16:31:00",
+          "timestamp": 1763569860,
+          "id": 137557421
         },
         {
           "headline": "Dow's nearly 125-point rally led by gains for shares of NVIDIA Corp., Cisco",
@@ -543,6 +532,17 @@
           "datetime": "2025-11-19T15:38:00",
           "timestamp": 1763566680,
           "id": 137557370
+        },
+        {
+          "headline": "Why biotech and drug stocks are rallying even though the rest of the market is hurting",
+          "summary": "Why biotech and drug stocks are rallying even though the rest of the market is hurting",
+          "source": "MarketWatch",
+          "ticker": "JNJ",
+          "url": "https://finnhub.io/api/news?id=01e868184bebe051c9165176b78e7c9483a2d360921c9b76bb49eb610c7a98a6",
+          "category": "company",
+          "datetime": "2025-11-19T09:40:00",
+          "timestamp": 1763545200,
+          "id": 137557422
         }
       ]
     },
@@ -594,26 +594,15 @@
           "id": 137539562
         },
         {
-          "headline": "Tuesday's big stock stories: What\u2019s likely to move the market in the next trading session",
-          "summary": "Stocks pulled back on Monday, with tech shares largely trading lower. That included Nvidia, which dropped about 2% ahead of its earnings on Wednesday. ",
-          "source": "CNBC",
-          "ticker": "LMT",
-          "url": "https://finnhub.io/api/news?id=8448fc51e3457e29c7f8df49c25d4f89351d82dc0140e062152650a00ca9989a",
-          "category": "company",
-          "datetime": "2025-11-17T17:11:36",
-          "timestamp": 1763399496,
-          "id": 137539465
-        },
-        {
-          "headline": "The Club's top 10 things to watch in the stock market Monday",
-          "summary": "Stock futures are relatively muted early this morning. The market is coming off a volatile week, driven by doubts about the sustainability of AI spending.",
-          "source": "CNBC",
+          "headline": "Boeing Is Getting More Orders. The Stock Is Going Down.",
+          "summary": "Boeing Is Getting More Orders. The Stock Is Going Down.",
+          "source": "MarketWatch",
           "ticker": "BA",
-          "url": "https://finnhub.io/api/news?id=ec2712827bd069539f87cf6a3ae1272d68a0677dae42cd005b604ef60c644c6d",
+          "url": "https://finnhub.io/api/news?id=d86fb6aa9d6fa3cf73b7f601b5ec009f6b5304c4672077bf3ba76ac199abd505",
           "category": "company",
-          "datetime": "2025-11-17T09:02:23",
-          "timestamp": 1763370143,
-          "id": 137505318
+          "datetime": "2025-11-19T16:16:00",
+          "timestamp": 1763568960,
+          "id": 137559754
         },
         {
           "headline": "Dow's nearly 200-point rally led by gains for NVIDIA Corp., Caterpillar shares",
@@ -627,26 +616,15 @@
           "id": 137557371
         },
         {
-          "headline": "Boeing\u2019s 777X has had its problems, but the orders keep coming",
-          "summary": "Boeing\u2019s 777X has had its problems, but the orders keep coming",
+          "headline": "Lockheed shares climb as Trump meets with Saudi leader",
+          "summary": "Lockheed shares climb as Trump meets with Saudi leader",
           "source": "MarketWatch",
-          "ticker": "GE",
-          "url": "https://finnhub.io/api/news?id=c639195369d455872e181f0d448b51fde5c656bb2e0c06a7b9a7429de06b21a4",
+          "ticker": "LMT",
+          "url": "https://finnhub.io/api/news?id=6bf768b5d4ade32cffb89bb1ee6ca23c7b6923c5433ec0ba7cb86f2a9a2e4338",
           "category": "company",
-          "datetime": "2025-11-17T17:51:00",
-          "timestamp": 1763401860,
-          "id": 137557852
-        },
-        {
-          "headline": "GE Aerospace Nabs Engine Orders From flydubai, Emirates in Middle East Play",
-          "summary": "GE Aerospace Nabs Engine Orders From flydubai, Emirates in Middle East Play",
-          "source": "MarketWatch",
-          "ticker": "GE",
-          "url": "https://finnhub.io/api/news?id=a9546f3aad78ee80fdf64f76ed40d5db6833de92236b60cd6a9a125f937711f2",
-          "category": "company",
-          "datetime": "2025-11-17T11:10:00",
-          "timestamp": 1763377800,
-          "id": 137557853
+          "datetime": "2025-11-18T13:29:40",
+          "timestamp": 1763472580,
+          "id": 137561314
         }
       ]
     },
@@ -720,17 +698,6 @@
           "id": 137539478
         },
         {
-          "headline": "Novo Nordisk cuts direct-to-consumer prices for Wegovy, Ozempic to $349 a month",
-          "summary": "The announcements come days after President Donald Trump struck deals with Novo Nordisk and Eli Lilly to make their GLP-1s easier for Americans to access.",
-          "source": "CNBC",
-          "ticker": "COST",
-          "url": "https://finnhub.io/api/news?id=7e4b5691755b9c03d974e60a892a606e282d21014f39fd3399d91e4f7eae754b",
-          "category": "company",
-          "datetime": "2025-11-17T08:11:27",
-          "timestamp": 1763367087,
-          "id": 137505402
-        },
-        {
           "headline": "PepsiCo Inc. stock underperforms Wednesday when compared to competitors",
           "summary": "PepsiCo Inc. stock underperforms Wednesday when compared to competitors",
           "source": "MarketWatch",
@@ -800,17 +767,6 @@
           "datetime": "2025-11-18T16:37:00",
           "timestamp": 1763483820,
           "id": 137560621
-        },
-        {
-          "headline": "ConocoPhillips stock underperforms Monday when compared to competitors",
-          "summary": "ConocoPhillips stock underperforms Monday when compared to competitors",
-          "source": "MarketWatch",
-          "ticker": "COP",
-          "url": "https://finnhub.io/api/news?id=8244b784a67ceb77fad3fa6ffd3e9d85d7b1db94b47fc32868273c09afb61745",
-          "category": "company",
-          "datetime": "2025-11-17T16:38:00",
-          "timestamp": 1763397480,
-          "id": 137560622
         }
       ]
     },
@@ -871,17 +827,6 @@
           "datetime": "2025-11-18T16:35:00",
           "timestamp": 1763483700,
           "id": 137559013
-        },
-        {
-          "headline": "NextEra Energy Inc. stock outperforms competitors on strong trading day",
-          "summary": "NextEra Energy Inc. stock outperforms competitors on strong trading day",
-          "source": "MarketWatch",
-          "ticker": "NEE",
-          "url": "https://finnhub.io/api/news?id=6af075a81ce72b1663034553d6188296692cd66780537666d91dde7f98ea5eda",
-          "category": "company",
-          "datetime": "2025-11-17T16:35:00",
-          "timestamp": 1763397300,
-          "id": 137559014
         }
       ]
     },
@@ -909,17 +854,6 @@
           "datetime": "2025-11-19T16:37:00",
           "timestamp": 1763570220,
           "id": 137560525
-        },
-        {
-          "headline": "American Tower REIT stock underperforms Monday when compared to competitors",
-          "summary": "American Tower REIT stock underperforms Monday when compared to competitors",
-          "source": "MarketWatch",
-          "ticker": "AMT",
-          "url": "https://finnhub.io/api/news?id=c95a8aa1316e2c53db8b0af58721c94ac9738361c9dca73769f10907f8f510b9",
-          "category": "company",
-          "datetime": "2025-11-17T16:40:00",
-          "timestamp": 1763397600,
-          "id": 137561778
         }
       ]
     },
@@ -958,17 +892,6 @@
           "datetime": "2025-11-19T15:38:00",
           "timestamp": 1763566680,
           "id": 137557370
-        },
-        {
-          "headline": "Sherwin-Williams Co. stock underperforms Monday when compared to competitors",
-          "summary": "Sherwin-Williams Co. stock underperforms Monday when compared to competitors",
-          "source": "MarketWatch",
-          "ticker": "SHW",
-          "url": "https://finnhub.io/api/news?id=8fff256666b1028f2781da3454de7011fa40ba9ed6850a97afa5be5730065504",
-          "category": "company",
-          "datetime": "2025-11-17T16:41:00",
-          "timestamp": 1763397660,
-          "id": 137562404
         }
       ]
     }

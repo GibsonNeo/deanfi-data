@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2025-11-20T21:11:25.515257",
+    "generated_at": "2025-11-21T14:40:21.488675",
     "type": "top_market_news",
     "source_priority": [
       "Bloomberg",
@@ -22,74 +22,114 @@
   },
   "articles": [
     {
-      "headline": "Russian oil cargoes race to India as sanctions deadline nears",
-      "summary": "The data showed most of the tankers are heading either to Reliance Industries Ltd.\u2019s Jamnagar refinery or Rosneft-linked Nayara Energy Ltd.\u2019s Vadinar port",
+      "headline": "ICICI Prudential asset said to near nod for $1.1 billion IPO",
+      "summary": "The company submitted its draft red herring prospectus more than four months ago on July 8, saying the plan involves Prudential\u2019s sale of as many as 17.65 million shares, or a 10% stake",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2025-11-19/russian-oil-cargoes-race-to-india-as-sanctions-deadline-nears",
+      "url": "https://www.bloomberg.com/news/articles/2025-11-20/icici-prudential-asset-said-to-near-nod-for-1-1-billion-ipo",
       "category": "top news",
-      "datetime": "2025-11-19T11:18:39",
-      "timestamp": 1763551119,
-      "id": 7556227
+      "datetime": "2025-11-20T10:11:25",
+      "timestamp": 1763633485,
+      "id": 7556583
     },
     {
-      "headline": "Vedanta to ramp up Saudi spending as hunt for copper, gold begins",
-      "summary": "The company intends to start digging for copper and gold in western Saudi Arabia in six to eight months, in what would be its first official mission to explore for minerals in Saudi Arabia",
+      "headline": "India set to achieve chipmaking parity with major producers by 2032: Vaishnaw",
+      "summary": "India aims for chipmaking parity with global leaders by 2032, with three facilities launching production next year, says Vaishnaw.",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2025-11-19/vedanta-plans-saudi-spending-boost-in-push-for-copper-gold",
+      "url": "https://www.bloomberg.com/news/articles/2025-11-20/india-seeks-chipmaking-parity-with-major-producers-by-2032",
       "category": "top news",
-      "datetime": "2025-11-19T09:59:51",
-      "timestamp": 1763546391,
-      "id": 7556202
+      "datetime": "2025-11-20T05:23:13",
+      "timestamp": 1763616193,
+      "id": 7556544
     },
     {
-      "headline": "India\u2019s Saudi oil buying spurs questions over Russia shortfall",
-      "summary": "India will be among Asian buyers taking more oil from Saudi Aramco next month after pulling away from Russian crude, though the modest rise has left traders wondering how the world\u2019s third-largest importer will fill a shortfall of up to 1.2 million barrels a \u2026",
+      "headline": "Wedding matchmaker Shaadi.com said to be considering IPO",
+      "summary": "Shaadi.com is reportedly exploring an IPO, engaging with investment bankers for a potential listing.",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2025-11-12/saudi-oil-sales-to-asian-refiners-set-to-rise-in-december",
+      "url": "https://www.bloomberg.com/news/articles/2025-11-20/indian-wedding-matchmaker-shaadi-com-is-said-to-consider-ipo",
       "category": "top news",
-      "datetime": "2025-11-19T07:32:00",
-      "timestamp": 1763537520,
-      "id": 7556181
+      "datetime": "2025-11-20T05:04:23",
+      "timestamp": 1763615063,
+      "id": 7556540
     },
     {
-      "headline": "The era of dollar dominance is coming to a close",
-      "summary": "The dollar's dominance in global reserves is declining, impacted by geopolitical tensions and shifting economic dynamics.",
+      "headline": "India seeks tankers for West Asia oil after Russia sanctions",
+      "summary": "Roughly a dozen vessels have been chartered so far this week to ship crude from countries including Saudi Arabia, Kuwait, Iraq and the United Arab Emirates and ferry it across the Arabian Sea",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2025-11-18/the-era-of-dollar-dominance-is-coming-to-a-close",
+      "url": "https://www.bloomberg.com/news/articles/2025-11-19/india-seeks-ships-for-mideast-oil-as-sanctions-deadline-looms",
       "category": "top news",
-      "datetime": "2025-11-19T07:00:14",
-      "timestamp": 1763535614,
-      "id": 7556171
+      "datetime": "2025-11-20T04:37:04",
+      "timestamp": 1763613424,
+      "id": 7556537
     },
     {
-      "headline": "Deutsche Bank said to refinance part of $350 million Oyo loan",
-      "summary": "The German lender is providing a three-year bullet loan of about $150 million, the people said, asking not to be identified as the details are private",
+      "headline": "IndusInd Bank plans sweeping overhaul after probe",
+      "summary": "IndusInd Bank initiates major restructuring to enhance profitability and address governance issues after a recent accounting probe.",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2025-11-19/deutsche-bank-said-to-refinance-part-of-350-million-oyo-loan",
+      "url": "https://www.bloomberg.com/news/articles/2025-11-20/billionaire-backed-indusind-plans-sweeping-overhaul-after-probe",
       "category": "top news",
-      "datetime": "2025-11-19T06:08:52",
-      "timestamp": 1763532532,
-      "id": 7556164
+      "datetime": "2025-11-20T04:12:13",
+      "timestamp": 1763611933,
+      "id": 7556532
     },
     {
-      "headline": "RBI\u2019s big inflation misses put India\u2019s forecasts under scrutiny",
-      "summary": "RBI's inflation forecasting errors raise concerns among economists, questioning the central bank's hawkish policy approach amid declining price pressures.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2025-11-19/rbi-s-big-inflation-misses-put-india-s-forecasts-under-scrutiny",
+      "headline": "Jim Cramer's top 10 things to watch in the stock market Friday",
+      "summary": "Stock futures rose Friday after New York Federal Reserve President John Williams suggested the possibility of a December rate cut.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2025/11/21/jim-cramers-top-10-things-to-watch-in-the-stock-market-friday.html",
       "category": "top news",
-      "datetime": "2025-11-19T03:24:11",
-      "timestamp": 1763522651,
-      "id": 7556134
+      "datetime": "2025-11-21T14:25:42",
+      "timestamp": 1763735142,
+      "id": 7556675
     },
     {
-      "headline": "BTS\u2019s comeback tour is just what K-pop needs",
-      "summary": "Album sales across South Korea\u2019s top 400 plunged 20% without BTS on tour.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/opinion/articles/2025-11-13/bts-s-comeback-tour-is-just-what-k-pop-needs",
+      "headline": "Treasury yields slide after Williams suggests Fed could cut again in December",
+      "summary": "The yield on the benchmark 10-year Treasury was lower on Friday.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2025/11/21/us-treasury-yields-edge-lower-as-fed-rate-cut-bets-fall.html",
       "category": "top news",
-      "datetime": "2025-11-18T23:31:29",
-      "timestamp": 1763508689,
-      "id": 7556105
+      "datetime": "2025-11-21T13:59:10",
+      "timestamp": 1763733550,
+      "id": 7556668
+    },
+    {
+      "headline": "The senior population is booming. Caregiving is struggling to keep up",
+      "summary": "The senior population in the U.S. is skyrocketing, but low wages and the difficulty of the caregiver job are fueling a widening shortage in the labor force.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2025/11/21/senior-caregiving-labor.html",
+      "category": "business",
+      "datetime": "2025-11-21T13:00:01",
+      "timestamp": 1763730001,
+      "id": 7556643
+    },
+    {
+      "headline": "As the market reverses hard, Jim Cramer recommends waiting to buy",
+      "summary": "CNBC's Jim Cramer unpacked Thursday's market action and told investors to take a pause and figure out what stocks are worth buying on weakness.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2025/11/20/market-reverses-jim-cramer.html",
+      "category": "top news",
+      "datetime": "2025-11-20T23:22:54",
+      "timestamp": 1763680974,
+      "id": 7556487
+    },
+    {
+      "headline": "Trump plans huge oil drilling expansion off California and Alaska coasts",
+      "summary": "Trump's program would mark the first time since 1984 that Interior has allowed a new lease in the Pacific.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2025/11/20/trump-offshore-oil-alaska-pacific-california-gulf-mexico.html",
+      "category": "top news",
+      "datetime": "2025-11-20T21:53:21",
+      "timestamp": 1763675601,
+      "id": 7556469
+    },
+    {
+      "headline": "Feds charge 4 in plot to export restricted Nvidia chips to China, Hong Kong",
+      "summary": "Chips sent to China as part of the alleged scheme included Nvidia's A100 and H200 graphics processing units, an indictment says.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2025/11/20/nvidia-ai-chips-china-gpu.html",
+      "category": "top news",
+      "datetime": "2025-11-20T21:23:47",
+      "timestamp": 1763673827,
+      "id": 7556452
     },
     {
       "headline": "Mercedes F1 boss Toto Wolff sells a piece of his ownership stake to CrowdStrike CEO George Kurtz",
@@ -302,44 +342,184 @@
       "id": 7555960
     },
     {
-      "headline": "Don't pass up 'free money' during open enrollment, says benefits expert\u2014how to choose FSA and HSA contributions",
-      "summary": "Funding a flexible spending account or health savings account during open enrollment helps you save on healthcare expenses throughout the year.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2025/11/19/hsas-and-fsas-can-be-free-money-says-benefits-expert.html",
+      "headline": "Crypto, the dollar, stocks and credit are telling the Fed it needs to cut, popular strategist says",
+      "summary": "Risk-on assets are heading toward a \u201cliquidity event\u201d unless the Fed refills the punch bowl.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/crypto-the-dollar-stocks-and-credit-are-telling-the-fed-it-needs-to-cut-popular-strategist-says-f65f6fd7",
       "category": "top news",
-      "datetime": "2025-11-19T14:00:01",
-      "timestamp": 1763560801,
-      "id": 7555911
+      "datetime": "2025-11-21T14:24:00",
+      "timestamp": 1763735040,
+      "id": 7556670
     },
     {
-      "headline": "Lowe's beats on quarterly sales, but lowers full-year profit forecast amid economic uncertainty",
-      "summary": "The company revised its outlook to \"reflect the ongoing uncertainty in the macroeconomic environment\" and the acquisition of Foundation Building Materials.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2025/11/19/lowes-low-q3-2025-earnings-.html",
-      "category": "business",
-      "datetime": "2025-11-19T11:22:47",
-      "timestamp": 1763551367,
-      "id": 7555854
-    },
-    {
-      "headline": "Jeep reveals Wrangler-inspired Recon EV, starting at $65,000",
-      "summary": "Jeep's new Recon all-electric SUV will start at $65,000, the American SUV brand announced Tuesday when officially revealing the vehicle.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2025/11/18/jeep-2026-recon-ev.html",
-      "category": "business",
-      "datetime": "2025-11-19T00:00:01",
-      "timestamp": 1763510401,
-      "id": 7555750
-    },
-    {
-      "headline": "The red-hot AI trade has cooled off. Jim Cramer offers a timeline of how it all went down",
-      "summary": "CNBC's Jim Cramer explained why some investors have soured on AI stocks.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2025/11/18/ai-trade-cooled-off-jim-cramer-gives-a-timeline.html",
+      "headline": "Amazon\u2019s 2025 stock gains just got wiped out. Here\u2019s how it could make a comeback.",
+      "summary": "Shares of Amazon are back in the red for the year, but a further AWS reacceleration could change their fortune in 2026.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/amazons-2025-stock-gains-just-got-wiped-out-heres-how-it-could-make-a-comeback-7120cb35",
       "category": "top news",
-      "datetime": "2025-11-18T23:44:13",
-      "timestamp": 1763509453,
-      "id": 7555752
+      "datetime": "2025-11-21T14:23:00",
+      "timestamp": 1763734980,
+      "id": 7556671
+    },
+    {
+      "headline": "China controls this key resource AI needs \u2014 threatening stocks and the U.S. economy",
+      "summary": "AI relies on rare-earth elements to grow its infrastructure \u2014 and the U.S. relies on AI to grow GDP.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/china-controls-this-key-resource-ai-needs-threatening-stocks-and-the-u-s-economy-8f5f9f62",
+      "category": "top news",
+      "datetime": "2025-11-21T13:05:00",
+      "timestamp": 1763730300,
+      "id": 7556640
+    },
+    {
+      "headline": "BJ\u2019s Wholesale\u2019s keeps beating profit views and the stock rises, even as sales growth disappoints",
+      "summary": "BJ\u2019s Wholesale\u2019s stock gains after profit beat expectations and the full-year outlook was raised again, to offset disappointing growth in a key sales metric.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/bjs-wholesales-keeps-beating-profit-views-and-the-stock-rises-even-as-sales-growth-disappoints-d2298287",
+      "category": "top news",
+      "datetime": "2025-11-21T12:16:00",
+      "timestamp": 1763727360,
+      "id": 7556629
+    },
+    {
+      "headline": "Bitcoin falls below $82,000 as selling isn\u2019t letting up. Here\u2019s why stock-market investors are keeping close watch.",
+      "summary": "Bitcoin prices were pushing into fresh April lows on Friday, and some say the selling, which could drag stocks with it, has more to go.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/bitcoin-falls-below-82-000-as-selling-isnt-letting-up-heres-why-stock-market-investors-are-keeping-close-watch-acbece69",
+      "category": "top news",
+      "datetime": "2025-11-21T11:42:00",
+      "timestamp": 1763725320,
+      "id": 7556605
+    },
+    {
+      "headline": "As AI angst hits markets, this stock \u2014 not Nvidia \u2014 is the canary in the coal mine",
+      "summary": "There\u2019s a way to keep an eye on how the market is valuing OpenAI, according to Citi",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/as-ai-angst-hits-markets-this-stock-not-nvidia-is-the-canary-in-the-coalmine-5073e840",
+      "category": "top news",
+      "datetime": "2025-11-21T11:37:00",
+      "timestamp": 1763725020,
+      "id": 7556606
+    },
+    {
+      "headline": "The stock market has peaked, and a three-year downturn is starting, says this veteran strategist",
+      "summary": "Governments can only deal with their debt loads by printing money; bitcoin and gold are the answer to fiat currency debasement.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-stock-market-has-peaked-and-a-three-year-downturn-is-starting-says-this-veteran-strategist-126396be",
+      "category": "top news",
+      "datetime": "2025-11-21T11:04:00",
+      "timestamp": 1763723040,
+      "id": 7556596
+    },
+    {
+      "headline": "Tom Lee says there were five big reasons why markets stumbled. He has familiar advice.",
+      "summary": "Fundstrat\u2019s Tom Lee says investors should not fear this market, but be ready to buy the dip.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/tom-lee-says-there-were-five-big-reasons-why-markets-stumbled-he-has-familiar-advice-622f5262",
+      "category": "top news",
+      "datetime": "2025-11-21T10:24:00",
+      "timestamp": 1763720640,
+      "id": 7556584
+    },
+    {
+      "headline": "Strategist warns of capital flight risk from Japan, drawing parallels with Liz Truss era",
+      "summary": "New Japanese Prime Minister Sanae Takaichi differs from Truss in that she wants to spend rather than cut taxes, but both plans amount to aggressive fiscal stimulus, says Deutsche Bank.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/strategist-warns-of-capital-flight-risk-from-japan-drawing-parallels-with-liz-truss-era-4b06e36e",
+      "category": "top news",
+      "datetime": "2025-11-21T10:23:00",
+      "timestamp": 1763720580,
+      "id": 7556585
+    },
+    {
+      "headline": "\u2018There\u2019s a lot of tension\u2019: My brother and I manage a $5 million trust. How do we solve our many disagreements?",
+      "summary": "\u201cWe have a good estate attorney, but he just repeats the facts; we need someone to help with the feelings.\u201d",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/theres-a-lot-of-tension-my-brother-and-i-manage-a-5-million-trust-how-do-we-solve-our-many-disagreements-20e57138",
+      "category": "top news",
+      "datetime": "2025-11-21T10:15:00",
+      "timestamp": 1763720100,
+      "id": 7556586
+    },
+    {
+      "headline": "The late Ozzy Osbourne\u2019s swanky L.A. condo is for sale for $2.4 million",
+      "summary": "Ozzy Osbourne\u2019s stunning\u00a0West Hollywood, Calif., condo\u00a0is on the market for $2.375 million, four months after the rock \u2018n\u2019 roll legend died in his native England.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-late-ozzy-osbournes-swanky-l-a-condo-is-for-sale-for-2-4-million-3d786e8a",
+      "category": "top news",
+      "datetime": "2025-11-21T10:02:00",
+      "timestamp": 1763719320,
+      "id": 7556582
+    },
+    {
+      "headline": "Another off-price retailer just turned more optimistic about its future. Bargain hunting is the name of the game.",
+      "summary": "Plenty of analysts believe that Ross Stores stands to benefit as people see prices creeping up elsewhere in their budgets and decide to trade down in apparel.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/another-off-price-retailer-just-turned-more-optimistic-about-its-future-bargain-hunting-is-the-name-of-the-game-ed1ed084",
+      "category": "top news",
+      "datetime": "2025-11-20T22:17:00",
+      "timestamp": 1763677020,
+      "id": 7556471
+    },
+    {
+      "headline": "Even Nvidia can\u2019t help a stock market that\u2019s in real trouble",
+      "summary": "The S&P 500 needs to stay above 6,500 \u2014 or all bets are off.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/even-nvidia-cant-help-a-stock-market-thats-in-real-trouble-c41151db",
+      "category": "top news",
+      "datetime": "2025-11-20T22:04:00",
+      "timestamp": 1763676240,
+      "id": 7556470
+    },
+    {
+      "headline": "Gap gets a little more upbeat on clothing demand for the rest of the year, despite tariffs",
+      "summary": "Shares of Gap Inc. rallied after hours on Thursday after the clothing chain offered a more upbeat full-year outlook, saying that strong momentum in most of its stores has set it up well for the holiday shopping season.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/gap-gets-a-little-more-upbeat-on-clothing-demand-for-the-rest-of-the-year-despite-tariffs-b0f6d9e6",
+      "category": "top news",
+      "datetime": "2025-11-20T21:57:00",
+      "timestamp": 1763675820,
+      "id": 7556465
+    },
+    {
+      "headline": "Google\u2019s winning streak continues as viral Nano Banana gets an upgrade",
+      "summary": "The updated AI image-editing tool has advanced text-rendering features that showcase Google\u2019s ability to solve a persistent industrywide challenge.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/googles-winning-streak-continues-as-viral-nano-banana-gets-an-upgrade-9d8ceda9",
+      "category": "top news",
+      "datetime": "2025-11-20T21:38:00",
+      "timestamp": 1763674680,
+      "id": 7556456
+    },
+    {
+      "headline": "These two corners of the stock market haven\u2019t fallen this far together since 1990 \u2014 a cautious sign for the economy",
+      "summary": "The consumer discretionary and consumer staples sectors now rank among the S&P 500\u2019s bottom performers for 2025 \u2014 a  sign that Wall Street sees cracks in the American wallet",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/these-two-corners-of-the-stock-market-havent-fallen-this-far-together-since-1990-a-cautious-sign-for-the-economy-0a0c00da",
+      "category": "top news",
+      "datetime": "2025-11-20T21:30:00",
+      "timestamp": 1763674200,
+      "id": 7556457
+    },
+    {
+      "headline": "$1 million saved for retirement \u2018ain\u2019t what it used to be\u2019: American workers still have a long way to go",
+      "summary": "It turns out that \u201ca million dollars is nothing\u201d when you really crunch the numbers on retirement savings.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/1-million-saved-for-retirement-aint-what-it-used-to-be-american-workers-still-have-a-long-way-to-go-900d4804",
+      "category": "top news",
+      "datetime": "2025-11-20T21:27:00",
+      "timestamp": 1763674020,
+      "id": 7556448
+    },
+    {
+      "headline": "Why Congress likely won\u2019t allow Trump to send out $2,000 tariff dividend checks",
+      "summary": "President Donald Trump\u2019s proposal to send out $2,000 \u201cdividend\u201d checks to show the benefits of his administration\u2019s tariffs keeps generating chatter in Washington, but some analysts are saying the payouts look unlikely.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-congress-likely-wont-allow-trump-to-send-out-2-000-tariff-dividend-checks-8ed14005",
+      "category": "top news",
+      "datetime": "2025-11-20T21:09:00",
+      "timestamp": 1763672940,
+      "id": 7556445
     },
     {
       "headline": "Bath & Body Works stock is plunging. What went wrong for the hand-soap and candle maker?",
@@ -840,186 +1020,6 @@
       "datetime": "2025-11-19T15:11:00",
       "timestamp": 1763565060,
       "id": 7555939
-    },
-    {
-      "headline": "Alphabet\u2019s stunning stock surge this year could fuel this never-before-seen feat",
-      "summary": "Wall Street once thought ChatGPT would kill Google. Now Alphabet\u2019s stock is on track to become the best-performing \u201cMagnificent Seven\u201d stock on an annual basis for the first time in its history.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/alphabets-stunning-stock-surge-this-year-could-fuel-this-never-before-seen-feat-cccf0483",
-      "category": "top news",
-      "datetime": "2025-11-19T15:10:00",
-      "timestamp": 1763565000,
-      "id": 7555940
-    },
-    {
-      "headline": "Why the Japanese yen trading back toward its lows for the year could be important for markets",
-      "summary": "Some strategists think the Bank of Japan must hike, other argue for yield curve control.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/why-the-japanese-yen-trading-back-toward-its-lows-for-the-year-could-be-important-for-markets-5072cbda",
-      "category": "top news",
-      "datetime": "2025-11-19T14:46:00",
-      "timestamp": 1763563560,
-      "id": 7555937
-    },
-    {
-      "headline": "TJ Maxx parent\u2019s sales surge, as consumers continue to enjoy the hunt for off-price goods",
-      "summary": "Shares of the parent company of T.J. Maxx and Marshalls climbed into record territory as quarterly results beat on all the key metrics, as customers continued to flock to its off-price goods.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/tj-maxx-parents-sales-surge-as-consumers-continue-to-enjoy-the-hunt-for-off-price-goods-96b1419e",
-      "category": "top news",
-      "datetime": "2025-11-19T13:25:00",
-      "timestamp": 1763558700,
-      "id": 7555890
-    },
-    {
-      "headline": "Roth conversions will bring my income up to $400K. I\u2019m 68. How much should I move over?",
-      "summary": "\u201dI know all about taxes, Medicare, growth rate, inflation, Roth conversions, etc.\u201d",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/roth-conversions-will-bring-my-income-up-to-400k-im-68-how-much-should-i-move-over-29837257",
-      "category": "top news",
-      "datetime": "2025-11-19T13:00:00",
-      "timestamp": 1763557200,
-      "id": 7555883
-    },
-    {
-      "headline": "I\u2019m 27. I earn $105K and my boyfriend, 28, earns $63K. What percentage of our rent should I be paying?",
-      "summary": "\u201cHe doesn\u2019t have a lot of savings because of his lower income and student-loan payments.\u201d",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-27-i-earn-105k-and-my-boyfriend-28-earns-63k-what-percentage-of-our-rent-should-i-be-paying-b4d1d610",
-      "category": "top news",
-      "datetime": "2025-11-19T12:30:00",
-      "timestamp": 1763555400,
-      "id": 7555870
-    },
-    {
-      "headline": "Target sales disappoint as store traffic and spending decline",
-      "summary": "Target\u2019s stock was falling as profit beat expectations, but the full-year outlook was trimmed and comparable sales declined for a third consecutive quarter.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/target-sales-disappoint-as-store-traffic-and-spending-decline-5e1f8efa",
-      "category": "top news",
-      "datetime": "2025-11-19T12:25:00",
-      "timestamp": 1763555100,
-      "id": 7555868
-    },
-    {
-      "headline": "Expect more secondhand holiday gifts this year \u2014 thanks in part to Gen Z\u2019s love of thrifting",
-      "summary": "As households face tighter budgets, experts anticipate more people will shop secondhand for gifts this holiday season.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/expect-more-secondhand-holiday-gifts-this-year-thanks-in-part-to-gen-zs-love-of-thrifting-12035cfe",
-      "category": "top news",
-      "datetime": "2025-11-19T12:00:00",
-      "timestamp": 1763553600,
-      "id": 7555860
-    },
-    {
-      "headline": "T-bill and chill: Robinhood CIO on what to do after the selloff and the danger markets are ignoring",
-      "summary": "The best move investors can make right now may be to just \u2018sit tight,\u2019 says Robinhood\u2019s CIO Stephanie Guild.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/t-bill-and-chill-robinhood-cio-on-what-to-do-after-the-selloff-and-the-danger-markets-are-ignoring-7a5e1ade",
-      "category": "top news",
-      "datetime": "2025-11-19T11:56:00",
-      "timestamp": 1763553360,
-      "id": 7555858
-    },
-    {
-      "headline": "Lowe\u2019s bests Home Depot on a key sales metric, and with an earnings beat",
-      "summary": "Lowe\u2019s stock bounces after comparable sales growth misses expectations but outpaced that of its key rival, while profit beat expectations.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/lowes-bests-home-depot-on-a-key-sales-metric-and-with-an-earnings-beat-bfc69c4f",
-      "category": "top news",
-      "datetime": "2025-11-19T11:25:00",
-      "timestamp": 1763551500,
-      "id": 7555853
-    },
-    {
-      "headline": "Bud Light\u2019s struggling. Now its owner is reportedly buying a punch maker.",
-      "summary": "Anheuser-Busch InBev , one of the world\u2019s largest beer companies and owner of brands like Budweiser, Stella Artois and Michelob, is reportedly in talks to buy BeatBox, a manufacturer of boxed, wine-based punch, for around $700 million.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/bud-lights-struggling-now-its-owner-is-reportedly-buying-a-punch-maker-62f42c5c",
-      "category": "top news",
-      "datetime": "2025-11-19T10:31:00",
-      "timestamp": 1763548260,
-      "id": 7555841
-    },
-    {
-      "headline": "\u2018My retirement is completely in bitcoin\u2019: Why don\u2019t more people do what I do?",
-      "summary": "\u201c\u2018I also borrow against bitcoin. What\u2019s the catch?\u201d",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-retirement-is-completely-in-bitcoin-why-dont-more-people-do-what-i-do-34665250",
-      "category": "top news",
-      "datetime": "2025-11-19T10:15:00",
-      "timestamp": 1763547300,
-      "id": 7555839
-    },
-    {
-      "headline": "Meta is undergoing a shakeup. Will it help the company make more money off AI?",
-      "summary": "Meta\u2019s chief revenue officer is leaving at a time when Wall Street has become more concerned about the return on AI investments.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/meta-is-undergoing-a-shakeup-will-it-help-the-company-make-more-money-off-ai-0dc4ae65",
-      "category": "top news",
-      "datetime": "2025-11-19T00:29:00",
-      "timestamp": 1763512140,
-      "id": 7555754
-    },
-    {
-      "headline": "Bitcoin ETF posts record outflow amid crypto bear market",
-      "summary": "The biggest bitcoin ETF fund is in a slump after investors bailed from the fund like never before.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/bitcoin-etf-posts-record-outflow-amid-crypto-bear-market-a9479be3",
-      "category": "top news",
-      "datetime": "2025-11-19T00:11:00",
-      "timestamp": 1763511060,
-      "id": 7555751
-    },
-    {
-      "headline": "Why Apple\u2019s stock is beating the market even as tech stocks sell off",
-      "summary": "Apple has been seen as an AI loser. That means it\u2019s stock hasn\u2019t gotten caught up in the heavy selling pressure on AI stocks.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/why-apples-stock-is-beating-the-market-even-as-tech-stocks-sell-off-67178f96",
-      "category": "top news",
-      "datetime": "2025-11-18T22:54:00",
-      "timestamp": 1763506440,
-      "id": 7555737
-    },
-    {
-      "headline": "Nio\u2019s stock suffers longest losing streak in nearly two years as earnings pressure builds",
-      "summary": "Nio reports third-quarter results next week. After that the company will be in the hot seat, as it\u2019s set out to reach profitability by the fourth quarter.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/nios-stock-suffers-longest-losing-streak-in-nearly-two-years-as-earnings-pressure-builds-5e28f78e",
-      "category": "top news",
-      "datetime": "2025-11-18T22:16:00",
-      "timestamp": 1763504160,
-      "id": 7555735
-    },
-    {
-      "headline": "President Trump is threatening to relocate some 2026 FIFA World Cup games. Should fans be worried?",
-      "summary": "\u201cThe governors and mayors are going to have to behave,\u201d Trump said about certain Democratic leaders.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/president-trump-is-threatening-to-relocate-some-2026-fifa-world-cup-games-should-fans-be-worried-e64219a4",
-      "category": "top news",
-      "datetime": "2025-11-18T21:55:00",
-      "timestamp": 1763502900,
-      "id": 7555729
-    },
-    {
-      "headline": "Two more \u2018Magnificent Seven\u2019 stocks are now in correction territory as the AI trade unwinds",
-      "summary": "With 10%-plus drops off their recent closing highs, Amazon and Nvidia shares have joined Tesla shares in correction territory. Meta\u2019s stock is already in a bear market.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/two-more-magnificent-seven-stocks-are-now-in-correction-territory-as-the-ai-trade-unwinds-3a17273b",
-      "category": "top news",
-      "datetime": "2025-11-18T21:37:00",
-      "timestamp": 1763501820,
-      "id": 7555717
-    },
-    {
-      "headline": "Nvidia earnings have become crucial to the stock market \u2014\u00a0and this time even more so",
-      "summary": "AI stocks are under pressure as investors await a big rate-cut decision. Nvidia will look to steady the ship when it reports results on Wednesday afternoon.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/nvidia-earnings-have-become-crucial-to-the-stock-market-and-this-time-even-more-so-81f04c8b",
-      "category": "top news",
-      "datetime": "2025-11-18T21:31:00",
-      "timestamp": 1763501460,
-      "id": 7555718
     }
   ]
 }
