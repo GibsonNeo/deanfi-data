@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2025-11-20T12:11:21.846882-05:00",
+    "generated_at": "2025-11-21T12:12:19.837894-05:00",
     "data_source": "FRED API",
     "category": "Money & Markets",
     "indicators": [
@@ -48,11 +48,11 @@
       }
     ],
     "history_days": 7300,
-    "data_start": "2005-11-25",
-    "data_end": "2025-11-20"
+    "data_start": "2005-11-26",
+    "data_end": "2025-11-21"
   },
   "current": {
-    "date": "2025-11-18",
+    "date": "2025-11-19",
     "overall_grade": {
       "grade": "C",
       "label": "Fair",
@@ -83,21 +83,21 @@
       },
       "DGS10": {
         "name": "10-Year Treasury Constant Maturity Rate",
-        "value": 4.12,
+        "value": 4.13,
         "unit": "Percent",
         "frequency": "Daily",
-        "percentile": 80.58,
+        "percentile": 80.76,
         "grade": {
           "grade": "B",
           "label": "Acceptable",
           "color": "warning",
           "points": 3
         },
-        "trend": "declining",
+        "trend": "improving",
         "changes": {
-          "1y": -7.21,
-          "5y": 373.56,
-          "10y": 101.96,
+          "1y": -6.77,
+          "5y": 358.89,
+          "10y": 98.56,
           "20y": null
         },
         "interpretation": "neutral"
@@ -114,21 +114,21 @@
           "color": "warning",
           "points": 3
         },
-        "trend": "declining",
+        "trend": "stable",
         "changes": {
-          "1y": -16.16,
-          "5y": 2137.5,
-          "10y": 486.89,
+          "1y": -17.51,
+          "5y": 2005.88,
+          "10y": 442.42,
           "20y": null
         },
         "interpretation": "neutral"
       },
       "YIELD_SPREAD": {
         "name": "10Y minus 2Y Yield Spread",
-        "value": 0.54,
+        "value": 0.55,
         "unit": "Percent",
         "frequency": "Daily",
-        "percentile": 38.83,
+        "percentile": 39.49,
         "grade": {
           "grade": "C",
           "label": "Fair",
@@ -137,9 +137,9 @@
         },
         "trend": "improving",
         "changes": {
-          "1y": 217.65,
-          "5y": -23.94,
-          "10y": -62.24,
+          "1y": 511.11,
+          "5y": -24.66,
+          "10y": -61.27,
           "20y": null
         },
         "interpretation": "higher_is_better"
@@ -1185,7 +1185,7 @@
           4.23,
           4.16,
           4.11,
-          4.12
+          4.13
         ]
       },
       "DGS2": {
@@ -2161,7 +2161,7 @@
           0.6400000000000006,
           0.56,
           0.5100000000000002,
-          0.54
+          0.5499999999999998
         ]
       },
       "M2SL": {
