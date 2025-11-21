@@ -5,7 +5,7 @@
     "purpose": "Track overall US market performance across different market capitalizations",
     "update_frequency": "Daily after market close (4:00 PM ET)",
     "data_source": "Yahoo Finance (yfinance)",
-    "last_updated": "2025-11-21T21:42:19Z",
+    "last_updated": "2025-11-21T21:54:28Z",
     "trading_days": "252 trading days per year",
     "indices_included": {
       "^GSPC": "S&P 500 - Large-cap benchmark (500 companies)",
@@ -47,7 +47,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2025-11-21T21:42:19Z",
+    "generated_at": "2025-11-21T21:54:28Z",
     "market_date": "2025-11-21",
     "market_status": "post",
     "indices_count": 6,
@@ -56,7 +56,7 @@
       "status": "stale",
       "missing_days": 246,
       "completeness_percent": 2.4,
-      "last_update": "2025-11-21T21:42:19Z",
+      "last_update": "2025-11-21T21:54:28Z",
       "market_hours": "post"
     }
   },
@@ -130,7 +130,7 @@
       "current_price": 22273.08,
       "daily_change": 195.03,
       "daily_change_percent": 0.88,
-      "volume": 8242565000,
+      "volume": 8269584000,
       "day_high": 22531.84,
       "day_low": 21898.29,
       "day_open": 22162.83,
@@ -160,7 +160,7 @@
       "current_price": 24239.57,
       "daily_change": 185.19,
       "daily_change_percent": 0.77,
-      "volume": 1698084000,
+      "volume": 1706716000,
       "day_high": 24521.84,
       "day_low": 23854.03,
       "day_open": 24137.66,
