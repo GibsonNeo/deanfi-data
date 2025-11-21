@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2025-11-20T21:52:07.658338+00:00",
+    "generated_at": "2025-11-21T14:21:29.633241+00:00",
     "data_source": "Yahoo Finance (yfinance)",
     "universe": "S&P 500",
     "total_stocks_analyzed": 503,
@@ -25,20 +25,20 @@
   "data": {
     "date": "2025-11-20",
     "advances_declines": {
-      "advances": 150,
-      "declines": 352,
+      "advances": 151,
+      "declines": 351,
       "unchanged": 1,
       "total_stocks": 503,
-      "advance_decline_ratio": 0.426,
-      "advance_percentage": 29.82,
+      "advance_decline_ratio": 0.43,
+      "advance_percentage": 30.02,
       "interpretation": "Advances > Declines suggests broad market strength"
     },
     "volume_metrics": {
-      "advancing_volume": 539298712,
-      "declining_volume": 2892320946,
-      "total_volume": 3437619505,
-      "volume_ratio": 0.186,
-      "advancing_volume_pct": 15.69,
+      "advancing_volume": 637778500,
+      "declining_volume": 3104025804,
+      "total_volume": 3747811104,
+      "volume_ratio": 0.205,
+      "advancing_volume_pct": 17.02,
       "interpretation": "Volume ratio > 1 means more volume in advancing stocks (bullish)"
     },
     "new_highs_lows": {
