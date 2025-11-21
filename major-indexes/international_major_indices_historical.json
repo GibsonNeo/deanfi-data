@@ -5,7 +5,7 @@
     "trading_days": 252
   },
   "metadata": {
-    "generated_at": "2025-11-21T18:32:58Z",
+    "generated_at": "2025-11-21T18:55:13Z",
     "trading_days": 252,
     "indices_count": 11
   },
@@ -23004,36 +23004,36 @@
         {
           "date": "2025-11-21",
           "open": 29933.24,
-          "high": 30185.63,
+          "high": 30217.75,
           "low": 29841.76,
-          "close": 30127.93,
-          "volume": 109082710,
-          "daily_return_percent": 0.74
+          "close": 30176.88,
+          "volume": 116159063,
+          "daily_return_percent": 0.9
         }
       ],
       "technical_indicators": {
         "moving_averages": {
-          "sma_20": 30188.82,
-          "sma_50": 30080.03,
-          "sma_200": 27123.86
+          "sma_20": 30191.27,
+          "sma_50": 30081.01,
+          "sma_200": 27124.1
         },
-        "rsi_14": 48.06,
+        "rsi_14": 48.72,
         "macd": {
-          "macd_line": 28.53,
-          "signal_line": 69.01,
-          "histogram": -40.48
+          "macd_line": 32.43,
+          "signal_line": 69.79,
+          "histogram": -37.36
         },
         "bollinger_bands": {
-          "upper": 30659.92,
-          "middle": 30188.82,
-          "lower": 29717.72
+          "upper": 30661.54,
+          "middle": 30191.27,
+          "lower": 29720.99
         }
       },
       "statistics": {
-        "period_return_percent": 18.66,
+        "period_return_percent": 18.85,
         "volatility_annual_percent": 0.14,
         "max_drawdown_percent": -12.79,
-        "sharpe_ratio": 0.99,
+        "sharpe_ratio": 1.01,
         "average_daily_volume": null,
         "days_up": 153,
         "days_down": 97,
