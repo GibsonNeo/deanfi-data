@@ -3,7 +3,7 @@
     "title": "Treasury Yields - 252-Day Historical"
   },
   "metadata": {
-    "generated_at": "2025-11-21T15:25:43Z",
+    "generated_at": "2025-11-21T15:41:36Z",
     "trading_days": 252
   },
   "indices": {
@@ -4579,7 +4579,7 @@
           "low": 4.7,
           "close": 4.71,
           "volume": 0,
-          "daily_return_percent": -0.38
+          "daily_return_percent": -0.4
         }
       ],
       "technical_indicators": {
@@ -4588,7 +4588,7 @@
           "sma_50": 4.68,
           "sma_200": 4.77
         },
-        "rsi_14": 53.22,
+        "rsi_14": 53.07,
         "macd": {
           "macd_line": 0.02,
           "signal_line": 0.01,
@@ -4601,10 +4601,10 @@
         }
       },
       "statistics": {
-        "period_return_percent": 2.61,
+        "period_return_percent": 2.59,
         "volatility_annual_percent": 0.16,
         "max_drawdown_percent": -11.99,
-        "sharpe_ratio": -0.0,
+        "sharpe_ratio": -0.01,
         "average_daily_volume": null,
         "days_up": 125,
         "days_down": 122,
