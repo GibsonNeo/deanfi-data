@@ -21,7 +21,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2025-11-21T21:24:38Z",
+    "generated_at": "2025-11-21T21:42:34Z",
     "market_date": "2025-11-21",
     "market_status": "post",
     "indices_count": 11,
@@ -30,7 +30,7 @@
       "status": "stale",
       "missing_days": 241,
       "completeness_percent": 4.4,
-      "last_update": "2025-11-21T21:24:38Z",
+      "last_update": "2025-11-21T21:42:34Z",
       "market_hours": "post"
     }
   },
@@ -284,7 +284,7 @@
       "current_price": 3853.26,
       "daily_change": -151.59,
       "daily_change_percent": -3.79,
-      "volume": 319324,
+      "volume": 307957,
       "day_high": 3911.55,
       "day_low": 3838.46,
       "day_open": 3908.7,

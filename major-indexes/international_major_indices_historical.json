@@ -5,7 +5,7 @@
     "trading_days": 252
   },
   "metadata": {
-    "generated_at": "2025-11-21T21:24:39Z",
+    "generated_at": "2025-11-21T21:42:38Z",
     "trading_days": 252,
     "indices_count": 11
   },
@@ -20704,7 +20704,7 @@
           "high": 3911.55,
           "low": 3838.46,
           "close": 3853.26,
-          "volume": 319324,
+          "volume": 307957,
           "daily_return_percent": -3.79
         }
       ],
