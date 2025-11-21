@@ -4,7 +4,7 @@
     "description": "Daily historical prices for core US indices covering 1 trading year",
     "purpose": "Enable trend analysis, technical indicators, correlation studies, and performance comparisons",
     "trading_days": 252,
-    "date_range": "2024-11-20 to 2025-11-20",
+    "date_range": "2024-11-21 to 2025-11-21",
     "usage": {
       "charting": "Plot daily close prices to visualize trends",
       "technical_analysis": "Calculate moving averages, RSI, MACD from OHLC data",
@@ -26,9 +26,9 @@
     }
   },
   "metadata": {
-    "generated_at": "2025-11-20T21:54:14Z",
-    "start_date": "2024-11-20",
-    "end_date": "2025-11-20",
+    "generated_at": "2025-11-21T14:24:48Z",
+    "start_date": "2024-11-21",
+    "end_date": "2025-11-21",
     "trading_days": 252,
     "indices_count": 6,
     "data_source": "Yahoo Finance (yfinance)"
@@ -2304,7 +2304,7 @@
           "high": 6770.35,
           "low": 6534.05,
           "close": 6538.76,
-          "volume": 3677768000,
+          "volume": 5596080000,
           "daily_return_percent": -1.56
         }
       ],
@@ -2331,7 +2331,7 @@
         "volatility_annual_percent": 0.19,
         "max_drawdown_percent": -18.9,
         "sharpe_ratio": 0.41,
-        "average_daily_volume": 5050171341,
+        "average_daily_volume": 5057783690,
         "days_up": 143,
         "days_down": 108,
         "win_rate_percent": 56.97
@@ -4607,7 +4607,7 @@
           "high": 46856.75,
           "low": 45728.93,
           "close": 45752.26,
-          "volume": 721595142,
+          "volume": 721440000,
           "daily_return_percent": -0.84
         }
       ],
@@ -4634,7 +4634,7 @@
         "volatility_annual_percent": 0.17,
         "max_drawdown_percent": -16.37,
         "sharpe_ratio": 0.18,
-        "average_daily_volume": 555447917,
+        "average_daily_volume": 555447301,
         "days_up": 130,
         "days_down": 121,
         "win_rate_percent": 51.79
@@ -6910,7 +6910,7 @@
           "high": 23147.33,
           "low": 22043.2,
           "close": 22078.05,
-          "volume": 8901137000,
+          "volume": 10548620000,
           "daily_return_percent": -2.15
         }
       ],
@@ -6937,7 +6937,7 @@
         "volatility_annual_percent": 0.25,
         "max_drawdown_percent": -24.32,
         "sharpe_ratio": 0.58,
-        "average_daily_volume": 9137119392,
+        "average_daily_volume": 9143657023,
         "days_up": 143,
         "days_down": 108,
         "win_rate_percent": 56.97
@@ -9213,7 +9213,7 @@
           "high": 25222.95,
           "low": 24021.44,
           "close": 24054.38,
-          "volume": 1621317000,
+          "volume": 10548620000,
           "daily_return_percent": -2.38
         }
       ],
@@ -9240,7 +9240,7 @@
         "volatility_annual_percent": 0.24,
         "max_drawdown_percent": -22.93,
         "sharpe_ratio": 0.59,
-        "average_daily_volume": 8767085940,
+        "average_daily_volume": 8802511746,
         "days_up": 146,
         "days_down": 105,
         "win_rate_percent": 58.17
@@ -11516,7 +11516,7 @@
           "high": 2404.25,
           "low": 2303.46,
           "close": 2305.11,
-          "volume": 0,
+          "volume": 5596080000,
           "daily_return_percent": -1.82
         }
       ],
@@ -11543,7 +11543,7 @@
         "volatility_annual_percent": 0.23,
         "max_drawdown_percent": -27.9,
         "sharpe_ratio": -0.09,
-        "average_daily_volume": 5030769126,
+        "average_daily_volume": 5052975793,
         "days_up": 129,
         "days_down": 122,
         "win_rate_percent": 51.39
@@ -11555,22 +11555,13 @@
       "description": "Market fear gauge (VIX)",
       "data": [
         {
-          "date": "2024-11-19",
-          "open": 15.44,
-          "high": 17.93,
-          "low": 15.37,
-          "close": 16.35,
-          "volume": 0,
-          "daily_return_percent": null
-        },
-        {
           "date": "2024-11-20",
           "open": 16.19,
           "high": 18.79,
           "low": 16.04,
           "close": 17.16,
           "volume": 0,
-          "daily_return_percent": 4.95
+          "daily_return_percent": null
         },
         {
           "date": "2024-11-21",
@@ -13821,35 +13812,44 @@
           "close": 26.42,
           "volume": 0,
           "daily_return_percent": 11.67
+        },
+        {
+          "date": "2025-11-21",
+          "open": 25.97,
+          "high": 27.84,
+          "low": 25.11,
+          "close": 25.16,
+          "volume": 0,
+          "daily_return_percent": -4.77
         }
       ],
       "technical_indicators": {
         "moving_averages": {
-          "sma_20": 19.1,
-          "sma_50": 18.1,
-          "sma_200": 19.58
+          "sma_20": 19.54,
+          "sma_50": 18.31,
+          "sma_200": 19.63
         },
-        "rsi_14": 74.48,
+        "rsi_14": 70.67,
         "macd": {
-          "macd_line": 1.64,
-          "signal_line": 0.82,
-          "histogram": 0.82
+          "macd_line": 1.82,
+          "signal_line": 1.02,
+          "histogram": 0.8
         },
         "bollinger_bands": {
-          "upper": 25.06,
-          "middle": 19.1,
+          "upper": 25.93,
+          "middle": 19.54,
           "lower": 13.14
         }
       },
       "statistics": {
-        "period_return_percent": 61.59,
+        "period_return_percent": 46.62,
         "volatility_annual_percent": 1.59,
         "max_drawdown_percent": -72.83,
-        "sharpe_ratio": 0.99,
+        "sharpe_ratio": 0.93,
         "average_daily_volume": 0,
-        "days_up": 112,
-        "days_down": 138,
-        "win_rate_percent": 44.62
+        "days_up": 111,
+        "days_down": 139,
+        "win_rate_percent": 44.22
       }
     }
   }

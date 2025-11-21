@@ -28,17 +28,17 @@
     }
   },
   "metadata": {
-    "generated_at": "2025-11-20T21:54:23Z",
-    "market_date": "2025-11-20",
-    "market_status": "post",
+    "generated_at": "2025-11-21T14:24:53Z",
+    "market_date": "2025-11-21",
+    "market_status": "pre",
     "indices_count": 5,
     "data_source": "Yahoo Finance (yfinance)",
     "data_quality": {
       "status": "stale",
       "missing_days": 247,
       "completeness_percent": 2.0,
-      "last_update": "2025-11-20T21:54:23Z",
-      "market_hours": "post"
+      "last_update": "2025-11-21T14:24:53Z",
+      "market_hours": "pre"
     }
   },
   "indices": {
@@ -54,7 +54,7 @@
       "volume": 0,
       "day_high": 4786.07,
       "day_low": 4570.36,
-      "day_open": 4736.21,
+      "day_open": 4672.18,
       "52_week_high": 4947.87,
       "52_week_low": 3225.04,
       "distance_from_52w_high_percent": -7.5,
@@ -84,7 +84,7 @@
       "volume": 0,
       "day_high": 2012.38,
       "day_low": 1962.73,
-      "day_open": 1993.92,
+      "day_open": 1985.21,
       "52_week_high": 2045.09,
       "52_week_low": 1643.26,
       "distance_from_52w_high_percent": -3.98,
@@ -114,7 +114,7 @@
       "volume": 0,
       "day_high": 1613.19,
       "day_low": 1532.99,
-      "day_open": 1585.2,
+      "day_open": 1570.33,
       "52_week_high": 1707.58,
       "52_week_low": 1144.21,
       "distance_from_52w_high_percent": -10.15,
@@ -144,7 +144,7 @@
       "volume": 0,
       "day_high": 2610.01,
       "day_low": 2522.01,
-      "day_open": 2570.23,
+      "day_open": 2556.91,
       "52_week_high": 2716.46,
       "52_week_low": 1976.57,
       "distance_from_52w_high_percent": -7.1,
