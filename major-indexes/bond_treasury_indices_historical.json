@@ -3,7 +3,7 @@
     "title": "Treasury Yields - 252-Day Historical"
   },
   "metadata": {
-    "generated_at": "2025-11-21T18:55:20Z",
+    "generated_at": "2025-11-21T19:21:57Z",
     "trading_days": 252
   },
   "indices": {
@@ -2277,7 +2277,7 @@
           "low": 4.05,
           "close": 4.07,
           "volume": 0,
-          "daily_return_percent": -0.9
+          "daily_return_percent": -0.85
         }
       ],
       "technical_indicators": {
@@ -2286,7 +2286,7 @@
           "sma_50": 4.09,
           "sma_200": 4.27
         },
-        "rsi_14": 45.97,
+        "rsi_14": 46.19,
         "macd": {
           "macd_line": 0.01,
           "signal_line": 0.01,
@@ -2299,7 +2299,7 @@
         }
       },
       "statistics": {
-        "period_return_percent": -7.56,
+        "period_return_percent": -7.51,
         "volatility_annual_percent": 0.19,
         "max_drawdown_percent": -17.7,
         "sharpe_ratio": -0.52,
@@ -4579,7 +4579,7 @@
           "low": 4.7,
           "close": 4.72,
           "volume": 0,
-          "daily_return_percent": -0.15
+          "daily_return_percent": -0.13
         }
       ],
       "technical_indicators": {
@@ -4588,7 +4588,7 @@
           "sma_50": 4.68,
           "sma_200": 4.77
         },
-        "rsi_14": 54.91,
+        "rsi_14": 55.07,
         "macd": {
           "macd_line": 0.02,
           "signal_line": 0.01,
@@ -4601,7 +4601,7 @@
         }
       },
       "statistics": {
-        "period_return_percent": 2.85,
+        "period_return_percent": 2.87,
         "volatility_annual_percent": 0.16,
         "max_drawdown_percent": -11.99,
         "sharpe_ratio": 0.01,
@@ -6881,7 +6881,7 @@
           "low": 3.61,
           "close": 3.63,
           "volume": 0,
-          "daily_return_percent": -1.04
+          "daily_return_percent": -1.01
         }
       ],
       "technical_indicators": {
@@ -6890,7 +6890,7 @@
           "sma_50": 3.67,
           "sma_200": 3.89
         },
-        "rsi_14": 40.8,
+        "rsi_14": 40.89,
         "macd": {
           "macd_line": 0.0,
           "signal_line": 0.01,
@@ -6903,7 +6903,7 @@
         }
       },
       "statistics": {
-        "period_return_percent": -15.04,
+        "period_return_percent": -15.02,
         "volatility_annual_percent": 0.22,
         "max_drawdown_percent": -23.11,
         "sharpe_ratio": -0.82,
