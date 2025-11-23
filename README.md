@@ -26,12 +26,32 @@ Automated market data collection updated by the [deanfi-collectors](https://gith
 
 ## 🚀 Quick Start
 
-### Direct JSON Access
+### Cloudflare R2 Access (Recommended)
 
-Use GitHub's raw content URLs to fetch data directly:
+High-performance edge access via Cloudflare R2:
 
 ```javascript
-// Fetch latest news
+// Fetch latest news from R2 (faster, no rate limits)
+const url = 'https://pub-xxxxx.r2.dev/daily-news/top_news.json';  // Replace with your R2 URL
+const response = await fetch(url);
+const data = await response.json();
+
+console.log(data.metadata); // Check last update time
+console.log(data.data);     // Array of news articles
+```
+
+**Benefits:**
+- ⚡ **Faster**: ~50ms latency (global edge network)
+- 🚀 **No rate limits**: Unlimited requests
+- 💰 **Free egress**: To Cloudflare services
+- 🌍 **Global CDN**: Cached at 300+ locations
+
+### Direct JSON Access (GitHub Raw)
+
+Alternative access via GitHub raw URLs:
+
+```javascript
+// Fetch latest news from GitHub
 const url = 'https://raw.githubusercontent.com/GibsonNeo/deanfi-data/main/daily-news/top_news.json';
 const response = await fetch(url);
 const data = await response.json();
@@ -54,38 +74,40 @@ print(f"Last updated: {earnings['metadata']['generated_at']}")
 print(f"Total companies: {earnings['metadata']['total_companies']}")
 ```
 
-### With Caching (Production)
+### With Edge Caching (Production)
 
-Add edge caching for better performance:
+Fetch from R2 with Cloudflare edge caching:
 
 ```javascript
-// Cloudflare Worker example
+// Cloudflare Worker or Pages Function
 async function fetchMarketData(category, file) {
-  const url = `https://raw.githubusercontent.com/GibsonNeo/deanfi-data/main/${category}/${file}`;
+  // Prefer R2 for better performance
+  const r2Url = `https://pub-xxxxx.r2.dev/${category}/${file}`;
+  const githubUrl = `https://raw.githubusercontent.com/GibsonNeo/deanfi-data/main/${category}/${file}`;
   
-  const cache = caches.default;
-  const cacheKey = new Request(url);
+  try {
+    // Try R2 first with 15-min cache
+    const response = await fetch(r2Url, {
+      cf: { 
+        cacheTtl: 900,  // 15 minutes
+        cacheEverything: true 
+      }
+    });
+    
+    if (response.ok) return response;
+  } catch (error) {
+    console.warn('R2 fetch failed, falling back to GitHub:', error);
+  }
   
-  // Check cache first
-  let response = await cache.match(cacheKey);
-  if (response) return response;
-  
-  // Fetch from GitHub
-  response = await fetch(url);
-  
-  // Cache for 60 seconds
-  const headers = new Headers(response.headers);
-  headers.set('Cache-Control', 'public, max-age=60');
-  
-  const cachedResponse = new Response(response.body, { headers });
-  await cache.put(cacheKey, cachedResponse.clone());
-  
-  return cachedResponse;
+  // Fallback to GitHub if R2 unavailable
+  return fetch(githubUrl, {
+    cf: { cacheTtl: 900 }
+  });
 }
 
 // Use it
-const news = await fetchMarketData('daily-news', 'top_news.json');
-const data = await news.json();
+const response = await fetchMarketData('daily-news', 'top_news.json');
+const data = await response.json();
 ```
 
 ## 📈 Data Formats
@@ -167,9 +189,11 @@ All datasets follow a consistent structure:
 
 ## 🔗 API Endpoints
 
-All data is accessible via GitHub raw URLs:
+### Cloudflare R2 (Recommended)
 
-**Base URL:** `https://raw.githubusercontent.com/GibsonNeo/deanfi-data/main/`
+**Base URL:** `https://pub-xxxxx.r2.dev/` (replace with your R2 public URL)
+
+Alternative: Configure custom domain → `https://data.deanfinancials.com/`
 
 | Endpoint | Description |
 |----------|-------------|
@@ -184,6 +208,12 @@ All data is accessible via GitHub raw URLs:
 | `advance-decline/ma_percentage_historical.json` | Moving average breadth (50/200 day) |
 | `major-indexes/` | Multiple index tracking files |
 | `implied-volatility/` | VIX and options volatility data |
+
+### GitHub Raw URLs (Fallback)
+
+**Base URL:** `https://raw.githubusercontent.com/GibsonNeo/deanfi-data/main/`
+
+Same endpoints as above, append to base URL.
 
 ## 📅 Update Schedule
 
@@ -225,9 +255,10 @@ cat daily-news/top_news.json
 
 1. **Data Collection:** [deanfi-collectors](https://github.com/GibsonNeo/deanfi-collectors) runs on GitHub Actions
 2. **Processing:** Python scripts fetch, validate, and format data
-3. **Storage:** Automated commits push JSON files to this repository
-4. **Distribution:** GitHub serves files via raw URLs (free CDN!)
-5. **Consumption:** Your app fetches JSON directly from GitHub
+3. **Git Storage:** Automated commits push JSON files to this repository (only changed files)
+4. **R2 Sync:** GitHub Action uploads changed files to Cloudflare R2 bucket
+5. **Distribution:** R2 serves files via global edge network (primary) + GitHub raw URLs (fallback)
+6. **Consumption:** Your app fetches JSON from R2 for optimal performance
 
 ```
 ┌─────────────────────────────────────────────────────┐
@@ -236,28 +267,41 @@ cat daily-news/top_news.json
 │  ├─ Process & validate data                        │
 │  └─ Generate JSON outputs                          │
 └────────────┬────────────────────────────────────────┘
-             │
+             │ git commit (only changed files)
              ▼
 ┌─────────────────────────────────────────────────────┐
-│  Commit to deanfi-data repository                   │
-│  ├─ Update JSON files                              │
-│  └─ Timestamp: "chore: update news - 2025-11-17"   │
+│  deanfi-data repository (this repo)                 │
+│  ├─ Store JSON files in Git                        │
+│  ├─ Version control & history                      │
+│  └─ Trigger R2 sync workflow                       │
+└────────────┬────────────────────────────────────────┘
+             │ GitHub Action: sync-to-r2.yml
+             │ (uploads only changed files)
+             ▼
+┌─────────────────────────────────────────────────────┐
+│  Cloudflare R2 Bucket                               │
+│  ├─ Global edge caching                            │
+│  ├─ Low latency (~50ms)                            │
+│  └─ No rate limits                                 │
 └────────────┬────────────────────────────────────────┘
              │
-             ▼
-┌─────────────────────────────────────────────────────┐
-│  GitHub Raw CDN                                     │
-│  https://raw.githubusercontent.com/...              │
-└────────────┬────────────────────────────────────────┘
-             │
-             ▼
-┌─────────────────────────────────────────────────────┐
-│  Your Application                                   │
-│  ├─ Fetch JSON                                     │
-│  ├─ Cache at edge (optional)                       │
-│  └─ Display to users                               │
-└─────────────────────────────────────────────────────┘
+             ├──────────────────┬─────────────────────┐
+             ▼                  ▼                     ▼
+┌──────────────────┐  ┌──────────────────┐  ┌──────────────────┐
+│  Your Web App    │  │  Mobile App      │  │  Data Analysis   │
+│  (Astro/React)   │  │  (Native/Web)    │  │  (Python/R)      │
+└──────────────────┘  └──────────────────┘  └──────────────────┘
 ```
+
+### R2 Sync Details
+
+The R2 sync workflow (`.github/workflows/sync-to-r2.yml`) intelligently uploads only changed files:
+
+- **Trigger**: On push to `main` when `*.json` files change
+- **Detection**: Uses `git diff` to identify modified files
+- **Upload**: Only syncs files that actually changed (not entire directory)
+- **Efficiency**: Reduces upload time and R2 write operations
+- **Fallback**: Manual trigger available for full sync if needed
 
 ## 🤝 Contributing
 
