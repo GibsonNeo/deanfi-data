@@ -305,6 +305,57 @@ The R2 sync workflow (`.github/workflows/sync-to-r2.yml`) intelligently uploads 
 - **Efficiency**: Reduces upload time and R2 write operations
 - **Fallback**: Manual trigger available for full sync if needed
 
+### Cloudflare R2 Authentication (Important)
+
+Wrangler's `r2` commands (e.g. `wrangler r2 object put`) use **Cloudflare API Tokens**, *not* the S3-style R2 Access Keys.
+
+| Use Case | Credential Type | How to Generate | Example Var |
+|----------|-----------------|-----------------|-------------|
+| CI Uploads via `wrangler r2` | Cloudflare API Token | Dashboard → My Profile → API Tokens → Create Custom Token | `CLOUDFLARE_API_TOKEN` |
+| Direct S3 SDK / AWS CLI access | R2 Access Key ID + Secret | R2 Dashboard → Manage Access Keys | `AWS_ACCESS_KEY_ID` / `AWS_SECRET_ACCESS_KEY` |
+
+If you pass an R2 Secret Access Key as `CLOUDFLARE_API_TOKEN`, Wrangler authentication will fail with `403` or error code `10000`.
+
+#### Minimum API Token Permissions (Least Privilege)
+Grant: `Account R2 Storage:Edit` (includes read & write). Optionally add `Account R2 Storage:Read` explicitly if UI lists separately.
+
+No Workers or Zone permissions are required for pure bucket/object operations.
+
+#### Create the Correct API Token
+1. Cloudflare Dashboard → My Profile → API Tokens → Create Token
+2. Select "Create Custom Token"
+3. Add permission: `Account R2 Storage:Edit`
+4. (Optional) Add `Account R2 Storage:Read`
+5. Scope: The target account containing the `deanfi-data` bucket
+6. Create & copy token → store as GitHub Secret `CLOUDFLARE_API_TOKEN`
+
+#### CI Secret Requirements
+| Secret | Description |
+|--------|-------------|
+| `CLOUDFLARE_ACCOUNT_ID` | Account ID (from dashboard URL) |
+| `CLOUDFLARE_API_TOKEN` | Cloudflare API Token (not R2 access key) |
+| `R2_BUCKET_NAME` | Bucket name (e.g. `deanfi-data`) |
+
+#### Validation Step (Added)
+Workflow now runs:
+```bash
+wrangler whoami
+wrangler r2 bucket list --remote
+```
+If bucket not found or auth fails, the job stops early with guidance.
+
+#### Troubleshooting Matrix
+| Symptom | Likely Cause | Fix |
+|---------|--------------|-----|
+| `403 Forbidden` on every upload | Using R2 access key instead of API token | Create proper API Token (see above) |
+| `Authentication error 10000` listing buckets | Token lacks R2 Storage scope | Recreate token with `Account R2 Storage:Edit` |
+| Uploads show success but objects missing | Missing `--remote` flag (local mode) | Ensure `--remote` is present |
+| Bucket not listed | Wrong account or bucket name | Verify `CLOUDFLARE_ACCOUNT_ID` and bucket exists |
+
+#### Optional Improvement
+You can rename the secret to `CLOUDFLARE_R2_API_TOKEN` for clarity (workflow currently uses `CLOUDFLARE_API_TOKEN`).
+
+
 ## 🤝 Contributing
 
 This is a data repository - automated commits only. To improve the data collection:

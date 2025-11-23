@@ -227,6 +227,45 @@ Instead of `Resource location: local`
    - **Impact**: Brief window where Git and R2 are out of sync
    - **Mitigation**: Consumers should implement graceful fallback to GitHub raw URLs
 
+### 2025-11-22: Authentication Clarification & Workflow Validation Step
+
+**Problem**: Continued `403 Forbidden` and Authentication error `10000` responses when using `wrangler r2 object put` despite adding `--remote` flag. Attempts used R2 S3-style Access Keys (Access Key ID / Secret Access Key) in place of Cloudflare API Tokens.
+
+**Root Cause**: Wrangler `r2` subcommands (e.g., `wrangler r2 object put`, `wrangler r2 bucket list`) authenticate via Cloudflare API Tokens (OAuth or API Token with appropriate scopes), not via R2 S3 access keys. The S3 access keys only work against the S3-compatible endpoint (`https://<ACCOUNT_ID>.r2.cloudflarestorage.com`) using S3 clients. Passing the R2 Secret Access Key as `CLOUDFLARE_API_TOKEN` results in failed authorization.
+
+**Resolution**:
+1. Create a Cloudflare API Token (Dashboard → My Profile → API Tokens → Create Custom Token).
+2. Assign permissions: `Account R2 Storage:Edit` (grants read & write) – least privilege sufficient for bucket/object operations.
+3. Store token as `CLOUDFLARE_API_TOKEN` secret; keep `CLOUDFLARE_ACCOUNT_ID` and `R2_BUCKET_NAME` unchanged.
+4. Added new workflow step `Verify Cloudflare authentication & bucket access` executing `wrangler whoami` and `wrangler r2 bucket list --remote` before uploads.
+5. Strengthened upload step with `set -euo pipefail` and added bucket info diagnostic on first failure.
+
+**Workflow File Updated**: `.github/workflows/sync-to-r2.yml`
+**Change Summary**:
+- Added pre-upload auth validation step.
+- Added explanatory note differentiating API Tokens vs R2 S3 access keys.
+- Early failure with clear messaging if bucket not visible or token invalid.
+- Added diagnostic bucket info fetch on first object upload failure.
+
+**Impact**:
+- Prevents misleading "successful" local-mode uploads with wrong credentials.
+- Speeds troubleshooting by surfacing misconfiguration before looped uploads.
+
+**Verification Instructions**:
+Run manual dispatch of workflow; confirm log contains:
+```
+✅ Wrangler whoami succeeded. Listing buckets...
+✅ Bucket 'deanfi-data' accessible. Proceeding with uploads.
+```
+Followed by remote upload successes.
+
+**Future Consideration**: Optionally rename secret to `CLOUDFLARE_R2_API_TOKEN` for clarity, but deferred to avoid churn.
+
+**References Used**:
+- Cloudflare Docs (Wrangler Commands & Configuration – last updated Nov 10, 2025)
+- R2 Workers API vs S3 API distinction.
+
+
 ### Future Enhancements
 
 **Planned**:
