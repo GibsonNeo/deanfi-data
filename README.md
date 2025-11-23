@@ -76,7 +76,9 @@ print(f"Total companies: {earnings['metadata']['total_companies']}")
 
 ### With Edge Caching (Production)
 
-Fetch from R2 with Cloudflare edge caching:
+Fetch from R2 with Cloudflare edge caching (recommended for production):
+
+> **Note**: R2 bucket must contain uploaded files. Verify upload via [Cloudflare Dashboard](https://dash.cloudflare.com) → R2 → your-bucket or run workflow manually from GitHub Actions.
 
 ```javascript
 // Cloudflare Worker or Pages Function

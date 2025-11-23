@@ -75,7 +75,7 @@ jobs:
               echo "📤 Uploading: $file"
               
               # Upload to R2 maintaining directory structure
-              if wrangler r2 object put "$R2_BUCKET_NAME/$file" --file="$file"; then
+              if wrangler r2 object put "$R2_BUCKET_NAME/$file" --file="$file" --remote; then
                 echo "✅ Successfully uploaded: $file"
                 UPLOAD_COUNT=$((UPLOAD_COUNT + 1))
               else

@@ -203,6 +203,27 @@ curl https://pub-xxxxx.r2.dev/daily-news/top_news.json | jq '.metadata'
    - **Mitigation**: Archive old data or use pagination
 
 3. **Sync delay**: ~30-60 seconds from commit to R2 availability
+
+## Issue Resolution Log
+
+### 2025-11-23: Local vs Remote R2 Upload Issue
+
+**Problem**: Initial workflow run appeared successful (26/26 files uploaded) but files were not visible in R2 bucket dashboard or accessible via API.
+
+**Root Cause**: Wrangler 4.50.0+ defaults to **local mode** for R2 operations. Workflow logs showed `Resource location: local` despite `CLOUDFLARE_API_TOKEN` and `CLOUDFLARE_ACCOUNT_ID` environment variables being set correctly. Files were uploaded to GitHub Actions runner's local storage instead of Cloudflare R2.
+
+**Solution**: Added `--remote` flag to wrangler command:
+```bash
+wrangler r2 object put "$R2_BUCKET_NAME/$file" --file="$file" --remote
+```
+
+**Verification**: After fix, workflow logs should display:
+```
+Resource location: remote
+```
+Instead of `Resource location: local`
+
+**Impact**: All previous uploads to R2 need to be re-run after workflow update.
    - **Impact**: Brief window where Git and R2 are out of sync
    - **Mitigation**: Consumers should implement graceful fallback to GitHub raw URLs
 
